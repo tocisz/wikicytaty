@@ -1,0 +1,6 @@
+Section: Barbara
+Opis: przysłowie polskie
+Źródło: Nowa księga przysłów i wyrażeń przysłowiowych polskich, t. 2, oprac. Samuel Adalberg, PIW, Warszawa 1970, s. 390.
+Zobacz też: lód, odwilż, zima
+
+Gdy w świętą Barbarę gęś chodzi po lodzie, to Boże Narodzenie będzie po wodzie.

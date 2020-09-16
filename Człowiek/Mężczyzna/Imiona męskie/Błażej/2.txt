@@ -1,0 +1,4 @@
+Section: Błażej
+Opis: przysłowie polskie
+
+Jak śnieg w świętego Błażeja, pogodna będzie Wielka Niedziela.

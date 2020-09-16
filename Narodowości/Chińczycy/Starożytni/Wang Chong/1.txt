@@ -1,0 +1,3 @@
+Section: Wang Chong
+
+Co ma początek, musi mieć i koniec, a co ma koniec, musiało mieć początek.

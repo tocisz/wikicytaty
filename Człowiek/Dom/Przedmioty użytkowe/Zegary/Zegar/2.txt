@@ -1,0 +1,5 @@
+Section: Zegar
+Autor: Stanisław Jachowicz
+
+Bije zegar godziny, my wtedy mawiamy:
+'Jak ten czas szybko mija!' – a to my mijamy.

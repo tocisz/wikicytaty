@@ -1,0 +1,4 @@
+Section: Zmiennicy / Odcinek 11, Antycypacja
+Postać: redaktor Mroczek
+
+Trup jest trupem raz na zawsze.

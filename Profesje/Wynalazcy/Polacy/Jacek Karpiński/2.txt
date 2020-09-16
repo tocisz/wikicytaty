@@ -1,0 +1,5 @@
+Section: Jacek Karpiński
+Opis: o początkach komputera KAR-65.
+Źródło: http://www.crn.pl/artykuly/archiwum/2007/5/martwie-sie-tylko-wtedy-jesli-moge-cos-zmienic?searchterm=jacek Martwię się tylko wtedy, jeśli mogę coś zmienić…, wywiad z Jackiem Karpińskim, crn.pl, 15 maja 2010
+
+I tak powstał KAR-65, który pracował z prędkością 100 tysięcy operacji na sekundę. To było wtedy strasznie dużo. Odry pracowały parę razy wolniej i były przeszło trzydziestokrotnie droższe. KAR-65 kosztował 6 milionów złotych, a każda Odra ​–​ 200 milionów! Poza tym to była maszyna skonstruowana na całkiem innych zasadach niż wszystkie, które wtedy budowano. Zrobiłem maszynę ze zmiennym przecinkiem, asynchroniczną, bez zegara, sterowaną za pomocą pięciu układów automatów skończonych. To była kompletna nowość! Nikt tak wtedy nie robił.

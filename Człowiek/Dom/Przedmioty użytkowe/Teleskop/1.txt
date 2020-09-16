@@ -1,0 +1,4 @@
+Section: Teleskop
+Autor: Karl Farkas
+
+Człowiek woli patrzeć przez dziurkę od klucza niż przez lunetę.

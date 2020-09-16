@@ -1,0 +1,3 @@
+Section: Prędkość
+
+Pierwsza zasada zdesperowanego gracza: jeśli obstawiasz czerwone, na pewno wygrają czarne.

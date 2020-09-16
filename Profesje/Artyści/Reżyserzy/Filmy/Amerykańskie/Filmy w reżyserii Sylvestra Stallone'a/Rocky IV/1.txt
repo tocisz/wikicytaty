@@ -1,0 +1,4 @@
+Section: Rocky IV / Wypowiedzi postaci
+Postać: Ivan Drago
+
+Jak umrze, to umrze.

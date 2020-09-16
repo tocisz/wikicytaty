@@ -1,0 +1,4 @@
+Section: Wawrzyniec
+Opis: przysłowie polskie
+
+Na święty Wawrzyniec, wolny przez pola gościniec.

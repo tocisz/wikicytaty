@@ -1,0 +1,4 @@
+Section: Armata
+Opis: przysłowie malajskie
+
+Głusi nadają się do strzelania z armat.

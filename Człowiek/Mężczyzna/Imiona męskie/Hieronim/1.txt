@@ -1,0 +1,4 @@
+Section: Hieronim
+Opis: przysłowie polskie
+
+Hieronim zwykle upalnie się nosi, ale czasem wody rzek podnosi.

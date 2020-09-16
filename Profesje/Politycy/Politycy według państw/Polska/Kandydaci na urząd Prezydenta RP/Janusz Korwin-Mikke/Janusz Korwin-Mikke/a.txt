@@ -1,0 +1,4 @@
+Section: Janusz Korwin-Mikke / C
+Źródło: Program III PR, 10 listopada 2006
+
+Celem ruchu drogowego nie jest bezpieczeństwo, tylko szybkość.

@@ -1,0 +1,5 @@
+Section: Stefan Banach / O Stefanie Banachu
+Autor: Stanisław Mazur
+Źródło: http://www.lwow.com.pl/m.htm Dlaczego Stefan Banach?, lwow.com.pl
+
+Rok 1922, w którym Stefan Banach w polskim czasopiśmie „Fundamenta Mathematicae” ogłosił swą rozprawę doktorską pod tytułem „Sur les operations dans les ensembles abstraits et leur application aux equations integraless”, jest datą przełomową w historii matematyki XX wieku. Ta kilkudziesięciostronicowa rozprawa ugruntowała bowiem ostatecznie podstawy analizy funkcjonalnej, nowej dyscypliny matematycznej, która – jak to wykazały rezultaty badan Stefana Banacha i innych – posiada kapitalne znaczenie dla dalszego rozwoju nie tylko samej matematyki, ale również nauk przyrodniczych, a w szczególności fizyki.

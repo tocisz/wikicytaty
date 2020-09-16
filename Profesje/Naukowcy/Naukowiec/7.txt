@@ -1,0 +1,4 @@
+Section: Naukowiec
+Autor: Matthew Pearl, Klub Dantego
+
+Wielcy naukowcy czasami mogą być przeszkodą na ścieżce nauki.

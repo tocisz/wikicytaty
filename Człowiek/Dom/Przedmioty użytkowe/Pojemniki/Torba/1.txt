@@ -1,0 +1,5 @@
+Section: Torba
+Opis: przysłowie polskie
+Zobacz też: dziadek
+
+Dziad jak odżyje, to cię torbą zabije.

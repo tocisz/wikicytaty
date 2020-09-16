@@ -1,0 +1,5 @@
+Section: Robert Foley
+Opis: fragment przedmowy.
+Źródło: Zanim człowiek stał się człowiekiem, przeł. K. Sabath, PIW, Warszawa 2001.
+
+Skutki powstania człowieka są w swojej skali niewspółmierne do przyczyn. W dziedzinie, w której wyobraźnię przykuwa zawsze to, co dramatyczne, romantyczne, mistyczne i niezwykle, gdzie zwyczajna nauka i upraszczające teorie ewolucyjne napotykają na silny opór, wyzwanie polega na przekonaniu czytelnika, że odpowiedzi nie kryją się w gwiazdach ani pod morskimi falami, lecz w codziennym życiu pradawnych populacji małp człekokształtnych zmuszonych do radzenia sobie z bardzo konkretnymi problemami społecznymi i ekologicznymi.

@@ -1,0 +1,8 @@
+Section: Hobbit, czyli tam i z powrotem
+Opis: zagadka zadana przez Golluma, odpowiedź brzmi wiatr.
+Źródło: rozdział 5, Zagadki w ciemnościach, s. 80
+
+Nie ma skrzydeł, a trzepocze,
+Nie ma ust, a mamrocze,
+Nie ma nóg, a pląsa,
+Nie ma zębów, a kąsa.

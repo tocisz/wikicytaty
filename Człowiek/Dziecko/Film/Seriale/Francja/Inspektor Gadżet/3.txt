@@ -1,0 +1,6 @@
+Section: Inspektor Gadżet
+Postać: Quimby
+Opis: wypowiadane na zakończenie serialu.
+Źródło: tyłówka serialu
+
+Nie wiem, jak ci się to udało, Gadżet, naprawdę.

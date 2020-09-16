@@ -1,0 +1,5 @@
+Section: Steve Jobs
+Opis: fragment przemówienia wygłoszonego 12 czerwca 2005 do studentów Uniwersytetu Stanforda.
+Źródło: Szukaj tego, co kochasz, „Stanford Report”, tłum. „Forum”, 29 sierpnia 2011.
+
+Potrzeba pasji i zaangażowania, żeby naprawdę dogłębnie coś zrozumieć, przeżuć, a nie tylko szybko przełknąć. Większość ludzi nie poświęca na to czasu.

@@ -1,0 +1,3 @@
+Section: Iloraz inteligencji
+
+inteligencja

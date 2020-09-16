@@ -1,0 +1,5 @@
+Section: Kazimierz Sosnkowski
+Opis: Słowo wstępne w książce generała Stanisława SosabowskiegoNajkrótszą drogą.
+Źródło: Słowo wstępne [w]: Stanisław Sosabowski, Najkrótszą drogą, Komitet Wydawniczy Polskich Spadochroniarzy, Londyn 1957, s. viii.
+
+(…) studium bitwy napisane w sposób żywy, zdradzający doświadczonego dowódcę, który w toku swej służby bił się na niejednym froncie i w wielu bojach brał udział; studium skrawka najnowszych dziejów wojskowości polskiej. Opis działań 1 Polskiej Brygady Spadochronowej w wielkiej operacji desantu powietrznego Sprzymierzonych nad Renem, niezależnie od swej wartości historycznej, z wielką sugestywnością wprowadza czytelnika w świat wysuniętych linii bojowych i w szczególną atmosferę kryzysów boju, tak dobrze znaną starym żołnierzom.

@@ -1,0 +1,5 @@
+Section: Paul Baran
+Opis: wspominając pracę nad systemem zdalnego odpalania i sterowania międzykontynentalnymi rakietami balistycznymi typu LGM-30 Minuteman przenoszącymi głowice jądrowe.
+Źródło: Wojciech Orliński, Człowiek, który wynalazł internet. Biografia Paula Barana, wyd. Agora, Warszawa 2019, s. 151.
+
+Wielu z nas poczuło, że o ile nie zaprojektuje się bardzo starannie systemu kontroli – pracujemy nad najbardziej niebezpieczną rzeczą w naszym życiu.

@@ -1,0 +1,5 @@
+Section: Garnek
+Opis: przysłowie polskie
+Źródło: Roman Burzyński, Polska ma więcej niż 1000 lat, Ossolineum, Wrocław 1961, s. 116.
+
+Nie święci garnki lepią.

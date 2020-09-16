@@ -1,0 +1,4 @@
+Section: Dziecko / D
+Opis: przysłowie fińskie
+
+Dziecko długo noszone na rękach nigdy nie nauczy się chodzić.

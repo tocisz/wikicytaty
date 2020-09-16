@@ -1,0 +1,4 @@
+Section: Leonhard Euler
+Opis: ostatnie słowa Leonharda Eulera.
+
+Umieram.

@@ -1,0 +1,3 @@
+Section: Konfucjusz / C
+
+Cieśla, który chce dobrze robotę wykonać, musi wpierw naostrzyć swe narzędzia.

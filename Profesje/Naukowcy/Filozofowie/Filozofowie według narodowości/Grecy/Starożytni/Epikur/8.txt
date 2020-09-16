@@ -1,0 +1,3 @@
+Section: Epikur / C
+
+Cnota jest rozumiana jako umiejętność racjonalnego panowania nad swoimi potrzebami i najprostszego ich realizowania.

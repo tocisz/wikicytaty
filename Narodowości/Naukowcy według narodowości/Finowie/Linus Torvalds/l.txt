@@ -1,0 +1,5 @@
+Section: Linus Torvalds / N
+Opis: przedstawiając się na Linux Expo 1998 w Durham, Płn. Karolina.
+Źródło: za Under the Radar: How Red Hat Changed the Software Business – and Took Microsoft by Surprise (1999) Roberta Younga i Wendy Goldman Rohm, s. 111; także w Just for Fun: The Story of an Accidental Revolutionary (2001) Linusa Torvaldsa i Davida Diamonda
+
+Nazywam się Linus Torvalds i jestem twoim bogiem.

@@ -1,0 +1,8 @@
+Section: Administrator
+Autor: Tomasz Ganicz, „Mnie to po prostu kręci”: wywiad z Tomaszem Ganiczem, prezesem Stowarzyszenia Wikimedia Polska, Wikinews
+Zobacz też: Wikipedia
+
+Z dzisiejszej perspektywy może się wydać śmieszne, że były czasy, gdy administratorów Wikipedii wybierano metodą:
+– „Chcesz być adminem?”
+– „Err... a co to jest?”
+– „No to już jesteś”

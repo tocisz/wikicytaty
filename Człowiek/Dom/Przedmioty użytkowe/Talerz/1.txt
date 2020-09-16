@@ -1,0 +1,5 @@
+Section: Talerz
+Autor: Jan Brzechwa, Talerz
+
+Co o tym sądzić należy:
+Czy talerz stoi, czy leży?

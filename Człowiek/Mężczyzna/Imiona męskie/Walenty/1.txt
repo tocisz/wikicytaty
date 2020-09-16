@@ -1,0 +1,4 @@
+Section: Walenty
+Opis: przysłowie polskie
+
+Gdy na św. Walenty mróz, chowaj sanie, szykuj wóz.

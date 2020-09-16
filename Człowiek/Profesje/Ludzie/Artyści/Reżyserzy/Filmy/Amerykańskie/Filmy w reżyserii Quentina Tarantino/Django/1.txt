@@ -1,0 +1,5 @@
+Section: Django
+Postać: dr King Schultz
+Opis: do niewolników.
+
+Co do was, nieszczęśnicy, najbliższa przyszłość stawia przed panami dwie możliwości. Pierwsza – możecie wyciągnąć żywego Specka spod konia i donieść go do miasta. To jest jakieś 60 kilometrów z kierunku, z którego przyszliście. Druga – możecie się rozkuć, wziąć karabin, wpakować mu kulkę w łeb, pochować obu i udać się w bardziej oświecone rejony. Wasz wybór. Na wypadek, gdyby astronomia byłaby obca – to jest Gwiazda Polarna.

@@ -1,0 +1,4 @@
+Section: Marcin
+Opis: przysłowie polskie
+
+Bywa zawsze na Marcinie u nas ogień na kominie.

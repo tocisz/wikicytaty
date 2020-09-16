@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: lis na pożegnanie do Małego Księcia.
+
+Pozostajesz na zawsze odpowiedzialny za to, co oswoiłeś.

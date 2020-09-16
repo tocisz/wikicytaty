@@ -1,0 +1,4 @@
+Section: Baba
+Opis: przysłowie polskie
+
+Jedna baba drugiej babie wsadziłaby w tyłek grabie.

@@ -1,0 +1,5 @@
+Section: Diabeł / Przysłowia o diable
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/docmetadata?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, Drukarnia Emila Skiwskiego, Warszawa 1889–1894, s. 93.
+
+Diabłu i święcona woda nie pomoże.

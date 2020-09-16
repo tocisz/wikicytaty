@@ -1,0 +1,4 @@
+Section: David Hilbert
+Opis: odpowiedź na pytanie, dlaczego nie spróbował rozwiązać wielkiego twierdzenia Fermata.
+
+Przed rozpoczęciem musiałbym spędzić 3 lata intensywnych studiów, a nie mam tyle czasu, żeby zmarnować na prawdopodobną porażkę.

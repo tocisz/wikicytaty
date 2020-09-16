@@ -1,0 +1,4 @@
+Section: Roch
+Opis: przysłowie polskie
+
+Od świętego Rocha na pole już socha.

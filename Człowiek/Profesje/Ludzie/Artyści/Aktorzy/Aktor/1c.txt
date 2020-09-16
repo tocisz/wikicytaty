@@ -1,0 +1,4 @@
+Section: Aktor / C
+Autor: Denis Diderot
+
+Czasem trzeba, aby aktor poświęcił się dla poety.

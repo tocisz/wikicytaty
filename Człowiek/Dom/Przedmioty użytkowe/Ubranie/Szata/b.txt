@@ -1,0 +1,4 @@
+Section: Szata
+Autor: Lope de Vega
+
+Twarz zmienia się przy szaty zmianie.

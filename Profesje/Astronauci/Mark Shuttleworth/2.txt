@@ -1,0 +1,4 @@
+Section: Mark Shuttleworth
+Źródło: http://www.technonews.pl/Technonews/1,94439,6189842,Sponsor_Ubuntu__Windows_7_to_swietny_system.html technonews, 22.01.2009
+
+Mamy do czynienia z dziwną sytuacją, ponieważ oni po prostu rozdają Windows XP – oddają go praktycznie za darmo producentom netbooków. Przy takiej agresywnej strategii cenowej rzeczywiście niektórzy mogą mówić, że Linux jest droższy niż Windows XP.

@@ -1,0 +1,5 @@
+Section: Kolumbowie / Wypowiedzi postaci
+Postać: "Kolumb"
+Opis: Wielokrotnie używany przez Staszka "Kolumba" zwrot do Basi.
+
+Basik...

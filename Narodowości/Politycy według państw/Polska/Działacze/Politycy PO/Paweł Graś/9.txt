@@ -1,0 +1,5 @@
+Section: Paweł Graś
+Opis: komentarz dla Radia Zet dotyczący ataków na strony rządowe.
+Źródło: http://wiadomosci.gazeta.pl/wiadomosci/1,114884,11011548,Gras_o_zablokowaniu_stron_sejmu_i_premiera___Trudno.html gazeta.pl, 22 stycznia 2012
+
+Trudno mówić o ataku hakerów. Żadne z zablokowanych stron nie zostały naruszone. Nie było próby włamania się na serwery, zmiany treści stron. To zjawisko wynika z ogromnego zainteresowania stronami. Mieliśmy kilka milionów wejść

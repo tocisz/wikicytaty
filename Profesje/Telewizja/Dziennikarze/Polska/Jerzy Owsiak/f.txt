@@ -1,0 +1,4 @@
+Section: Jerzy Owsiak
+Opis: hasło wypowiadane przed każdym finałem WOŚP.
+
+Oj, się będzie działo!

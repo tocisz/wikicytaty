@@ -1,0 +1,4 @@
+Section: Starzec
+Opis: przysłowie arabskie
+
+Rada starca jest lepsza niż pomoc młodzieńca.

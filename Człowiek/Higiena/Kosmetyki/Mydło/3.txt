@@ -1,0 +1,4 @@
+Section: Mydło
+Autor: Jerzy Andrzejewski
+
+Miłość jest jak mydło, ubywa jej przy używaniu.

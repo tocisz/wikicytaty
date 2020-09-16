@@ -1,0 +1,3 @@
+Section: Albert Einstein / W
+
+Wszystko powinno się konstruować w sposób możliwie najprostszy, ale nie uproszczony.

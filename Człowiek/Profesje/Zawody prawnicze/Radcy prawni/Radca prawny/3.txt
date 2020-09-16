@@ -1,0 +1,5 @@
+Section: Radca prawny
+Opis: fragment Kodeksu etyki radcy prawnego uchwalonego w 2014 przez Krajowy Zjazd Radców Prawnych
+Źródło: http://kirp.pl/etyka-i-wykonywanie-zawodu/etyka/kodeks-etyki-radcy-prawnego/ Kodeks etyki radcy prawnego (2014), kirp.pl, data dostępu: 19 maja 2018
+
+Radca prawny wykonujący w sposób samodzielny i niezależny wolny zawód służy interesom wymiaru sprawiedliwości jak również tym, których prawa i wolności zostały mu powierzone w celu ochrony. Zawód radcy prawnego podlegający ochronie Konstytucji Rzeczypospolitej Polskiej stanowi jedną z gwarancji poszanowania prawa. Jest to zawód zaufania publicznego respektujący ideały i obowiązki etyczne ukształtowane w toku jego wykonywania.

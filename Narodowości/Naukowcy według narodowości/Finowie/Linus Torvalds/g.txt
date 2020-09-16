@@ -1,0 +1,4 @@
+Section: Linus Torvalds / M
+Źródło: http://lwn.net/Articles/246381/ Re: clarification on git, central repositories and commit access lists (28 grudnia 2007)
+
+Mam ego wielkości małej planety.

@@ -1,0 +1,4 @@
+Section: Alfred Bester / Ludzie, którzy zamordowali Mahometa
+
+Taki Ampere na przykład jechał kiedyś na ważną konferencję naukową w Paryżu. Nagle w dorożce olśniła go jakaś myśl (z dziedziny elektryczności, jak sądzę), wyjął błyskawicznie ołówek i na ścianie powozu napisał równanie. Z grubsza brzmiało ono tak: dH=ipdl/r2, gdzie p jest odległością P od elementu dl; albo dH=i sin e d1/rz. Równanie to znane jest także jako prawo Laplace'a, chociaż Laplace nie był obecny na tej konferencji.
+Dorożka podjechała pod Akademię, Ampere wyskoczył, zapłacił woźnicy i pospieszył na konferencję obwieścić wszystkim o swoim odkryciu. Po czym stwierdził, że nie ma kartki z równaniem. Nagle przypomniał sobie, gdzie je zapisał, i puścił się za nim w pogoń po ulicach Paryża. Czasem sobie myślę, że w podobny sposób Fermat musiał zgubić dowód swego Wielkiego Twierdzenia, jakkolwiek i Fermata nie było na tej konferencji; zmarł mniej więcej dwieście lat wcześniej.

@@ -1,0 +1,21 @@
+Section: Tadeusz Baranowski / Na co dybie w wielorybie czubek nosa Eskimosa
+Opis: ankieta na pustyni
+
+Orient-men: Drodzy czytelnicy! W ramach pracy naukowej, której się aktualnie poświęcam, przeprowadzę za chwilę ankietę na temat: „Człowiek i środowisko”, wśród ludzi mieszkających w takich samych warunkach i z zainteresowaniem wysłuchamy, co mają oni do powiedzenia na ten temat. Czy odpowiada panu środowisko, w jakim pan przebywa?
+Więzień: Najbardziej tu odczuwam brak kina i teatru. To prawdziwa pustynia kulturalna.
+Orient-men: A panowie, dlaczego likwidujecie tak potrzebny punkt usługowy?
+Fryzjer: Co za pytanie! Brak wody fryzjerskiej zmusza nas do opuszczenia tego miejsca raz na zawsze.
+Orient-men: Pan jako zegarmistrz podziela tę opinie?
+Zegarmistrz z klepsydrami: To prawdziwy raj dla zegarmistrza! Myślę nawet o otworzeniu własnej fabryki zegarków.
+Orient-men: A co na to hydraulik?
+Hudraulik: Nawodnienie tego terenu jest tylko kwestią czasu.
+Orient-men: Pan jest tu ogrodnikiem?
+Ogrodnik: Nie wiem, co mówią inni, ale to prawdziwa oaza, proszę pana.
+Orient-men: Kapitanie, co pan powie na ten temat?
+Kapitan: To morze piasku jest fantastyczne!
+Orient-men: Senior torreador, dawno nie występował pan na arenie...
+Torreador: Z piachu szpady nie ukręcę.
+Orient-men: O, widzę że jest gospodyni tego terenu.
+Gospodyni: Ale tylko do pierwszego. Ciągle się tu ktoś kręci, patrz pan, ile piachu mi nanieśli...
+Orient-men: Dzień dobry panie prestigitatorze! Czy zechce pan mi powiedzieć...
+Prestigitator: To jakaś pomyłka! Jestem fata morgana.

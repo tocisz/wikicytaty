@@ -1,0 +1,3 @@
+Section: Tadeusz Fangrat / D
+
+Dyplomacja jest grą w szachy, w której narody dostają mata.

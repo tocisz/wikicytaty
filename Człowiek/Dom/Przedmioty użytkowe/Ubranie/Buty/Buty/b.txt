@@ -1,0 +1,4 @@
+Section: Buty
+Opis: przysłowie angielskie
+
+Najwygodniejsze są stare buty.

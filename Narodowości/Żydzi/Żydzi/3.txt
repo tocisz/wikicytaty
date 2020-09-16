@@ -1,0 +1,5 @@
+Section: Żydzi
+Autor: Tadeusz Dołęga-Mostowicz, powieść http://wiersze.wikia.com/index.php?title=Ostatnia_brygada&useskin=monobook Ostatnia brygada (1930), cz. 3, rozdz. III
+Opis: powiedzenie żydowskie użyte w wypowiedzi żydowskiego kupca zbożowego Jakuba Klajnadela w rozmowie z Dowmuntem.
+
+Jak Żyd je kurę, to albo kura była chora, albo Żyd jest chory.

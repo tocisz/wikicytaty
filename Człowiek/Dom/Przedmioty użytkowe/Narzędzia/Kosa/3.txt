@@ -1,0 +1,5 @@
+Section: Kosa
+Opis: przysłowie polskie
+Źródło: Janusz Berner, Mądrej głowie dość… przysłowie, op. cit., s. 158.
+
+Jak kosy nie wyklepiesz, a baby nie przetrzepiesz, to nie chce kosić kosa, a baba zła jak osa.

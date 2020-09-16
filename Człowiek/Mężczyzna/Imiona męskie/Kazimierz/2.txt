@@ -1,0 +1,4 @@
+Section: Kazimierz
+Opis: przysłowie polskie
+
+W dzień świętego Kazimierza zima do morza zmierza.

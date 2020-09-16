@@ -1,0 +1,4 @@
+Section: Sylwester
+Opis: przysłowie polskie
+
+W noc sylwestrową łagodnie, będzie kilka dni pogodnie.

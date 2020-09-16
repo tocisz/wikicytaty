@@ -1,0 +1,4 @@
+Section: Szminka
+Autor: Peter Bamm
+
+Szminka jest protestem przeciw niedoskonałości bytu.

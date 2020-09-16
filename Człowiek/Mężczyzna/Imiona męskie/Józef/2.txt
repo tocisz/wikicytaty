@@ -1,0 +1,4 @@
+Section: Józef
+Opis: przysłowie polskie
+
+Przyjdzie święty Józef z pomocą, porówna dzień z nocą.

@@ -1,0 +1,6 @@
+Section: Geralt z Rivii / Dialogi
+Opis: riposta Geralta na zaczepki chłopca imieniem Everett.
+Źródło: Krew elfów
+
+– Miecz. Na plecach. Dlaczego masz na plecach miecz?
+– Bo wiosło mi ukradli.

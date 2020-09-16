@@ -1,0 +1,4 @@
+Section: Suknia
+Źródło: przysłowie polskie z XIX wieku
+
+Kto się stroi w cudze suknie, rozbierają go na ulicy.

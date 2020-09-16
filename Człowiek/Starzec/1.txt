@@ -1,0 +1,4 @@
+Section: Starzec
+Opis: przysłowie islandzkie
+
+Każdy chce żyć długo, ale nikt nie chce być starcem.

@@ -1,0 +1,3 @@
+Section: Ludwig Wittgenstein / Tractatus Logico-Philosophicus
+
+2.0271 Przedmiot jest tym, co trwałe i stałe; konfiguracja – tym, co zmienne i nietrwałe.

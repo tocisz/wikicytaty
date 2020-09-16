@@ -1,0 +1,5 @@
+Section: Prezydent
+Autor: Adam Michnik, „Gazeta Wyborcza”, 3 lipca 1989
+Opis: tytuł artykułu Michnika, w którym po wyborach 4 czerwca 1989, rzucił pomysł odejścia od ustaleń Okrągłego Stołu.
+
+Wasz prezydent, nasz premier.

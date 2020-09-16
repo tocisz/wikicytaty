@@ -1,0 +1,4 @@
+Section: Narzędzie
+Autor: Ambrose Bierce
+
+Armata: narzędzie stosowane do poprawiania granic państwowych.

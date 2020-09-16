@@ -1,0 +1,4 @@
+Section: Linus Torvalds / C
+Źródło: C. DiBona, http://www.oreilly.com/catalog/opensources/book/linus.html Open Sources: Voices from the Open Source Revolution (28 sierpnia 2006), rozdział The Linux Edge, O’Reilly & Associates 1999, ISBN 1565925823
+
+Chciałbym powiedzieć, że wiedziałem, że tak się stanie, że to wszystko jest częścią wielkiego planu zdobycia władzy nad światem.

@@ -1,0 +1,4 @@
+Section: Leonhard Euler
+Źródło: G. Simmons, Calculus Gems (1992)
+
+Matematycy na próżno starali się odkryć jakiś porządek występowania liczb pierwszych i mamy powody by przypuszczać, że jest to tajemnica, którą ludzki umysł nigdy nie zgłębi.

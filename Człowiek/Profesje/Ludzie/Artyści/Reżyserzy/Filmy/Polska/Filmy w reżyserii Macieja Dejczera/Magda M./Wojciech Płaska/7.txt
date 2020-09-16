@@ -1,0 +1,5 @@
+Section: Wojciech Płaska
+Opis: o mądrościach Agaty.
+Źródło: odcinek 17
+
+Pierwsze przykazanie PR-u: wyróżniaj się.

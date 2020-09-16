@@ -1,0 +1,4 @@
+Section: Michael Hayden
+Źródło: wywiad Christiana Wernicke, Dziki Zachód w sieci, „Süddeutsche Zeitung”, tłum. „Forum”, 4 października 2010.
+
+W realnym świecie działalność wywiadowcza poprzedza potencjalne działania zbrojne. I zdobywanie informacji wywiadowczych jest tam na ogół łatwiejsze niż prowadzenie prawdziwej wojny: ustala się jedynie, gdzie znajdują się siły wroga. Nie niszczy się go. Natomiast w cyberświecie jest odwrotnie: o wiele trudniejszym zadaniem z technologicznego punktu widzenia jest dostać się do sieci wroga i ją rozpracować, niż po prostu ją zniszczyć.

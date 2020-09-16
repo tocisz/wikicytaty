@@ -1,0 +1,5 @@
+Section: Craig Venter
+Opis: o stworzeniu sztucznego organizmu jednokomórkowego – nowej bakterii z gatunku Mycoplasma.
+Źródło: wywiad Hubertusa Breuera, „Süddeutsche Zeitung”, tłum. „Forum”, 24 maja 2010
+
+Projekt wszczepiania sztucznego chromosomu do komórki i pobudzenia go tam do życia okazał się trudny. Udało nam się jednak przezwyciężyć wszystkie przeszkody.

@@ -1,0 +1,5 @@
+Section: Pinky i Mózg / Wypowiedzi postaci
+Postać: Mózg
+Opis: słowa powtarzane w każdym odcinku.
+
+Pinky, czy myślisz o tym samym co ja?

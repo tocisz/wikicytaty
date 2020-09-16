@@ -1,0 +1,3 @@
+Section: Peter Drucker
+
+Zysk nie jest wyjaśnieniem, przyczyną czy racjonalną przesłanką zachowań i decyzji biznesowych, lecz raczej testem ich zasadności.

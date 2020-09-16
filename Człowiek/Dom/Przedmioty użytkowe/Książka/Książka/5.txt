@@ -1,0 +1,4 @@
+Section: Książka / C
+Autor: Georg Christoph Lichtenberg
+
+Chciałbym znać tytuł ostatniej w świecie książki.

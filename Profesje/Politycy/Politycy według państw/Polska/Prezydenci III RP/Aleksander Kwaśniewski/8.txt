@@ -1,0 +1,5 @@
+Section: Aleksander Kwaśniewski / C
+Opis: podając przepis kulinarny.
+Źródło: TVN Style
+
+Ciasto powinno być tak wyrobione, aby mieć konsystencję sprawiającej przyjemność kobiecej piersi.

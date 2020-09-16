@@ -1,0 +1,5 @@
+Section: Poeta / P
+Autor: Tadeusz Różewicz, Kto jest poetą
+
+Poetą jest ten który pisze wiersze
+I ten który wierszy nie pisze

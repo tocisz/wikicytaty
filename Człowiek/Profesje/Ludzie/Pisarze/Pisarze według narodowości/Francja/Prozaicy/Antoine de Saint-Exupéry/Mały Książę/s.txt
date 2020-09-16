@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: lis do Małego Księcia.
+
+Mowa jest źródłem nieporozumień.

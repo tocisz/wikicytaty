@@ -1,0 +1,4 @@
+Section: Ruprecht
+Opis: przysłowie polskie
+
+Gdy w Ruprechta jasno, ponoć w czerwcu krasno.

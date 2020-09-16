@@ -1,0 +1,4 @@
+Section: Pisarz
+Autor: Emile Cioran, Wyznania i anatemy
+
+Dla pisarza zmiana języka jest jak pisanie miłosnego listu za pomocą słownika.

@@ -1,0 +1,6 @@
+Section: Adam Naruszewicz
+Opis: przykład zastosowania inwersji.
+Źródło: Reduta
+Zobacz też: nałóg
+
+Nałóg z występków cnoty porobił modele.

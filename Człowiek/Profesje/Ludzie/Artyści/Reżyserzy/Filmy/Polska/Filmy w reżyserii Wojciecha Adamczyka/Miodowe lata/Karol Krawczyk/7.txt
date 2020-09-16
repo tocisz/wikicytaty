@@ -1,0 +1,4 @@
+Section: Karol Krawczyk / C
+Opis: często powtarzane słowa.
+
+Czepiasz się, czepiasz się!

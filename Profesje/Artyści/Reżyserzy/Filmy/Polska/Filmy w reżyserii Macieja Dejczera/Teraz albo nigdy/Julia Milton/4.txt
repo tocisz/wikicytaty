@@ -1,0 +1,4 @@
+Section: Julia Milton
+Źródło: odcinek 9.
+
+Faceci są skomplikowani jak konstrukcja grabi.

@@ -1,0 +1,5 @@
+Section: Daniel Naborowski
+Opis: tytuł wiersza.
+Źródło: Paweł Hertz, Władysław Kopaliński, http://books.google.pl/books?id=7BVHAAAAIAAJ&q=%22Bia%C5%82og%C5%82owa+i+ryba+smak+sw%C3%B3j+w+%C5%9Brodku+nosi.%22&dq=%22Bia%C5%82og%C5%82owa+i+ryba+smak+sw%C3%B3j+w+%C5%9Brodku+nosi.%22&hl=pl&ei=LD1MTfCULoHQhAf_9YntDg&sa=X&oi=book_result&ct=result&resnum=2&ved=0CDIQ6AewAQ Księga cytatów z polskiej literatury pięknej od XIV do XX wieku, PIW, Warszawa 1975.
+
+Białogłowa i ryba smak swój w środku nosi.

@@ -1,0 +1,4 @@
+Section: Mark Shuttleworth
+Źródło: http://www.pcworld.pl/news/160178/Shuttleworth.Ubuntu.ma.byc.ladniejsze.niz.Mac.OS.X.html PC World, 24 lipca 2008
+
+Łatwo zauważyć, że świat potrzebuje wolnego oprogramowania, ale powinno być ono jednocześnie eleganckie i piękne. I właśnie taki może być w przyszłości Ubuntu Linux.

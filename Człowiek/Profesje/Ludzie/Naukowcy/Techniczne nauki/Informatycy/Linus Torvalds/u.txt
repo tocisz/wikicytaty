@@ -1,0 +1,5 @@
+Section: Linus Torvalds / P
+Źródło: http://groups.google.com/groups?selm=1992Jan29.231426.20469%40klaava.Helsinki.FI Post na grupę comp.os.minix, 29 stycznia 1992 (28 sierpnia 2006)
+Opis: jak twierdzi Torvalds, rzekł to „pół-żartem, pół-serio”.
+
+Przenośność jest dla ludzi, którzy nie potrafią pisać nowych programów.

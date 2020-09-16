@@ -1,0 +1,3 @@
+Section: Ezop
+
+Jedna jaskółka nie czyni wiosny.

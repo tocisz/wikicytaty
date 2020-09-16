@@ -1,0 +1,4 @@
+Section: Małgorzata
+Opis: przysłowie polskie
+
+Gdy na Małgorzaty mróz, jeszcze długo nie pojedzie wóz.

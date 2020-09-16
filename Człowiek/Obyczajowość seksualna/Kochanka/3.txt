@@ -1,0 +1,4 @@
+Section: Kochanka
+Autor: Henryk Święcicki
+
+Kochanka to kobieta podwójnie kochana.

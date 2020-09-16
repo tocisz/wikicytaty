@@ -1,0 +1,4 @@
+Section: Zegar
+Autor: Friedrich Schiller
+
+Zegar nie bije dla tych, co szczęśliwi!

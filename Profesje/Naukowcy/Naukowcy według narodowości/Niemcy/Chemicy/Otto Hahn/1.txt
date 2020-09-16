@@ -1,0 +1,5 @@
+Section: Otto Hahn
+Opis: o metafizyce.
+Źródło: Wacław Gołembowicz, Uczeni w anegdocie, wyd. Wiedza Powszechna, Warszawa 1968, s. 242.
+
+[Metafizyka] to poszukiwanie czarnego kota w ciemnym pokoju, w którym w ogóle nie ma żadnego kota.

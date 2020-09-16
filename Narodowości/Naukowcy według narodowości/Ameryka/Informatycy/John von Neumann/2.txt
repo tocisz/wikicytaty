@@ -1,0 +1,3 @@
+Section: John von Neumann
+
+Są dwie przyczyny, z powodu których powinien Pan swą „funkcję niepewności” nazwać entropią. Pierwszą z nich jest to, że funkcja taka jest już używana w mechanice statystycznej i tak właśnie się nazywa, a drugą, być może ważniejszą, jest to, że nikt tak dokładnie nie wie czym właściwie jest entropia, stąd też we wszystkich dyskusjach będzie Pan miał zawsze przewagę.

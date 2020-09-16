@@ -1,0 +1,5 @@
+Section: Chojrak - tchórzliwy pies / Komputer
+Opis: do Chojraka, gdy na ekranie przy Muriel pokazały się nieodpowiednie treści.
+Źródło: odcinek 30, Twardziel Chojrak
+
+Hej! Wciśnij ten klawisz jeszcze raz.

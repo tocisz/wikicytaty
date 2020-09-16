@@ -1,0 +1,5 @@
+Section: Mroczny rycerz / Wypowiedzi postaci / Inni
+Postać: James Gordon
+Opis: o Batmanie.
+
+Jest bohaterem, na którego Gotham zasługuje, ale którego teraz nie potrzebuje.

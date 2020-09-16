@@ -1,0 +1,5 @@
+Section: Leszek Retman
+Opis: o mrożonej pizzy.
+Źródło: odcinek 264
+
+Przecież to nie jest pizza, tylko tablica Mendelejwa. Z tego, co tam jest, można spokojnie skonstruować bombę atomową.

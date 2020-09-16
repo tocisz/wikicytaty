@@ -1,0 +1,6 @@
+Section: Baba
+Opis: przysłowie polskie
+Zobacz też: koń, wóz
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, op. cit., s. 6.
+
+Baba z wozu, koniom lżej.

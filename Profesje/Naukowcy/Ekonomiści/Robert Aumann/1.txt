@@ -1,0 +1,4 @@
+Section: Robert Aumann
+Źródło: http://www.polityka.pl/spoleczenstwo/niezbednikinteligenta/259140,1,rozmowa-z-noblista-prof-robertem-aumannem-o-grach-spolecznych.read polityka.pl, 17 czerwca 2008
+
+Ekonomia jest nauką o bodźcach, którymi kierują się ludzie, podejmując decyzje rynkowe. Teoria gier, którą zajmuję się prawie od początku mojej pracy naukowej, też się zajmuje bodźcami. Często się uważa, że teoria gier jest częścią ekonomii. Ja bym powiedział na odwrót. Ekonomia jest częścią teorii gier. Inną jej częścią są stosunki międzynarodowe, psychologia, socjologia, biologia, nauki polityczne. Polityka także jest sztuką posługiwania się rozmaitymi bodźcami w celu osiągnięcia zamierzonego celu.

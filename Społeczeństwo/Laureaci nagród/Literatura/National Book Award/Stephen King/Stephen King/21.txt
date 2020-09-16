@@ -1,0 +1,4 @@
+Section: Stephen King / Mroczna wieża
+Opis: pierwsze zdanie tomu I.
+
+Człowiek w czerni uciekał przez pustynię, a rewolwerowiec podążał w ślad za nim.

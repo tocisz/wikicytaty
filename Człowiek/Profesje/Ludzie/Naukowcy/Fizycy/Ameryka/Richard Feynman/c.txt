@@ -1,0 +1,4 @@
+Section: Richard Feynman / Inne
+Opis: z rozmowy z Lee Smolinem
+
+Jeżeli chcesz odkryć coś ważnego, pracuj tylko nad pytaniami, z których można wyprowadzić przewidywania eksperymentalne.

@@ -1,0 +1,4 @@
+Section: Roch
+Opis: przysłowie polskie
+
+Na święty Roch, w stodole już groch.

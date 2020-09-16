@@ -1,0 +1,4 @@
+Section: Dziennikarz
+Autor: Hugo Steinhaus
+
+Dziennikarze nie interesują się wcale wiadomościami, które podają, tak jak kelnerzy nie mają apetytu na potrawy, które przynoszą.

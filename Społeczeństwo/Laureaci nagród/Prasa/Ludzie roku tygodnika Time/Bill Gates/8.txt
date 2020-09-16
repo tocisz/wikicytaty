@@ -1,0 +1,5 @@
+Section: Bill Gates / Komputery
+Opis: o spocie Apple dotyczącym bezpieczeństwa.
+Źródło: Chip.pl
+
+Obecnie ludzie od bezpieczeństwa włamują się do maców każdego dnia, wymyślają nowe exploity, dzięki którym można całkowicie przejąć kontrolę nad maszyną. Niech ktoś spróbuje coś takiego zrobić z Windowsem chociaż raz na miesiąc.

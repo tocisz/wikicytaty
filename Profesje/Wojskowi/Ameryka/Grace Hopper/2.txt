@@ -1,0 +1,3 @@
+Section: Grace Hopper
+
+Najbardziej niebezpiecznym wyrażeniem jest „zawsze to robiliśmy w ten sposób”.

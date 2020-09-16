@@ -1,0 +1,5 @@
+Section: Gustaw
+Opis: przysłowie polskie, dotyczące dnia 2 sierpnia.
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, Druk Emila Skiwskiego, Warszawa 1889–1894, s. 168.
+
+Na święty Gustaw kopy w polu ustaw.

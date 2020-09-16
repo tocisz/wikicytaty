@@ -1,0 +1,4 @@
+Section: Teczka
+Autor: Janusz Piechociński
+
+Kiedyś to były czarne teczki, a dzisiaj to są zwykłe karteczki.

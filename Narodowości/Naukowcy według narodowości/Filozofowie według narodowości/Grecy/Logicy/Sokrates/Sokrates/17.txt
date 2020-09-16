@@ -1,0 +1,4 @@
+Section: Sokrates / W
+Opis: często przytaczane w łacińskim tłumaczeniu: Scio me nihil scire.; Cytat przypisywany, utworzony wtórnie na podstawie słów Sokratesa przytoczonych przez Platona w Obronie Sokratesa: „Jemu się zdaje, że coś wie, choć nic nie wie, a ja, ja nic nie wiem, tak mi się nawet i nie zdaje”.
+
+Wiem, że nic nie wiem.

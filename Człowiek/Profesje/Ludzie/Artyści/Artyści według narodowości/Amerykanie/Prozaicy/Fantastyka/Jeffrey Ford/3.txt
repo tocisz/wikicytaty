@@ -1,0 +1,3 @@
+Section: Jeffrey Ford / Waga słów
+
+(...) Secmatte utrzymywał, że w zależności od swej długości, elementów fonetycznych oraz struktury sylabicznej słowa drukowane posiadają stałe wartości, które jakimś sposobem można obliczyć matematycznie. Powstałe w ten sposób symbole liczbowe ich reprezentatywnych wartości mogą być wówczas rozpatrywane w oparciu o bliskość ich wzajemnego położenia w kontekście zdania, a wykwalifikowany badacz potrafiłby wydedukować skuteczność, czy też siłę, ich obecności. Moje rozumienie tego, do czego zmierzał, sprawiło, że zmieniłem swą początkową ocenę co do stopnia jego obłąkania.

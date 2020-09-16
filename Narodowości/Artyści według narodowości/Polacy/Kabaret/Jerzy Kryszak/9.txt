@@ -1,0 +1,5 @@
+Section: Jerzy Kryszak / Cytaty z programów kabaretowych
+Opis: o stringach i żartach.
+Źródło: Kabareton, Sopot Top Trendy
+
+Ani jedno, ani drugie nie powinno być luźne.

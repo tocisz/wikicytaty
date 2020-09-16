@@ -1,0 +1,3 @@
+Section: Skaza
+
+Istnieje wyjątek od każdej reguły, więc na reguły liczyć niepodobna.

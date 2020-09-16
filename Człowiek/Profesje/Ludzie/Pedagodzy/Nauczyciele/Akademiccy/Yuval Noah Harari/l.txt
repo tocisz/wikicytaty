@@ -1,0 +1,4 @@
+Section: Yuval Noah Harari / 21 lekcji na XXI wiek
+Źródło: s. 342.
+
+Żyjemy w epoce, gdy hakuje się ludzi. Algorytmy patrzą na ciebie w tym momencie. (…) Opierając się na big data i uczeniu maszynowym, coraz lepiej cię poznają. A gdy już te algorytmy będą znały cię lepiej niż ty sam, wówczas będą umiały cię kontrolować i tobą manipulować, a ty nie za bardzo będziesz w stanie coś na to poradzić.

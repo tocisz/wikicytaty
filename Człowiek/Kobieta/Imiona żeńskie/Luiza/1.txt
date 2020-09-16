@@ -1,0 +1,4 @@
+Section: Luiza
+Opis: przysłowie polskie
+
+Gdy na Luizy ładnie, śnieg późno spadnie.

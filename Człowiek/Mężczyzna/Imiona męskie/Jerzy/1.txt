@@ -1,0 +1,3 @@
+Section: Jerzy
+
+Leży Jerzy obok wieży i nie wierzy, że na wieży jeszcze jeden leży Jerzy.

@@ -1,0 +1,5 @@
+Section: Policjant
+Postać: Andrzej Gajewski w serialu Glina
+Opis: o pracy policjanta.
+
+Nikt normalny się do tego nie nadaje.

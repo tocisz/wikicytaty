@@ -1,0 +1,4 @@
+Section: Jorge Luis Borges / Opowiadania
+Źródło: opowiadanie Pamiętliwy Funes
+
+Nie tylko trudno było mu zrozumieć fakt, że pojęcie „pies” może obejmować tyle różnych jednostek różnej wielkości i różnego kształtu; ale niepokoiło go także i to, że pies widziany o godzinie trzeciej czternaście (z profilu) może posiadać tę samą nazwę co tenże pies widziany o trzeciej piętnaście (en face).

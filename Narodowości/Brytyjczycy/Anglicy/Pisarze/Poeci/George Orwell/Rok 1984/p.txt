@@ -1,0 +1,5 @@
+Section: Rok 1984 / N
+Opis: wnioski Winstona po przeczytaniu książki Goldsteina.
+Zobacz też: statystyka
+
+Normalność nie jest kwestią statystyki.

@@ -1,0 +1,5 @@
+Section: Georges Pompidou
+Opis: o pracach nad francuską bronią jądrową.
+Źródło: http://www.georges-pompidou.org/Documentation/Discours/discours_Pompidou_1963.pdf wywiad dla francuskiej telewizji, 15 listopada 1963
+
+To co jest dobre dla Anglików, dobre jest również dla Francuzów.

@@ -1,0 +1,3 @@
+Section: Ezop
+
+Bóg pomaga tym, co sami sobie pomagają.

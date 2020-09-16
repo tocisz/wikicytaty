@@ -1,0 +1,4 @@
+Section: Spodnie
+Opis: XX wiek
+
+Spodnie w klosz, ale pusty trzos.

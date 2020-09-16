@@ -1,0 +1,4 @@
+Section: Isaac Newton / Philosophiae naturalis. Principia mathematica (1687)
+Opis: tłum. Sławomir Brzezowski.
+
+Każdemu działaniu przeciwstawione jest równe mu przeciwdziałanie, to jest wzajemne działania dwóch ciał jednego na drugie są zawsze równe i skierowane ku tej drugiej części.

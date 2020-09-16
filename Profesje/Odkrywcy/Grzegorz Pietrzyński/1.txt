@@ -1,0 +1,4 @@
+Section: Grzegorz Pietrzyński
+Źródło: https://www.eso.org/public/poland/news/eso1311/ Mierzenie Wszechświata jeszcze dokładniej niż kiedykolwiek, eso.org, 6 marca 2013
+
+ESO dostarczyło perfekcyjnego zestawu teleskopów i instrumentów do obserwacji potrzebnych dla naszego projektu: HARPS dla ekstremalnie dokładnych prędkości radialnych względnie słabych gwiazd, SOFI dla precyzyjnych pomiarów na ile jasne gwiazdy te są w podczerwieni.

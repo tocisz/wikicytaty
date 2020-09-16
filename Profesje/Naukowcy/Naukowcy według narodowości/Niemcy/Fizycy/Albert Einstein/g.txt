@@ -1,0 +1,4 @@
+Section: Albert Einstein / C
+Zobacz też: logika, wiedza
+
+Czysto logiczne rozumowanie nie da nam żadnej wiedzy o realnym świecie.

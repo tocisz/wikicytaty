@@ -1,0 +1,4 @@
+Section: Autor
+Autor: Michał Hofman
+
+Autor aforyzmów chwyta słowa na gorącym uczynku.

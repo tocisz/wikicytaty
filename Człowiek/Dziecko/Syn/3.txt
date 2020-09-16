@@ -1,0 +1,4 @@
+Section: Syn
+Opis: przysłowie angielskie
+
+Co ojciec nakapie, jego syn rozdrapie.

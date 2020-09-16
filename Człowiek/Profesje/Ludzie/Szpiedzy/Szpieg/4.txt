@@ -1,0 +1,4 @@
+Section: Szpieg
+Autor: John le Carré
+
+Paranoja jest częścią składową codziennej pracy szpiegów. W „świecie równoległym” nic bowiem nie jest tym, na co wygląda, a każde lustro można oglądać także z drugiej strony.

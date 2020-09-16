@@ -1,0 +1,5 @@
+Section: Paul Baran
+Opis: w 1961.
+Źródło: Wojciech Orliński, Człowiek, który wynalazł internet. Biografia Paula Barana, wyd. Agora, Warszawa 2019, s. 191.
+
+Generał John Bestic poprosił mnie, żebym powtórzył dla jego sztabu swoje przemówienie w AFAG [Air Force Advisory Group] na temat rozproszonej łączności. Obecność ograniczono dla szarż od pułkownika wzwyż. Wystąpienie przyjęto dość dobrze, zwłaszcza wśród tych, którzy byli na poprzednim spotkaniu. Im częściej ktoś słyszy tę propozycję, tym łatwiej wzbudzić jego entuzjazm. To jak w Alicji w Krainie Czarów – wszystko, co powtórzono trzy razy, staje się prawdą. Pułkownik Bob Ferguson powiedział, że uważa, że koncepcja rozproszonej sieci wydaje mu się na tyle sensowna, że jest gotów wydać QOR [Qualitative Operational Requirement], jak tylko my będziemy gotowi.

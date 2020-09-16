@@ -1,0 +1,4 @@
+Section: John Kent
+Opis: opinia Kenta o Polakach po zakończeniu II wojny światowej.
+
+Nie było żadnych wątpliwości, Polacy walczyli ze znacznie większym sercem niż my.

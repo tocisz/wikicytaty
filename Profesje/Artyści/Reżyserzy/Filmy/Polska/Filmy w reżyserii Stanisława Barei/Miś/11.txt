@@ -1,0 +1,4 @@
+Section: Miś / Dialogi / Inne
+Opis: kartka informacyjna umieszczona za drzwiami w szatni.
+
+Za garderobę i rzeczy zostawione w szatni, szatniarz nie odpowiada.

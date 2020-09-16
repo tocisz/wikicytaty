@@ -1,0 +1,3 @@
+Section: Will Rogers
+
+Nic, czego nie da się przeliterować, nie będzie działać.

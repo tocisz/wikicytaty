@@ -1,0 +1,3 @@
+Section: Ludwig Wittgenstein / Tractatus Logico-Philosophicus
+
+2.05 Przez ogół istniejących stanów rzeczy wyznaczone jest również to, jakie stany rzeczy nie istnieją.

@@ -1,0 +1,4 @@
+Section: Lekarz
+Autor: Sacha Guitry
+
+Lekarze dają chorym środki nasenne, by mogli spać spokojnie; oni, lekarze.

@@ -1,0 +1,4 @@
+Section: Paul Gauguin
+Opis: tytuł obrazu.
+
+Skąd przybywamy? Kim jesteśmy? Dokąd idziemy?

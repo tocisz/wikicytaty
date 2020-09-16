@@ -1,0 +1,4 @@
+Section: Krytyk
+Autor: Mark Twain
+
+Publiczność jest jedynym krytykiem, którego opinia jest cokolwiek warta.

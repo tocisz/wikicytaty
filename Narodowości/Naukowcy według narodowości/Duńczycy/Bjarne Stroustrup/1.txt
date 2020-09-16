@@ -1,0 +1,4 @@
+Section: Bjarne Stroustrup
+Źródło: http://www2.research.att.com/~bs/bs_faq.html#really-say-that Bjarne Stroustrup's FAQ (ang.)
+
+Zawsze chciałem, aby mój komputer był tak samo łatwy w obsłudze, jak mój telefon. Moje życzenie urzeczywistniło się. Teraz nie wiem, jak używać mojego telefonu.

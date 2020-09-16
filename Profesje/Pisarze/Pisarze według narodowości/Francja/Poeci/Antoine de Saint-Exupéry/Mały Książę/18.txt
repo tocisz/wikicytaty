@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: latarnik na swojej planecie do Małego Księcia, o codziennym obowiązku gaszenia światła.
+
+Rozkaz jest rozkazem.

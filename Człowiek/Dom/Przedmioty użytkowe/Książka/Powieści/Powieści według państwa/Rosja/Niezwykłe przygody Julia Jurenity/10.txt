@@ -1,0 +1,4 @@
+Section: Niezwykłe przygody Julia Jurenity / D
+Postać: Mistrz
+
+Dusza jest abstrakcją.

@@ -1,0 +1,5 @@
+Section: Dyktator
+Postać: fryzjer
+Opis: zwracając się do szturmowca z prośbą o pomoc w starciu z innym szturmowcem.
+
+Proszę go aresztować za napad!

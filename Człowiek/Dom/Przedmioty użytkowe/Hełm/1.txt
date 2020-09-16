@@ -1,0 +1,9 @@
+Section: Hełm
+Źródło: Full Metal Jacket
+
+Pułkownik: Co to za napis na hełmie?
+Sierżant „Joker”: „Urodzony morderca”, sir.
+Pułkownik: Piszesz takie hasło na hełmie i nosisz znaczek pokoju. Czy to jakieś niezdrowe żarty? No więc, co to ma znaczyć?
+Sierżant „Joker”: Nie wiem, sir.
+Pułkownik: Niezbyt dużo wiesz. Zbierz się do kupy, bo oberwiesz! Odpowiedz na moje pytanie albo będziesz odpowiadał przed dowódcą.
+Sierżant „Joker”: Sir, miałem na myśli dualizm człowieka. Dualizm człowieka. To z Junga.

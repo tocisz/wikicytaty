@@ -1,0 +1,5 @@
+Section: Szczeniak zwany Scooby Doo / Wypowiedzi postaci / Daphne
+Opis: sposób przywoływania osobistego lokaja, spełniającego każde jej polecenie; często powtarzane słowa.
+Źródło: m.in. odcinek 19, Robot jest wśród nas
+
+Jenkins!

@@ -1,0 +1,4 @@
+Section: Tomasz
+Opis: powiedzenie
+
+Wolnoć, Tomku, w swoim domku.

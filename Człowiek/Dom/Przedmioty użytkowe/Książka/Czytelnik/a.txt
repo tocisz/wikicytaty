@@ -1,0 +1,5 @@
+Section: Czytelnik
+Autor: Blaise Pascal
+Zobacz też: książka
+
+Najlepsze książki to te, o których każdy czytelnik sądzi, że takie by też napisał.

@@ -1,0 +1,4 @@
+Section: Isaac Newton / Philosophiae naturalis. Principia mathematica (1687)
+Opis: klasyczne pojęcie czasu.
+
+Absolutny, prawdziwy i matematyczny czas sam z siebie i ze swojej własnej natury płynie równo i bez związku z czymkolwiek zewnętrznym.

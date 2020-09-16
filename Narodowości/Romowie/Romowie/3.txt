@@ -1,0 +1,4 @@
+Section: Romowie
+Opis: przysłowie rosyjskie
+
+Cygan raz w życiu prawdę mówi, a i to skłamie.

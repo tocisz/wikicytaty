@@ -1,0 +1,6 @@
+Section: Robert Burns
+Opis: tytuł szkockiej pieśni, tradycyjnie śpiewanej w wigilię Nowego Roku.
+Znaczenie: dawne dobre czasy.
+Źródło: Auld Lang Syne (1788)
+
+Ongiś, dawnymi laty.

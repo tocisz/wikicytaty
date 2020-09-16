@@ -1,0 +1,4 @@
+Section: Linus Torvalds / O
+Źródło: http://groups.google.com/group/mlist.linux.kernel/msg/938ffa86ae60dc7a Post na grupę mlist.linux.kernel, 25 maja 2002 (28 sierpnia 2006)
+
+Osobiście nie jestem zainteresowany tworzeniem sterowników, aby wyglądały jak programy użytkownika. Nie są, nie powinny być, a mikrojądra są po prostu głupie.

@@ -1,0 +1,3 @@
+Section: Antoni Regulski / Kolacja u Pascala / C
+
+Ceny skaczą w górę, a idą w dół.

@@ -1,0 +1,4 @@
+Section: Autor
+Autor: Napoleon Bonaparte
+
+Bóg także był autorem: jego proza to mężczyzna, jego poezja to kobieta.

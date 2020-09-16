@@ -1,0 +1,3 @@
+Section: Octave Mirbeau
+
+W sztuce dokładność staje się deformacją, a prawda – kłamstwem. Nie ma nic absolutnie dokładnego ani prawdziwego. Jest tyle prawd, ile ludzi.

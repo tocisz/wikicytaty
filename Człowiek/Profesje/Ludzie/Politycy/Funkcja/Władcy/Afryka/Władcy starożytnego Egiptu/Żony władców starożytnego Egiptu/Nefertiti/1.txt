@@ -1,0 +1,5 @@
+Section: Nefertiti / O Nefertiti
+Opis: hymn pochwalny na cześć królowej z Tell el-Amarna.
+Źródło: Andrzej Donimirski, Niezwykłe kobiety w dziejach, Instytut Wydawniczy Związków Zawodowych, Warszawa 1988, ISBN 8320206782, s. 13.
+
+O wielka księżniczka krwi w pałacu, o piękna i wspaniała w koronie z piór (…) ludzie ciszą się słysząc jej głos; pani miłości, wielka w kochaniu, która sprawia radość panu obydwu krain.

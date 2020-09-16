@@ -1,0 +1,4 @@
+Section: John Fitzgerald Kennedy
+Opis: przemówienie skierowane przeciw ZSRR (budowa muru berlińskiego)
+
+Jestem berlińczykiem.

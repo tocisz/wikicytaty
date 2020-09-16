@@ -1,0 +1,5 @@
+Section: Makary
+Opis: przysłowie polskie
+Zobacz też: styczeń
+
+Gdy Makary pogodny, cały styczeń chłodny.

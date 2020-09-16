@@ -1,0 +1,3 @@
+Section: Konfucjusz / C
+
+Czyż jedynie urząd piastując można rządy sprawować?

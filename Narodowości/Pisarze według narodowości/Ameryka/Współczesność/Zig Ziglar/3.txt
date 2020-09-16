@@ -1,0 +1,3 @@
+Section: Zig Ziglar
+
+Większość ludzi, którzy nie spełniają swoich marzeń ponosi porażkę nie przez brak możliwości a przez brak zaangażowania.

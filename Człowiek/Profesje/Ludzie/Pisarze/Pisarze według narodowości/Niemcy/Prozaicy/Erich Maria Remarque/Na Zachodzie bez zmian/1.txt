@@ -1,0 +1,5 @@
+Section: Na Zachodzie bez zmian / Tytuł
+Opis: był to typowy tekst niemieckich komunikatów podczas I wojny światowej z frontu zachodniego, kiedy nie miały miejsca żadne nowe wydarzenia, a w codziennych walkach ginęły tysiące żołnierzy niemieckich.
+Znaczenie: używane dla zobrazowania przyzwyczajenia do brutalności wojny i uznawania jej za stan normalny. Tak brzmiał również ostatni meldunek z Frontu Zachodniego do niemieckiego sztabu w Berlinie, wysłany 11 listopada 1918.
+
+Na Zachodzie bez zmian.

@@ -1,0 +1,4 @@
+Section: Pijak
+Opis: powiedzenie z XIX wieku.
+
+Święty świętego tak nie kocha jak pijak pijaka.

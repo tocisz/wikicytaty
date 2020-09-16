@@ -1,0 +1,4 @@
+Section: Cezar Borgia
+Opis: dewiza życiowa Cezara Borgii
+
+Albo (być) Cezarem, albo nikim.

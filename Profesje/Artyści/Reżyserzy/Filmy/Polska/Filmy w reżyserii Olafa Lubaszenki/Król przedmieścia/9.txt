@@ -1,0 +1,5 @@
+Section: Król przedmieścia
+Źródło: odc. 2, Kidnapping
+
+Lump: A ja miałem umowę z pańskim synem, że dostanę skrzynkę gorzały.
+Leszek: Dostanie pan, tylko nie skrzynkę, a jedną lufę, i nie gorzały. Lodówa, wyjaśnij panu jego sytuację.

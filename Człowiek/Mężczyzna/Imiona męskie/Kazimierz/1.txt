@@ -1,0 +1,4 @@
+Section: Kazimierz
+Opis: przysłowie polskie
+
+Dzień świętego Kazimierza resztki zimy uśmierza.

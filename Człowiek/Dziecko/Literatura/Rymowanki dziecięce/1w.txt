@@ -1,0 +1,16 @@
+Section: Rymowanki dziecięce / N
+
+Na zielonej łące,
+raz, dwa, trzy,
+pasły się zające,
+raz, dwa, trzy.
+A to była pierwsza zwrotka,
+teraz będzie druga zwrotka:
+
+Na zielonej łące,
+raz, dwa, trzy,
+pasły się zające,
+raz, dwa, trzy.
+A to była druga zwrotka,
+teraz będzie trzecia zwrotka:
+itd.

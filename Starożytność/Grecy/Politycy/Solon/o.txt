@@ -1,0 +1,3 @@
+Section: Solon
+
+Wielkie zadania trudno jest tak rozwiązać, aby zadowolić wszystkich.

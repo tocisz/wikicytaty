@@ -1,0 +1,5 @@
+Section: Adrian Zandberg / N
+Źródło: http://wyborcza.pl/1,75402,9206249,III_RP_dla_kazdego.html Jacek Kuroń i Adrian Zandberg: III RP dla każdego, „Gazeta Wyborcza”, 14 listopada 2001.
+Zobacz też: Linux
+
+Najlepszym przykładem wdzierania się aktywności społecznej w sferę tworzenia infrastruktury jest ruch Open Source. Tysiące programistów na całym świecie zorganizowanych w tę społeczność bezpłatnie tworzy i udostępnia światu alternatywne wobec komercyjnego oprogramowanie z systemem operacyjnym Linux na czele.

@@ -1,0 +1,4 @@
+Section: Cynik
+Autor: Oscar Wilde
+
+Cynik to człowiek, który zna cenę wszystkiego i nie zna wartości niczego.

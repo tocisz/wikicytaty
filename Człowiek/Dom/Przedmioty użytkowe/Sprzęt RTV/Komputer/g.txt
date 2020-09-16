@@ -1,0 +1,4 @@
+Section: Komputer
+Autor: Steve Wozniak
+
+Nigdy nie ufaj komputerowi, którego nie możesz wyrzucić przez okno.

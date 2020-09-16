@@ -1,0 +1,4 @@
+Section: Linus Torvalds / W
+Źródło: http://groups.google.com/groups?selm=4rikft%247g5%40linux.cs.Helsinki.FI Post na grupę dyskusyjną comp.os.linux.development.system, 5 lipca 1996 (28 sierpnia 2006)
+
+Widzisz, nie wystarczy być tylko dobrym koderem, aby stworzyć system taki jak Linux, musisz być także niezłym sukinsynem;-)

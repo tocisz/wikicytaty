@@ -1,0 +1,6 @@
+Section: Nomen omen
+Tłumaczenie: Młodość jest czasem nauki, lecz żaden wiek nie jest zbyt późny do podjęcia nauki.
+Opis: łacińska sentencja wypowiedziana przez Matyldę Bolesną.
+Źródło: rozdział 3, s. 27
+
+Adulescentia est tempus discendi, sed nulla aetas sera est ad discendum.

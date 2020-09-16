@@ -1,0 +1,3 @@
+Section: Ezop
+
+Bogowie jedno wznoszą, drugie przewracają.

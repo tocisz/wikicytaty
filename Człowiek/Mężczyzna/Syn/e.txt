@@ -1,0 +1,4 @@
+Section: Syn
+Opis: przysłowie arabskie
+
+Syn wykształcony w dzieciństwie, będzie radością oczu ojca, kiedy dorośnie.

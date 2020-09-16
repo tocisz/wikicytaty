@@ -1,0 +1,4 @@
+Section: Sakiewka
+Autor: Jeremias Gotthelf
+
+Bogactwo w radości nie zależy od sakiewki, lecz od serca.

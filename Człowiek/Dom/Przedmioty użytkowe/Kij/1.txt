@@ -1,0 +1,5 @@
+Section: Kij
+Opis: przysłowie polskie
+Opis: wszystko jest możliwe
+
+A kto z nami nie wypije, tego we dwa kije.

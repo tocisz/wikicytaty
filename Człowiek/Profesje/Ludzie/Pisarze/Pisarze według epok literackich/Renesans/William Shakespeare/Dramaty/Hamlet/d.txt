@@ -1,0 +1,5 @@
+Section: Hamlet
+Opis: Ofelia do Króla.
+Źródło: akt IV, scena 5
+
+Panie, wiemy, czym jesteśmy, lecz nie wiemy, czym możemy być

@@ -1,0 +1,3 @@
+Section: Tadeusz Gicgier / N
+
+Najwyższy stopień uprzywilejowania: mieć klucz do oddzielnej ubikacji.

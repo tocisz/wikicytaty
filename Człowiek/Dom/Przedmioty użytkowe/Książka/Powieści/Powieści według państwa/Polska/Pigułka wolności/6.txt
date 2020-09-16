@@ -1,0 +1,3 @@
+Section: Pigułka wolności
+
+Kliknięcie wprawia w ruch kulę ziemską, kliknięcie ją zatrzymuje.

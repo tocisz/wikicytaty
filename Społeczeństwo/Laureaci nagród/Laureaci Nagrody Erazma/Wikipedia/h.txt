@@ -1,0 +1,4 @@
+Section: Wikipedia
+Opis: slogan reklamowy Wikipedii
+
+Wolna encyklopedia, którą każdy może edytować.

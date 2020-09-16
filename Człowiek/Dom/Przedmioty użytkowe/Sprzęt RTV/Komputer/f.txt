@@ -1,0 +1,5 @@
+Section: Komputer
+Autor: Don Fabun, Three Roads To Awareness
+Źródło: Gordon Dryden, Jeanette Vos, Rewolucja w uczeniu, wyd. Moderski i S-ka, Poznań 2000, tłum. Bożena Jóźwiak, s. 201.
+
+Niezwykle skomplikowane obliczenia komputerowe dokonywane są za pomocą układów dwóch elementów.

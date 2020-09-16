@@ -1,0 +1,4 @@
+Section: Bernard (imię)
+Opis: przysłowie polskie
+
+Jeśli na Bernarda ziemia twarda, to będzie zima harda, a jak miękka, to lekka.

@@ -1,0 +1,5 @@
+Section: Marian Rejewski / O Marianie Rejewskim
+Opis: uchwała Senatu Rzeczypospolitej Polskiej, 17 października 2012.
+źródło: http://fakty.interia.pl/polska/news-senat-uczcil-pamiec-kryptologow-ktorzy-zlamali-kod-enigmy,nid,924300 Senat uczcił pamięć kryptologów, którzy złamali kod Enigmy, 17 października 2012, interia.pl
+
+Jednak to polski atak na niemiecką maszynę zakończył się jej rozszyfrowaniem w grudniu 1932 r.

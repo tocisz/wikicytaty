@@ -1,0 +1,4 @@
+Section: Georg Brandes
+Źródło: Rozum i przyroda
+
+Aby uzyskać pewność, ogromna większość osób nie będących specjalistami w danej dziedzinie jest skłonna zaakceptować wyniki naukowe pochodzące tylko od autorytetów. Jednakże istnieje ważna różnica pomiędzy wybitnym naukowcem, który jest otwarty i zachęca każdego zainteresowanego do sprawdzania zastosowanych metod i sugerowanych poprawek, a autorytetem, który pytania o swoją wiarygodność przypisuje słabości ducha pytających, tak jak czyni to [kardynał] Newman wobec osób kwestionujących nieomylność Biblii… Racjonalna nauka uważa, że dowody jej wiarygodności mogą zawsze ulec zmianie, jeśli występuje taka konieczność, podczas gdy nieracjonalny autorytaryzm uważa wymóg zmiany poglądów za postępowanie wywołane brakiem lojalności i wiary.

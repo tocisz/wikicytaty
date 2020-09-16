@@ -1,0 +1,3 @@
+Section: Ludwig Wittgenstein / Tractatus Logico-Philosophicus
+
+2.013 Każda rzecz jest niejako w przestrzeni możliwych stanów rzeczy. Przestrzeń tę mogę pomyśleć sobie jako pustą, ale nie mogę sobie pomyśleć rzeczy bez przestrzeni.

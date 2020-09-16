@@ -1,0 +1,4 @@
+Section: Poetyka
+Opis: literacka zasada odpowiedniości stylu.
+
+Nie mów niedbale o poważnych sprawach ani uroczyście o marnych.

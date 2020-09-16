@@ -1,0 +1,5 @@
+Section: Tomasz Sianecki
+Opis: o programie Szkło kontaktowe.
+Źródło: Arkadiusz Bartosiak, Łukasz Klinke, Grzegorz Miecugow i Tomasz Sianecki, „Playboy” nr 9, 2006
+
+Myślę, że część polityków wygaduje głupoty, żeby trafić do naszego programu.

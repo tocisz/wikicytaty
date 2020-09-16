@@ -1,0 +1,4 @@
+Section: Romowie
+Opis: przysłowie polskie
+
+Ucieka jak Cygan na kradzionym koniu.

@@ -1,0 +1,10 @@
+Section: Hobbit, czyli tam i z powrotem
+Opis: zagadka zadana przez Golluma, odpowiedź brzmi czas.
+Źródło: rozdział 5, Zagadki w ciemnościach, s. 83, 84
+
+Coś, przed czym w świecie nic nie uciecze,
+Co gnie żelazo, przegryza miecze,
+Pożera ptaki, zwierzęta, ziele,
+Najtwardszy kamień na mąkę miele,
+Królów nie szczędzi, rozwala mury,
+Poniża nawet najwyższe góry.

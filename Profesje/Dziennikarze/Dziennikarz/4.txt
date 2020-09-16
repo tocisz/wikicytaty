@@ -1,0 +1,4 @@
+Section: Dziennikarz
+Autor: Jorge Luis Borges, Księga piasku
+
+Dziennikarz pisze dla zapomnienia, podczas gdy chciałby pisać dla pamięci i czasu.

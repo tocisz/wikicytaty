@@ -1,0 +1,4 @@
+Section: Gus Grissom
+Opis: po locie Gemini 3.
+
+Jeśli zginiemy, chcemy, żeby ludzie się z tym pogodzili. Nasz zawód jest ryzykowny, ale mamy nadzieję, że jeśli coś nam się przytrafi, program nie ucierpi. Podbój kosmosu jest wart narażania życia.

@@ -1,0 +1,4 @@
+Section: Michaił Botwinnik
+Źródło: Mark Dworecki, Artur Jusupow, Metody szachowego treningu, Wydawnictwo Arden, Rzeszów 2000, str. 178.
+
+Domowe analizy mają swoje specyficzne właściwości – mistrz nie jest ograniczony czasem i może przestawiać figury. Mimo tej różnicy analiza i praktyczna gra ma wiele wspólnego. Kto chce zostać wybitnym szachistą, powinien doskonalić się w dziedzinie szachowej analizy.

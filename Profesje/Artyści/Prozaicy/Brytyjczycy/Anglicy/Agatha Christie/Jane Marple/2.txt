@@ -1,0 +1,5 @@
+Section: Jane Marple
+Opis: motto życiowe panny Marple, pojawia się w kilku powieściach z jej udziałem.
+Zobacz też: głupota, młodzież, starość
+
+Młodzi ludzie myślą, że starsi są głupcami, ale starsi ludzie wiedzą, że młodzi są głupcami.

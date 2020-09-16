@@ -1,0 +1,4 @@
+Section: Kucharz
+Opis: przysłowie ludowe
+
+Gdzie kucharek sześć, tam nie ma co jeść.

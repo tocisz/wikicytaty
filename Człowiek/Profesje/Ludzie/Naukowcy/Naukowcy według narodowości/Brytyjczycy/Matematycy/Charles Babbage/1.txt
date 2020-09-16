@@ -1,0 +1,5 @@
+Section: Charles Babbage
+Opis: na temat zaprojektowanej przez siebie maszyny liczącej.
+Źródło: Charles Babbage, http://www.gutenberg.org/ebooks/57532 Passages from the Life of a Philosopher (1864), p. 67; cyt. za: James Gleick, Informacja. Bit. wszechświat. rewolucja, tłum. Grzegorz Siwek, wyd. Znak, 2012.
+
+Dwukrotnie pytano mnie: „Panie Babbage, czy jeśli wprowadzi się do tej maszyny złe liczby, dostanie się poprawną odpowiedź?”. Za pierwszym razem spytał o to członek Wyższej Izby [Parlamentu], a za drugim Niższej. Nie jestem w stanie prawidłowo wyjaśnić tego pomieszania pojęć, jakie mogłoby wywołać owo pytanie.

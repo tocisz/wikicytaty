@@ -1,0 +1,4 @@
+Section: Witold Mańczak / Problemy językoznawstwa ogólnego
+Źródło: Gramatyka transformacyjno-generatywna, s. 189.
+
+(…) wszelka terminologia ma charakter konwencjonalny, a celem nauki jest nie wynajdywanie nowych nazw, ale odkrywanie nowych faktów lub dotychczas nie znanych związków między faktami.

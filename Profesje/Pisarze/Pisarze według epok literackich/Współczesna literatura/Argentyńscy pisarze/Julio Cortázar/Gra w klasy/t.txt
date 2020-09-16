@@ -1,0 +1,3 @@
+Section: Gra w klasy
+
+Nosić swój krzyż? Fatalnie nieprzenośny obiekt.

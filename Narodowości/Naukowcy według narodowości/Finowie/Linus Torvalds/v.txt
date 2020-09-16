@@ -1,0 +1,4 @@
+Section: Linus Torvalds / S
+Źródło: Stephen Shankland, http://archive.is/20120712121827/http://news.com.com/Torvalds+A+Solaris+skeptic/2008-1082_3-5498799.html Newsmaker: Torvalds: A Solaris skeptic, CNet 21 grudnia 2004 (28 sierpnia 2006)
+
+Syndrom NIH (nie wynaleziono tutaj) to zaraza.

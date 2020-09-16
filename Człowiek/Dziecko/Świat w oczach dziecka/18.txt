@@ -1,0 +1,4 @@
+Section: Świat w oczach dziecka / O
+Opis: o urzędnikach.
+
+Oni wcale nie pracują, tylko urzędują.

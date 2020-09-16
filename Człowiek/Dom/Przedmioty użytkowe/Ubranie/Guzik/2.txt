@@ -1,0 +1,4 @@
+Section: Guzik
+Opis: wyrażenie potoczne, używane w znaczeniu: nie interesuje mnie to (nie jestem zainteresowany, nie obchodzi mnie to).
+
+Guzik mnie to obchodzi.

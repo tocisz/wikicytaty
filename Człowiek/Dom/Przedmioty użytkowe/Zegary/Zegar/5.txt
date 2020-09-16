@@ -1,0 +1,4 @@
+Section: Zegar
+Autor: Jean Anouilh
+
+Jesteśmy niewolnikami wskazówek zegara, więźniami kalendarzy, gońcami kont bankowych.

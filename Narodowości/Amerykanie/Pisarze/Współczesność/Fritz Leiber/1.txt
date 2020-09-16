@@ -1,0 +1,5 @@
+Section: Fritz Leiber
+Opis: monolog astronauty w kosmosie
+Źródło: Wędrowiec
+
+Dziewięćdziesiąt dziewięć i dziewięć dziesiątych procent ludzi na Ziemi myśli, że tu się po prostu obijam – powiedział sam do siebie. – Wydaje im się, że badanie przestrzeni kosmicznej to tylko roboty publiczne dla bezrobotnych, największe od czasu piramid. Albo od czasu budowy kolei żelaznej. Ziemskie mięczaki! Troposferyczne pąkle! – wyszczerzył zęby w uśmiechu. – Słyszeli o kosmosie, ale wciąż nie wierzą, że kosmos istnieje. Nie byli tutaj i nie przekonali się na własne oczy, że Ziemi nie podtrzymuje żaden gigantyczny słoń, a słonia gigantyczny żółw. Kiedy mówię „planeta” i „statek kosmiczny”, kojarzy im się z horoskopem i latającym talerzem.

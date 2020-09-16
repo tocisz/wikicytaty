@@ -1,0 +1,6 @@
+Section: Dorota
+Opis: przysłowie polskie
+Źródło: Zygmunt Gloger, Encyklopedja staropolska ilustrowana, tom II, Laskauer, 1901, s. 29.
+Zobacz też: śnieg
+
+Na świętej Doroty będzie śniegu za płoty.

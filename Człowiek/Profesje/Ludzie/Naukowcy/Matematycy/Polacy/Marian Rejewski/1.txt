@@ -1,0 +1,4 @@
+Section: Marian Rejewski
+Źródło: http://marianrejewski.pl/wp/zanim-bylo-bletchley-park/ Zanim było Bletchley Park, marianrejewski.pl
+
+Dążyliśmy do maksymalnego, jak na owe czasy, zmechanizowania wykonywanych przez nas czynności. W tym właśnie celu zaprojektowaliśmy, a firma AVA zbudowała, maszynę stanowiącą agregat sześciu maszyn "Enigma". (...) Cena owych sześciu bomb wynosiła podobno około 100 000 złotych przedwojennych (wobec wybuchu wojny niezapłaconych).

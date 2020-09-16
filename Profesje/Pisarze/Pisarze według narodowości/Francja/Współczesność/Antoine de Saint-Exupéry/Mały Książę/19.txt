@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: geograf do Małego Księcia.
+
+Róże są efemeryczne. Efemeryczne, znaczy zagrożone bliskim unicestwieniem.

@@ -1,0 +1,3 @@
+Section: Ksawery Tartakower
+
+Remis może powstać nie tylko przez powtórzenie trzech ruchów, ale także przez wykonanie jednego słabszego.

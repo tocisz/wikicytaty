@@ -1,0 +1,6 @@
+Section: Tyrion Lannister
+Opis: rozmowa Bronna z Tyrionem.
+Źródło: Starcie królów, op. cit., s. 245
+
+– Jakieś paniątko z Tridentu skarży się, że ludzie twojego ojca spalili mu zamek, zgwałcili żonę i wybili wszystkich chłopów.
+– Mam wrażenie, że to się nazywa wojna.

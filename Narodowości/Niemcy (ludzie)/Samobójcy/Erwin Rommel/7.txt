@@ -1,0 +1,4 @@
+Section: Erwin Rommel
+Opis: opinia po konferencji o von Schweppenburgu i jego pomysłach.
+
+W przeciwieństwie do mnie, generał von Schweppenburg, który prawdopodobnie dobrze zna Brytyjczyków z czasów pokojowych, nigdy nie spotkał się z nimi w boju.

@@ -1,0 +1,4 @@
+Section: Linus Torvalds / G
+Źródło: http://lkml.org/lkml/2000/8/25/132 Wiadomość na listę mailową linux-kernel, 25 sierpnia 2000 (28 sierpnia 2006)
+
+Gadać jest łatwo. Pokażcie mi kod.

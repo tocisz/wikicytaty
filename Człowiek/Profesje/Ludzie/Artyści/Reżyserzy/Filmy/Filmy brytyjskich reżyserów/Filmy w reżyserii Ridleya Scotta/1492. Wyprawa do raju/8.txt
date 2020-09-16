@@ -1,0 +1,5 @@
+Section: 1492. Wyprawa do raju
+Postać: Krzysztof Kolumb
+Opis: o koniach, które mu przyprowadzono na następną wyprawę.
+
+Odeślij je. Wyglądają jak muły! Mam nadzieję, że z ludźmi będzie lepiej!

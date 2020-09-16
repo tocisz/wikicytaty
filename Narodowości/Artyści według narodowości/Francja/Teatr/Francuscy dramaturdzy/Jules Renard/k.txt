@@ -1,0 +1,4 @@
+Section: Jules Renard
+Zobacz też: błąd, prawda
+
+Tylko błędy nadają wartość prawdzie.

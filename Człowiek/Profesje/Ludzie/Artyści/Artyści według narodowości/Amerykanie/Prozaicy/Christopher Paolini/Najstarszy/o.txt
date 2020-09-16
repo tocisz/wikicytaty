@@ -1,0 +1,4 @@
+Section: Najstarszy
+Postacie: elfy
+
+Zręczne palce to zręczny umysł.

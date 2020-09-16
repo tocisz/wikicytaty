@@ -1,0 +1,4 @@
+Section: Marek Gaszyński / Cytaty z piosenek
+Opis: tytuł i fragment tekstu piosenki wykonywanej przez Wojciecha Gąssowskiego.
+
+Gdzie się podziały tamte prywatki niezapomniane?

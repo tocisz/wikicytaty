@@ -1,0 +1,4 @@
+Section: Tekla
+Opis: przysłowie polskie
+
+W dzień świętej Tekli będziemy ziemniaki piekli.

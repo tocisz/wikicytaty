@@ -1,0 +1,4 @@
+Section: Wikipedia
+Autor: Jimmy Wales
+
+Wyobraźmy sobie świat, w którym każda osoba ma wolny dostęp do sumy ludzkiej wiedzy. Do tego właśnie dążymy.

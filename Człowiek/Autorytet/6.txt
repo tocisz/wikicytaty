@@ -1,0 +1,4 @@
+Section: Autorytet
+Autor: Bertrand de Jouvenel
+
+Autorytet to zdolność pozyskiwania przyzwolenia innych.

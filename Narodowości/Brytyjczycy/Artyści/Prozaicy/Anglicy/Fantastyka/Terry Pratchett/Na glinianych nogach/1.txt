@@ -1,0 +1,4 @@
+Section: Na glinianych nogach
+Opis: Samuel Vimes o prowadzeniu śledztwa.
+
+Człowiek dochodził do prawdy nie przez eliminację tego, co niemożliwe, ale drogą o wiele trudniejszego procesu eliminacji tego, co możliwe.

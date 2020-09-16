@@ -1,0 +1,4 @@
+Section: Prokop
+Opis: przysłowie polskie
+
+Święty Prokop, marchwi ukop.

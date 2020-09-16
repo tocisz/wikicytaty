@@ -1,0 +1,5 @@
+Section: Chłop
+Opis: przysłowia polskie
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, wyd. Druk. E. Skiwskiego, Warszawa 1889–1894, s. 56.
+
+Chłop się nie przeżegna, dopóki piorunu nie usłyszy.

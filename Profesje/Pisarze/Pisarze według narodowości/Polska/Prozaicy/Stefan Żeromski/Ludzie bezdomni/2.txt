@@ -1,0 +1,5 @@
+Section: Ludzie bezdomni
+Opis: Reakcja Chmielnickiego, na nie wiedzę Judyma, który nie zna położenia Cisów.
+Postać: doktor Chmielnicki
+
+Cudze rzeczy znać dobrze, a swoje potrzeba!

@@ -1,0 +1,4 @@
+Section: Ted Stevens
+Opis: jako przewodniczący komisji handlu, transportu i nauki w sprawie kontroli internetu.
+
+Internet to nie jest wielka bryka, tylko seria tubek.

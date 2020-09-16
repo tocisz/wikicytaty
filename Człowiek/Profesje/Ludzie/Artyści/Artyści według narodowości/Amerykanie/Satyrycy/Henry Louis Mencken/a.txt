@@ -1,0 +1,10 @@
+Section: Henry Louis Mencken
+Opis: cytat przypisywany.
+Źródło: Jerzy Michałowski, Noty i anegdoty dyplomatyczne, red. Maria Błaszczykowa, wyd. Iskry, Warszawa 1977, s. 48.
+
+Jeżeli kobieta światowa mówi „nie” – to znaczy „być może”.
+Jeżeli mówi „być może” – to znaczy „tak”.
+Jeżeli mówi „tak” – to znaczy, że nie jest kobietą światową.
+Jeżeli dyplomata mówi „tak” – to znaczy „być może”.
+Jeżeli mówi „być może” – to znaczy „nie”.
+Jeżeli mówi „nie” – to znaczy, że nie jest dyplomatą.

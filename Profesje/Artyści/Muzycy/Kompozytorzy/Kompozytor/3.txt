@@ -1,0 +1,4 @@
+Section: Kompozytor
+Autor: Fryderyk Chopin
+
+Szczęśliwy, kto może być kompozytorem i wykonawcą zarazem.

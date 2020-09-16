@@ -1,0 +1,4 @@
+Section: Szef
+Autor: Alfred Daniel Brunet
+
+Szef przedsiębiorstwa ma dwa rodzaje współpracowników: tych, na których może liczyć, i tych, z którymi musi się liczyć.

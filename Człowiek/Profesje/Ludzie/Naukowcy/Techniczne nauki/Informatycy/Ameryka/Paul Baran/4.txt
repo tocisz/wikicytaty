@@ -1,0 +1,6 @@
+Section: Paul Baran
+Opis: fragment referatu „Łączność, komputery, ludzie” wygłoszonego po raz pierwszy w listopadzie 1965 roku na Połączonej Konferencji Komputerowej w Las Vegas.
+Źródło: Wojciech Orliński, Człowiek, który wynalazł internet. Biografia Paula Barana, wyd. Agora, Warszawa 2019, s. 198.
+Zobacz też: media społecznościowe, koń trojański
+
+Obawiamy się nie tylko stworzenia prostych „maszyn do zautomatyzowanego szantażu” [dziś nazywamy to ransomware – przyp. autora] posługujących się tymi informacjami, ale także skutków ubocznych rozwijania się technik „pośredniego dedukowania relacji”. Takie techniki, gdy się już rozwiną, będą pozwalać na rysowanie łańcuchów relacji dowolnej osoby, organizacji, wydarzenia itd., z innymi osobami, organizacjami, wydarzeniami.

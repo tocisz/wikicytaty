@@ -1,0 +1,4 @@
+Section: George Patton
+Opis: Patton do generała Eisenhowera o zasoby benzyny dla jego czołgów.
+
+Moi żołnierze mogą zjeść swoje paski, ale moje czołgi potrzebują paliwa.

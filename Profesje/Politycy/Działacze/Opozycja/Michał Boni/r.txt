@@ -1,0 +1,6 @@
+Section: Michał Boni
+Opis: o aplikacjach monitorujących w czasie pandemii .
+Źródło: https://www.rp.pl/Publicystyka/200509974-Michal-Boni-Monitoring-czy-inwigilacja.html], 01 maja 2020
+Zobacz też: Pandemia COVID-19
+
+Jest jeszcze kluczowa sprawa, z pozoru wyglądająca tylko na techniczną. Paradoksalnie w sporze o aplikacje monitorujące odwracają się w ostatnich tygodniach role. Rządy w wielu krajach naciskają, by uzyskać szybkie rozwiązania i - często - jak najwięcej danych, nie patrząc na prawa obywatelskie. A tymczasem główne firmy technologiczne, zjednoczone wyjątkowo: Google i Apple - mówią silniej, niż zwykle o ochronie prywatności.

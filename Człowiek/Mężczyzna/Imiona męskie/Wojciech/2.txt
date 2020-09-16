@@ -1,0 +1,4 @@
+Section: Wojciech
+Opis: przysłowie polskie
+
+Gdy przed Wojciechem grzmi, długo jeszcze ziemia śni.

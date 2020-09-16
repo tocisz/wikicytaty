@@ -1,0 +1,6 @@
+Section: Baśnie i bajki polskie / Wypowiedzi postaci
+Postać: narrator
+Opis: początek każdego odcinka.
+Źródło: odcinek 1, Szklana góra
+
+Dawno, dawno temu… a może nie tak dawno… za górami, za lasami, a może gdzieś niedaleko…

@@ -1,0 +1,4 @@
+Section: Latawiec
+Autor: Michał Choromański
+
+Latawiec jest jak człowiek, może się wznosić tylko na sznurku.

@@ -1,0 +1,5 @@
+Section: Zygmunt
+Opis: przysłowie polskie
+Zobacz też: zboże
+
+Na świętego Zygmunta wybieraj zboże z kąta.

@@ -1,0 +1,4 @@
+Section: Sylwester
+Opis: przysłowie polskie
+
+Dzień sylwestrowy pokaże czas lipcowy.

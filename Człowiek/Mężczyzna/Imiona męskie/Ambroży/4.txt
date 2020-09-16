@@ -1,0 +1,4 @@
+Section: Ambroży
+Opis: przysłowie polskie
+
+Święty Ambroży zimy przysporzy.

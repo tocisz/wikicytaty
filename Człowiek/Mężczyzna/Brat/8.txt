@@ -1,0 +1,4 @@
+Section: Brat
+Autor: Adam Mickiewicz, Pan Tadeusz
+
+Tak zwycięzców zwyciężył w końcu sen, brat śmierci.

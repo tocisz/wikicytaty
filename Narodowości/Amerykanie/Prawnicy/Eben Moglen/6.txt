@@ -1,0 +1,5 @@
+Section: Eben Moglen
+Źródło: rozmowa Wojciecha Orlińskiego, Wyzwoli nas zmywarka, „Gazeta Wyborcza”, 30 listopada-1 grudnia 2013.
+Zobacz też: Google, Richard Stallman, Tim Wu
+
+To, że pojawi się ktoś taki jak Google, od początku było do przewidzenia. Gdy budujesz sieć złożoną z asymetrycznych linków, pojawi się ktoś, kto zarabia na wyszukiwaniu linków. Tim Wu [znany ekspert od mediów i internetu, autor głośnej książki The Master Switch] wiedział, że tak będzie, wiedział to Richard Stallman [jeden z twórców wolnego oprogramowania i haker], wiedziałem to ja. Owszem, nie przewidzieliśmy, że będzie można zarabiać 30 mld dol. rocznie na reklamach. Nie wiedzieliśmy, że tak szybko zarobią tyle pieniędzy i tak szybko zaczną przekupywać naszych towarzyszy...

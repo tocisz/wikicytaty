@@ -1,0 +1,4 @@
+Section: Michael Hayden
+Źródło: wywiad Christiana Wernicke, Dziki Zachód w sieci, „Süddeutsche Zeitung”, tłum. „Forum”, 4 października 2010.
+
+Działający w pojedynkę haker może za pomocą wirusa w ciągu kilku godzin odciąć od internetu 500 największych firm świata.

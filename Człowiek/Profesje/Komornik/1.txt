@@ -1,0 +1,4 @@
+Section: Komornik
+Autor: Andrzej Majewski
+
+Człowieka można zabić nawet długopisem, jeśli egzekucji dokonuje komornik.

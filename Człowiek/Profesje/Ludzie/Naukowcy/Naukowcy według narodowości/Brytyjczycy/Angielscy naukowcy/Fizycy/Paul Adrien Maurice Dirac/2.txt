@@ -1,0 +1,3 @@
+Section: Paul Adrien Maurice Dirac
+
+Rozumiem równanie wtedy, gdy nie rozwiązując go, mogę sobie wyobrazić cechy charakterystyczne rozwiązania.

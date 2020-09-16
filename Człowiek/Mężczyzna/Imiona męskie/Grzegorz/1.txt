@@ -1,0 +1,4 @@
+Section: Grzegorz
+Opis: przysłowie polskie
+
+Co wie Grześ, to i cała wieś.

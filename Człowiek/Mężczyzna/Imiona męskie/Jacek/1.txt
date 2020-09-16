@@ -1,0 +1,4 @@
+Section: Jacek
+Opis: przysłowie polskie
+
+Jeżeli w dzień św. Jacka deszcz nie pada, będzie jesień sucha.

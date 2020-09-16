@@ -1,0 +1,4 @@
+Section: Janusz Korwin-Mikke/M
+Źródło: Książka "Vademecum ojca", 1991
+
+Matematyka: z punktu widzenia matematyki informatyka nie ma z nią nic wspólnego – w pewnym sensie jest ona nawet jakby antymatematyką! Matematyk stara się objąć matematycznie trudny problem, informatyk natomiast rozwiązuje go przez szybkie przeliczenie wszystkich możliwości. Tales z Miletu obliczył dokładnie odległość od okrętu, który utknął z dala od brzegu. Byłby jednak zgorszony, gdyby pojawił się jakiś pływak ciągnący za sobą sznurek z supełkami, a to właśnie robią informatycy. Po co – powiadają oni – subtelne metody przyspieszania liczenia, skoro każdy nosi w kieszeni komputerek?

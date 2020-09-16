@@ -1,0 +1,4 @@
+Section: Mike Dirnt
+Opis: Mike o wsparciu przez media.
+
+Sprzedawanie nie pasuje do tego co przekazujemy w tekstach. Ale nie wiemy jak temu zaradzić, nie wynaleźliśmy jeszcze złotego środka na to.

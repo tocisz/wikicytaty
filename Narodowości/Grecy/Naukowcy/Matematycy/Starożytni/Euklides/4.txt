@@ -1,0 +1,3 @@
+Section: Euklides
+
+W matematyce nie ma drogi specjalnie dla królów.

@@ -1,0 +1,5 @@
+Section: Akira Kurosawa
+Opis: tytuł jednego z jego filmów.
+Zobacz też: zło
+
+Zły śpi spokojnie.

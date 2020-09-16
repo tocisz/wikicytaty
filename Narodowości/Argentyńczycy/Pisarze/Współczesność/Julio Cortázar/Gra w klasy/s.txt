@@ -1,0 +1,3 @@
+Section: Gra w klasy
+
+Nie zdobywa się fortec uciekając przed nieprzyjacielem.

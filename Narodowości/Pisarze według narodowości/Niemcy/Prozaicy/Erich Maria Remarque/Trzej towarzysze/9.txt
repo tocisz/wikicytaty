@@ -1,0 +1,4 @@
+Section: Trzej towarzysze
+Źródło: rozdział 2
+
+Grunt nie przywiązywać się do niczego (...). Do czego się przywiążesz, to chciałbyś zatrzymać. A zatrzymać w życiu nie można nic.

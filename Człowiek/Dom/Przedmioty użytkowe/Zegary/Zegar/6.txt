@@ -1,0 +1,4 @@
+Section: Zegar
+Autor: Stanisław Jerzy Lec
+
+Na żadnym zegarze nie znajdziesz wskazówek do życia.

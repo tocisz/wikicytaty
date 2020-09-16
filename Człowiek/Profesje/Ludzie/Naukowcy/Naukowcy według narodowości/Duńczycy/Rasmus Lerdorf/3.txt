@@ -1,0 +1,3 @@
+Section: Rasmus Lerdorf
+
+PHP jest prawie tak ekscytujący jak szczoteczka do zębów. Używasz go codziennie, odwala za ciebie robotę, jest prostym narzędziem, więc? Kto chciałby poczytać o szczoteczkach?

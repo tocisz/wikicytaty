@@ -1,0 +1,4 @@
+Section: Kelner
+Autor: Miguel Ángel Falasca
+
+Rozgrywający jest jak kelner: przynosi to, czego klient sobie życzy. Jedni wolą coca-colę, inni herbatę. Tak jak na boisku: jeden zawodnik woli piłkę niską, a inny wysoką.

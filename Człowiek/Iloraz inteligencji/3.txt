@@ -1,0 +1,4 @@
+Section: Iloraz inteligencji
+Autor: Terry Pratchett, Maskarada, tłum. Piotr W. Cholewa.
+
+Iloraz inteligencji tłumu jest równy IQ najgłupszego jego przedstawiciela podzielonemu przez liczbę uczestników.

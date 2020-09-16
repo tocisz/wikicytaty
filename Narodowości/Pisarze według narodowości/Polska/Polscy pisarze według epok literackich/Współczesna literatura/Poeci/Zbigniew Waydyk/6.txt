@@ -1,0 +1,3 @@
+Section: Zbigniew Waydyk
+
+Na próg każdej epoki wyrzucane są śmieci epok poprzednich.

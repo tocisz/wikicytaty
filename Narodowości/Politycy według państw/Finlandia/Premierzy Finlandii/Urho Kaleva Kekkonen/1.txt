@@ -1,0 +1,5 @@
+Section: Urho Kaleva Kekkonen
+Opis: próbując zdefiniować fińską neutralność.
+Źródło: Kazimierz Kozub, Politycy z pierwszych stron gazet, wyd. Iskry, Warszawa 1976, s. 208.
+
+Neutralność zakłada wiarygodność. Do tego nie wystarczą nasze własne oceny lub wyobrażenia, ponieważ wiarygodność nie jest sprawą jednostronną. Realizując politykę neutralności doszliśmy do wniosku, że celem jej jest zachowanie takiego stanu równowagi, który nie opiera się na sile, lecz na harmonii interesów. Naszym zadaniem jest czuwać, aby nasze przedsięwzięcia nie dawały powodu do niepokoju o naruszenie tej harmonii.

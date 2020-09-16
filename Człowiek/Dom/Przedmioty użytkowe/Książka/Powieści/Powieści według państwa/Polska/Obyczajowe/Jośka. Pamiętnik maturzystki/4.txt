@@ -1,0 +1,5 @@
+Section: Jośka. Pamiętnik maturzystki
+Opis: fragment wiersza Jośki. Faktycznie jest to fragment wiersza Leopolda Staffa.
+
+O szyby deszcz dzwoni, deszcz dzwoni jesienny
+I pluszcze jednaki, miarowy, niezmienny...

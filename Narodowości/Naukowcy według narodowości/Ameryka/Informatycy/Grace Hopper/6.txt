@@ -1,0 +1,4 @@
+Section: Grace Hopper
+Źródło: Online Computer Library Center (OCLC) Newsletter, marzec/kwiecień 1987, nr 167
+
+Życie przed II wojną światową było proste. Po wojnie zaczęliśmy tworzyć systemy.

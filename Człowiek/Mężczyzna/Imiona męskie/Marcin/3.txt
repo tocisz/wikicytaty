@@ -1,0 +1,5 @@
+Section: Marcin
+Opis: przysłowie polskie
+Źródło: Nowa księga przysłów i wyrażeń przysłowiowych polskich, t. 2, oprac. Samuel Adalberg, wyd. PIW, Warszawa 1967, s. 387.
+
+Czasem liść się gęsto trzyma, nie chce słać się dla Marcina.

@@ -1,0 +1,5 @@
+Section: Krzysztof Kamil Baczyński
+Opis: przykład użycia antymetaboli w postaci antytezy.
+Źródło: Polacy
+
+(…) by chleb był dla miłości, nie miłość dla chleba.

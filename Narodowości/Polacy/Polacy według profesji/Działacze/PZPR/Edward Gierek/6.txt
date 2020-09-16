@@ -1,0 +1,4 @@
+Section: Edward Gierek
+Opis: kontrolując żniwa w jednym z podwarszawskich PGR-ów.
+
+Mocno sypie, towarzysze?

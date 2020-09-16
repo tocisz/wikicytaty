@@ -1,0 +1,4 @@
+Section: Robert Walpole
+Opis: o posłach Izby Gmin.
+
+Każdy z nich ma swoja cenę.

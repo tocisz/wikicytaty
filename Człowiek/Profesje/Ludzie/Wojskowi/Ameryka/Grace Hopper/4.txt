@@ -1,0 +1,3 @@
+Section: Grace Hopper
+
+Nikt mi nie chciał uwierzyć, że napisałam kompilator i nikt nie był nim zainteresowany. Powiedziano mi, że komputery potrafią tylko liczyć.

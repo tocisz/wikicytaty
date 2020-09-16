@@ -1,0 +1,4 @@
+Section: Werner Heisenberg
+Źródło: Fizyka a filozofia
+
+Każde doświadczenie fizyczne, niezależnie od tego, czy dotyczy zjawisk życia codziennego, czy też mikroświata, może być opisane wyłącznie w terminach fizyki klasycznej.

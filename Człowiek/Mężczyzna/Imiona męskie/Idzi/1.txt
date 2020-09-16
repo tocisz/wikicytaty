@@ -1,0 +1,5 @@
+Section: Idzi
+Opis: przysłowie polskie
+Zobacz też: śnieg
+
+Gdy na święty Idzi ładnie, śnieg na pewno późno spadnie.

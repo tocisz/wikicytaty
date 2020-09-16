@@ -1,0 +1,7 @@
+Section: Andrzej Marciniak
+Źródło: wykład http://www.cs.put.poznan.pl/amarciniak/WP-wyklady/PP-2.pdf Podstawy programowania, s. 7.
+
+Nie w każdej chwili, nie w każdym czasie
+Dobre programy napisać da się.
+Więc jeśli możesz, spiesz do nich śmiało,
+Strzegąc się przeszkód, których niemało.

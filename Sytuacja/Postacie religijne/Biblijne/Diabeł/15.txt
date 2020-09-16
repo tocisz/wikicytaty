@@ -1,0 +1,5 @@
+Section: Diabeł / Przysłowia o diable
+Opis: przysłowie polskie
+Źródło: Przysłowia są… na wszystko, red. Dobrosława Świerczyńska, PWN, Warszawa 2003, ISBN 8301133082, s. 363.
+
+Diabeł tkwi w szczegółach.

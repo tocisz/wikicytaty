@@ -1,0 +1,4 @@
+Section: Dominik
+Opis: przysłowie polskie
+
+Na świętego Dominika, zboże z pól do gumna zmyka.

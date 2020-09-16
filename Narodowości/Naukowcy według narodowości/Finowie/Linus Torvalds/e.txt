@@ -1,0 +1,4 @@
+Section: Linus Torvalds / K
+Źródło: http://groups.google.com/groups?selm=3jju43%24gc8%40klaava.helsinki.fi Post na grupę dyskusyjną comp.os.linux.development.apps, 8 marca 1995 (28 sierpnia 2006)
+
+Kiedy mówisz „Napisałem program, który wywalił Windows”, ludzie gapią się na ciebie głupkowato i mówią „Hej, dostałem je wraz z systemem, *za darmo*«.

@@ -1,0 +1,4 @@
+Section: Linus Torvalds / W
+Źródło: Hiroo Yamagata, http://hotwired.goo.ne.jp/matrix/9709/5_linus.html The Pragmatist of Free Software: Linus Torvalds Interview (28 sierpnia 2006)
+
+Wydanie Linuksa na GPL było zdecydowanie najlepszą rzeczą, jaką uczyniłem kiedykolwiek.

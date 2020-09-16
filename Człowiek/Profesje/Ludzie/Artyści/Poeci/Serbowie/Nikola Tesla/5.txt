@@ -1,0 +1,4 @@
+Section: Nikola Tesla
+Źródło: Experiments with Alternate Currents of High Potential and High Frequency, 1904
+
+Nim miną pokolenia, maszyny zaopatrywane będą w moc, którą da się uzyskać z dowolnego miejsca wszechświata… Czy będzie to energia statyczna, czy kinetyczna? Jeśli statyczna, na próżno żywimy nadzieję. Jeśli kinetyczna – a wiemy z pewnością, że właśnie taka – kwestią czasu pozostaje, by człowiek podłączył urządzenia do koła zamachowego przyrody.

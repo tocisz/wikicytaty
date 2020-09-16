@@ -1,0 +1,5 @@
+Section: Nauczyciel
+Opis: przysłowie arabskie
+Zobacz też: czas
+
+Czas to dobry nauczyciel.

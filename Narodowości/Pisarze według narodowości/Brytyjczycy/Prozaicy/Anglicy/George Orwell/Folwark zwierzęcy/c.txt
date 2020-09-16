@@ -1,0 +1,10 @@
+Section: Folwark zwierzęcy
+Opis: siedem przykazań.
+
+1. Wszystko co, chodzi na dwóch nogach, jest wrogiem.
+2. Wszystko, co chodzi na czterech łapach albo ma skrzydła, jest przyjacielem.
+3. Żadne zwierzę nie będzie nosić ubrania.
+4. Żadne zwierzę nie będzie spać w łóżku.
+5. Żadne zwierzę nie będzie pić alkoholu.
+6. Żadne zwierzę nie zabije innego.
+7. Wszystkie zwierzęta są równe.

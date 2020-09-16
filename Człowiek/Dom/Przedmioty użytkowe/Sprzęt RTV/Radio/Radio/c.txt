@@ -1,0 +1,4 @@
+Section: Radio
+Opis: słowa wypowiadane przez Jana Nowaka-Jeziorańskiego na początku każdej audycji Radia Wolna Europa.
+
+Tu Radio Wolna Europa, głos wolnej Polski.

@@ -1,0 +1,4 @@
+Section: Richard Stallman
+Źródło: rozmowa Wiery Szengeliji, Kopiuj i dziel się, „Wokrug Swieta”, tłum. „Forum”, 18 czerwca 2012.
+
+Z software’em wszystko jest proste: albo użytkownik steruje programem, albo program użytkownikiem.

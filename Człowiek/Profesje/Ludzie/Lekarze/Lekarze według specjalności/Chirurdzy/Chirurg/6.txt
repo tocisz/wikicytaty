@@ -1,0 +1,4 @@
+Section: Chirurg
+Opis: przysłowie łacińskie
+
+Nie ma chirurga, który nie byłby psychologiem.

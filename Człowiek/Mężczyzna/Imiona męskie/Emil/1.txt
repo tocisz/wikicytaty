@@ -1,0 +1,4 @@
+Section: Emil
+Opis: przysłowie polskie
+
+Kiedy minie już Emila, zapiecek nam się przymila.

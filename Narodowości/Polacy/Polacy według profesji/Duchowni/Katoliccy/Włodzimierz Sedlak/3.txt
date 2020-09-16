@@ -1,0 +1,3 @@
+Section: Włodzimierz Sedlak / Inne
+
+Deklaracje są filtrem słów.

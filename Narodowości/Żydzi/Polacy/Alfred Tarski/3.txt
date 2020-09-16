@@ -1,0 +1,4 @@
+Section: Alfred Tarski / O Alfredzie Tarskim
+Autorzy: Anita Burdman Feferman, Solomon Feferman, Alfred Tarski. Życie i logika, przeł. Joanna Golińska-Pilarek, Marian Srebrny, Wydawnictwa Akademickie i Profesjonalne, Warszawa 2009, s. 2.
+
+Alfred Tarski, jeden z największych logików w historii, jest powszechnie uważany za „człowieka, który zdefiniował prawdę”. Jego prace o pojęciu prawdy i konsekwencji logicznej były kamieniem węgielnym współczesnej logiki i miały wielki wpływ na rozwój matematyki, filozofii, lingwistyki i podstaw informatyki. Tarski był charyzmatycznym nauczycielem, żarliwie promującym swoją koncepcję logiki jako podstawy wszelkiej racjonalnej myśli, bon vivantem i kobieciarzem. Rolę „wielkiego człowieka” odegrał w całej pełni.

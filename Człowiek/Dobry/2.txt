@@ -1,0 +1,5 @@
+Section: Dobry
+Opis: przysłowie polskie
+Źródło: Nowa księga przysłów i wyrażeń przysłowiowych polskich, red. nacz. Julian Krzyżanowski, Państwowy Instytut Wydawniczy, Warszawa 1969, tom I, s. 453.
+
+Dobrego i karczma nie zepsuje, złego i kościół nie naprawi.

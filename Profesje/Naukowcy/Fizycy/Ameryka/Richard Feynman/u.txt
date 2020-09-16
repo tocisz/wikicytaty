@@ -1,0 +1,3 @@
+Section: Richard Feynman / Inne
+
+Wyjaśnianie nowych zjawisk za pomocą zjawisk już znanych jest największą sztuką fizyki teoretycznej.

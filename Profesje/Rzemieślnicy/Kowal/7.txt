@@ -1,0 +1,4 @@
+Section: Kowal
+Autor: Wacław Potocki
+
+Każdy swego szczęścia jest kowalem.

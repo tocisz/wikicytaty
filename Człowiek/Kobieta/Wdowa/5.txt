@@ -1,0 +1,6 @@
+Section: Wdowa
+Wariant: U wdowy chleb gotowy, ale nie każdemu zdrowy.
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, Księga przysłów…, op. cit., s. 584.
+
+U wdowy chleb gotowy.

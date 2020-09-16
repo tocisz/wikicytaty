@@ -1,0 +1,4 @@
+Section: Sylwester
+Opis: przysłowie polskie
+
+Na święty Sylwester mroźno, zapowiedź na zimę groźną.

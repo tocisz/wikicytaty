@@ -1,0 +1,4 @@
+Section: Peter Stormare
+Opis: po przeczytaniu scenariusza do Fargo
+
+Gdzie są moje kwestie?

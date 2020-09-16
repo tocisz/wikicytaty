@@ -1,0 +1,4 @@
+Section: Komputer
+Autor: Andrzej Majewski
+
+Współczesna cywilizacja jest bardzo skomputerroryzowana.

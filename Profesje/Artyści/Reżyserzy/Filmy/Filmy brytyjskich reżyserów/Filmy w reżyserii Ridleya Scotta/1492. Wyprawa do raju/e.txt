@@ -1,0 +1,4 @@
+Section: 1492. Wyprawa do raju
+Opis: słowa kończące film.
+
+Życie ma więcej wyobraźni, niż możemy sobie wyobrazić.

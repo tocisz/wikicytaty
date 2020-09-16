@@ -1,0 +1,6 @@
+Section: Stefan Banach / O Stefanie Banachu
+Autor: Wacław Szybalski
+Opis: o pracy Stefana Banacha i Lwowskiej Szkole Mamtematycznej
+Źródło: http://www.lwow.com.pl/m.htm Dlaczego Stefan Banach?, lwow.com.pl
+
+Lwowska Szkoła Matematyczna była także znana jako „Szkocka” – nie z powodu jakichś bezpośrednich związków ze Szkocją, lecz od nazwy „Kawiarni Szkockiej”, gdzie lwowscy matematycy zwykli spotykać się i rozwiązywać swe teorie na papierowych serwetkach lub bezpośrednio na blatach stolików. Pierwszy język komputerowy (notacja „polska” lub „odwrócona polska” używana przez firmę Hewlett Packard) był także stworzony przez tę grupę. Było to bardzo stymulujące intelektualnie, lecz jakże w gruncie rzeczy surrealistyczne: słuchać ich długich dyskusji o granicach matematycznych, elementach teorii topologii i przestrzeni (teraz znanych jako „przestrzenie Banacha”) i teorii liczb – podczas karmienia wszy.

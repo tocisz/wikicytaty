@@ -1,0 +1,4 @@
+Section: Krawat
+Źródło: film Miś
+
+Trzeba dać napis, żeby wpuszczać tylko w krawatach. Klient w krawacie jest mniej awanturujący się.

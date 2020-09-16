@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: lis do Małego Księcia.
+
+Musisz być odpowiedzialny za to, co oswoiłeś.

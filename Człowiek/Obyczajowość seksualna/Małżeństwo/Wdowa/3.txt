@@ -1,0 +1,5 @@
+Section: Wdowa
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, Księga przysłów…, op. cit., s. 584.
+
+Na wdowach i sierotach świat stoi.

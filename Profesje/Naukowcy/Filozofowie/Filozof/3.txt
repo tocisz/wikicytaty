@@ -1,0 +1,4 @@
+Section: Filozof
+Autor: Cyceron
+
+Całe życie filozofa to rozmyślania o śmierci.

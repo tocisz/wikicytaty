@@ -1,0 +1,4 @@
+Section: Zegar
+Autor: Henryk Jagodziński
+
+Zegar – przyrząd, dzięki któremu wiemy, kiedy wyjść, by spóźnić się na umówione spotkanie.

@@ -1,0 +1,4 @@
+Section: Łucja
+Opis: przysłowie polskie
+
+Po świętej Łucji dzień trwa najkrócej.

@@ -1,0 +1,3 @@
+Section: Tadeusz Morawski
+
+Wielki rozwój i wzrost zainteresowania palindromami nastąpił niedawno. Pomógł, jak zwykle, przypadek. Jadąc w 2003 roku na wycieczkę w góry, napisałem na kartce to, co widziałem, a więc kolejno: Nowy Targ, góry, Zakopane. Po przeczytaniu wspak dostałem swój pierwszy palindrom: "Nowy Targ, góry, Zakopane – na pokazy róg, graty won!". Wspak brzmi całkiem sensownie. Zaraz okazało się, że w przeciwieństwie do pozostałych uczestników wycieczki mam niebywałą łatwość w tworzeniu takich zdań lustrzanych. Po dwóch dniach miałem już pokaźny zbiorek swoich palindromów. Prześledźmy zestaw ułożony trzeciego dnia wycieczki. Zadajmy sobie fundamentalne pytania (przed myślnikiem), a odpowiedź? Zaufajmy regule symetrii liter:

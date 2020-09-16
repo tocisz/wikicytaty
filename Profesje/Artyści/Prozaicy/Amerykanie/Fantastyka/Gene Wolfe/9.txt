@@ -1,0 +1,5 @@
+Section: Gene Wolfe
+Opis: Jedna z dziesiątków filozoficznych maksym Jonasa.
+Źródło: Cień kata
+
+Zrozumiałeś mnie lepiej, niż mógłbym sobie życzyć, jak powiedział pewien człowiek patrząc w lustro.

@@ -1,0 +1,4 @@
+Section: Teściowa
+Opis: przysłowie ormiańskie
+
+Żona zna męża, teściowa ich dwoje.

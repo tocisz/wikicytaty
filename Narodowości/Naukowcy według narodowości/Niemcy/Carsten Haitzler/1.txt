@@ -1,0 +1,4 @@
+Section: Carsten Haitzler
+Źródło: http://blag.budzon.com.pl/articles/dragonia-magazine/wywiad-z-carstenem-haitzlerem Wywiad, 2010
+
+Aktualnie zajmuję się konsultingiem i staram się jak mogę, żeby programowanie oraz produkt, który otrzymuje użytkownik małych urządzeń dotykowych, był jak najprostszy i jak najlepszy. Nie mogę niestety rozmawiać o tym, czym się zajmuję w tym momencie, ponieważ projekt jest ciągle w fazie rozwoju i nie jest dostępy publicznie. Ale kiedy nadejdzie odpowiedni czas, wszystko się wyjaśni.

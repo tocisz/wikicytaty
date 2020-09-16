@@ -1,0 +1,4 @@
+Section: Pijak
+Opis: powiedzenie z XIX wieku.
+
+Pijak podobny do zwierza: ni do roboty, ni do pacierza.

@@ -1,0 +1,3 @@
+Section: Gra w klasy
+
+Logika przecież do czegoś służy.

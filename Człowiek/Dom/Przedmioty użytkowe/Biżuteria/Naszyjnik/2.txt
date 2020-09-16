@@ -1,0 +1,4 @@
+Section: Naszyjnik
+Opis: przysłowie arabskie
+
+Gdy wąż cię kocha, możesz go nosić jako naszyjnik.

@@ -1,0 +1,3 @@
+Section: Szafa
+
+Gruba jak szafa.

@@ -1,0 +1,4 @@
+Section: Linus Torvalds / T
+Źródło: http://article.gmane.org/gmane.comp.version-control.git/87 Wiadomość na listę mailową Git, 14 kwietnia 2005 (28 sierpnia 2006)
+
+To była taka ulga, dla odmiany programować w przestrzeni użytkownika. Nie martwić się o drobne sprawy jest cudownie.

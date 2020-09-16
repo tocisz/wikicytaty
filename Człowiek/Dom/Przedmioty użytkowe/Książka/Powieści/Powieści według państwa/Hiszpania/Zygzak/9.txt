@@ -1,0 +1,4 @@
+Section: Zygzak / C
+Opis: cyt. za Marią Edgeworth.
+
+Czasami, żeby uciec, potrzeba dużej odwagi.

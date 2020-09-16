@@ -1,0 +1,4 @@
+Section: Linus Torvalds / C
+Źródło: Joe Barr, http://www.linux.com/articles/45571 Linus compares Linux and BSDs, NewsForge 13 czerwca 2005 (28 sierpnia 2006)
+
+Czyj sposób myślenia jest właściwy? Mój, oczywiście. Ludzie, którzy się ze mną nie zgadzają są z definicji szaleni. (Do momentu, gdy zmienię zdanie, wtedy mogą nagle stać się przykładnymi obywatelami. Jestem elastyczny, nie czarno-biały.)

@@ -1,0 +1,4 @@
+Section: Szachownica flamandzka
+Opis: Raymond M. Smullyan, Zagadki szachowe Sherlocka Holmesa
+
+Jakie to dziwne – zwrócił mi uwagę Holmes kilka wieczorów później – że aby poznać przeszłość, czasami trzeba najpierw poznać przyszłość.

@@ -1,0 +1,3 @@
+Section: Ajschylos
+
+Zdanie, które wychodzi z ust ludu, ma wielką siłę.

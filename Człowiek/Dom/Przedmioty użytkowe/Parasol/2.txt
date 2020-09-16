@@ -1,0 +1,6 @@
+Section: Parasol
+Autor: Remigiusz Kwiatkowski
+Opis: aforyzm chiński, spopularyzowany przez Remigiusza Kwiatkowskiego w zbiorze pod tym samym tytułem z 1920 roku
+Zobacz też: pogoda
+
+Parasol noś i przy pogodzie.

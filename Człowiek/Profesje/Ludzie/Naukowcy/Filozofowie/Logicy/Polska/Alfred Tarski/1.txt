@@ -1,0 +1,4 @@
+Section: Alfred Tarski
+Źródło: Anita Burdman Feferman, Solomon Feferman, Alfred Tarski. Życie i logika, przeł. Joanna Golińska-Pilarek, Marian Srebrny, Wydawnictwa Akademickie i Profesjonalne, Warszawa 2009, s. 279.
+
+Gdy słyszę na przykład, że istnieje istotna różnica między matematyką a naukami przyrodnicznymi, moją pierwszą reakcją jest przeciwstawić się takiej opinii.

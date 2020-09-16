@@ -1,0 +1,5 @@
+Section: Uczennica Maga
+Źródło: rozdział 2.
+Opis: kyraliańskie przysłowie.
+
+Sen to najtańsze lekarstwo.

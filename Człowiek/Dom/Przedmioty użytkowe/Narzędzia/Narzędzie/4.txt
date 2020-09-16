@@ -1,0 +1,4 @@
+Section: Narzędzie
+Autor: Stanisław Jerzy Lec
+
+Już sam znak paragrafu wygląda jak narzędzie tortury.

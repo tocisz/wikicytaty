@@ -1,0 +1,6 @@
+Section: Moby Dick
+Postać: Izmael
+Opis: o podzwrotnikowym życiu wielorybnika.
+Źródło: rozdział XXXV
+
+(…) najczęściej otacza was jakaś wzniosła martwota; nie otrzymujecie żadnych wiadomości, nie czytacie gazet, nie pogrążają was w zbędnym podnieceniu nadzwyczajne wydania dzienników, które przynoszą wstrząsające relacje o różnych banałach, nie słyszycie o żadnych domowych kłopotach, bankructwach dłużników, spadku akcji; nigdy wam nie zakłóca spokoju myśl o tym, co będziecie jedli na obiad – bowiem wszystkie wasze posiłki na trzy lata i więcej są składnie załadowane w beczułki, a jadłospis pozostaje niezmienny.

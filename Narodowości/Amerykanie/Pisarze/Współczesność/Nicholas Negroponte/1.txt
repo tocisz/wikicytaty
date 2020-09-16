@@ -1,0 +1,5 @@
+Section: Nicholas Negroponte
+Opis: pod koniec XX w.
+Źródło: Walery Pisarek, Wstęp do nauki o komunikowaniu, Wydawnictwa Akademickie i Profesjonalne, Warszawa 2008, s. 149.
+
+W ciągu następnych dziesięciu lat będziemy świadkami nierespektowania prawa o ochronie własności intelektualnej i włażenia z butami w nasze życie prywatne. Zobaczymy wandalizm cyfrowy, nielegalne kopiowanie programów i kradzież danych.

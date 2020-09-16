@@ -1,0 +1,5 @@
+Section: Julia Milton
+Opis: o Basi.
+Źródło: odcinek 7.
+
+Euforia uleczonej.

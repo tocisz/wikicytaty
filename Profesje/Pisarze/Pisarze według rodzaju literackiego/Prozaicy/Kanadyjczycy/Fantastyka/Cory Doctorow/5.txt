@@ -1,0 +1,3 @@
+Section: Cory Doctorow / Gdy sysadmini rządzili światem
+
+(...) wiele osób nie radzi sobie z logiką, gdy ta dyktuje im trudne decyzje. To problem tych ludzi, nie logiki.

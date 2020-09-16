@@ -1,0 +1,3 @@
+Section: Gra Geralda
+
+Ryby pływają, ptaki latają, żony gderają.

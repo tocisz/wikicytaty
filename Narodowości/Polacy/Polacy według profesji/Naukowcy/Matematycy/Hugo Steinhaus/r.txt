@@ -1,0 +1,4 @@
+Section: Hugo Steinhaus / Inne
+Źródło: Czem jest matematyka i na czem polega jej postęp?
+
+Matematyka podobna jest do wieży, której fundamenty położono przed wiekami, a do której dobudowuje się coraz wyższe piętra. Aby zobaczyć postęp budowy, trzeba iść na piętro najwyższe, a schody są strome i składają się z licznych stopni. Rzeczą popularyzatora jest zabrać słuchacza do windy, z której nie zobaczy ani pośrednich pięter, ani pracą wieków ozdobionych komnat, ale przekona się, że gmach jest wysoki i że wciąż rośnie.

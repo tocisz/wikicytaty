@@ -1,0 +1,4 @@
+Section: Kler
+Postać: rzecznik kurii
+
+Kościół jest święty, ale tworzą go ludzie grzeszni.

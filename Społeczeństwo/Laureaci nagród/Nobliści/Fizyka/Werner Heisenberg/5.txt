@@ -1,0 +1,3 @@
+Section: Werner Heisenberg
+
+Nauki ścisłe zaczynają się od założenia, że w końcu będzie można zrozumieć naturę, w każdej, nawet całkiem nowej dziedzinie, ale nie możemy czynić żadnego założenia a priori, co do znaczenia słowa „zrozumieć”.

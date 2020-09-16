@@ -1,0 +1,4 @@
+Section: Andrzej Szlęzak
+Opis: konferencja dotycząca obchodów powstania warszawskiego.
+
+Stalowa Wola jest symbolem trochę innego myślenia w Polsce.

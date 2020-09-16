@@ -1,0 +1,4 @@
+Section: Chirurg
+Opis: przysłowie angielskie
+
+Chirurg powinien mieć oko orła, serce lwa i rękę kobiecą.

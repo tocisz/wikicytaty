@@ -1,0 +1,4 @@
+Section: Dyrygent
+Autor: Ewa Podleś
+
+Dyrygent musi śpiewać ze śpiewakiem.

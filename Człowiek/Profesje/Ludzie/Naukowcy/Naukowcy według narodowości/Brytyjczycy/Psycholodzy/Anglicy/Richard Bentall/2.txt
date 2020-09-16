@@ -1,0 +1,5 @@
+Section: Richard Bentall
+Opis: W artykule Bentall żartobliwe wykazywał, jak trudno jest ustalić niedwuznaczne kryteria odróżniające zdrowie umysłowe od choroby psychicznej.
+Źródło: artykułu z czasopisma Journal of Medical Ethics, z czerwca 1992 roku, pt. A proposal to classify happiness as psychiatrie disorder (Propozycja klasyfikacji szczęścia jako zaburzenia psychiatrycznego).
+
+Szczęście jest objawem, na który psychopatolodzy zwracali jak dotychczas bardzo mało uwagi, być może dlatego, że kondycja ta nie jest normalnie uznawana za wystarczającą podstawę do terapeutycznej interwencji.

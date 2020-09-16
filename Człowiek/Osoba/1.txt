@@ -1,0 +1,4 @@
+Section: Osoba
+Autor: Ambrose Bierce
+
+Abstynent: osoba, która poddaje się pokusie odmówienia sobie przyjemności.

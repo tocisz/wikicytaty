@@ -1,0 +1,3 @@
+Section: Parmenides
+
+Byt jest, a niebytu nie ma.

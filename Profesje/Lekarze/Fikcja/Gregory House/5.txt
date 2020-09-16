@@ -1,0 +1,5 @@
+Section: Gregory House / C
+Opis: treść tekstu z koperty House'a.
+Źródło: sez. III, odc. 8, Starszy brat
+
+Chase – szukał bakterii, Foreman – zbyt uparty, żeby sprawdzić płuca, Cameron – starałaś się, ale nie wyszło.

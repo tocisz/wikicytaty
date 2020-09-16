@@ -1,0 +1,3 @@
+Section: Hamlet
+
+Choć to szaleństwo, lecz jest w nim metoda.

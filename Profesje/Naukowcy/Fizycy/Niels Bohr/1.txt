@@ -1,0 +1,4 @@
+Section: Niels Bohr
+Źródło: Werner Heisenberg, Część i całość
+
+Do podstawowych założeń naszej nauki należy to, że o pomiarach mówimy językiem mającym zasadniczo taką samą strukturę jak ten, którym mówimy o doświadczeniach życia powszedniego. Nauczyliśmy się, że język ten jest bardzo niedoskonałym instrumentem orientacji i porozumienia. Instrument ten jest jednak jednocześnie założeniem naszej nauki.

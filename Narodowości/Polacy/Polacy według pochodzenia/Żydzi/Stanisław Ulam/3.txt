@@ -1,0 +1,4 @@
+Section: Stanisław Ulam
+Źródło: Analogies between Analogies, The Mathematical Reports of S.M. Ulam and His Los Alamos Collaborators
+
+Matematycy wiedzą bardzo dużo o niewielu sprawach, fizycy wiedzą bardzo mało o wielu sprawach.

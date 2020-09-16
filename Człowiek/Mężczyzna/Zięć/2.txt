@@ -1,0 +1,4 @@
+Section: Zięć
+Opis: przysłowie ludowe
+
+Szanuj zięcia swego, bo mogłeś mieć gorszego.

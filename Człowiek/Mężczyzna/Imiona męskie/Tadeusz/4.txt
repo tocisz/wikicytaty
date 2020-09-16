@@ -1,0 +1,4 @@
+Section: Tadeusz
+Opis: powiedzenie
+
+Tadeusz, wajchę przełóż.

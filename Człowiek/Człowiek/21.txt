@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Autor: Gaston Bachelard
+
+Człowiek nie jest istotą, którą tworzy potrzeba, lecz istotą, którą tworzy pragnienie.

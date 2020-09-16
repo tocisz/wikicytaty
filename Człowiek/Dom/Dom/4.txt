@@ -1,0 +1,4 @@
+Section: Dom / C
+Opis: przysłowie rosyjskie
+
+Cegła do cegły – będzie dom.

@@ -1,0 +1,4 @@
+Section: Komputer
+Autor: Björk
+
+Mój dom jest tam, gdzie jest mój komputer.

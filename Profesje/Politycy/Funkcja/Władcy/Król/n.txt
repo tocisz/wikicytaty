@@ -1,0 +1,4 @@
+Section: Król
+Opis: powiedzenie
+
+Za króla Olbrachta wyginęła szlachta.

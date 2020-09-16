@@ -1,0 +1,3 @@
+Section: Paolo Giordano / Samotność liczb pierwszych (2008)
+
+(...) wyborów dokonuje się w kilka sekund, a ich skutków doświadcza się przez resztę życia.

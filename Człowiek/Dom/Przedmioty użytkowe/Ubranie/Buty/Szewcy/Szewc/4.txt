@@ -1,0 +1,4 @@
+Section: Szewc
+Opis: przysłowie
+
+Szewc bez butów chodzi.

@@ -1,0 +1,5 @@
+Section: Turbot / D
+Opis: Rozpleniony – wiersz.
+
+Dół chce być górą
+Nie żaden – inny porządek.

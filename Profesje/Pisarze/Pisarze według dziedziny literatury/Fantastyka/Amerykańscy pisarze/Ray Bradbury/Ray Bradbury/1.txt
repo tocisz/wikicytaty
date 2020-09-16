@@ -1,0 +1,4 @@
+Section: Ray Bradbury / 451 stopni Fahrenheita
+Opis: motto książki.
+
+451° Fahrenheita – to temperatura, w której papier zaczyna się tlić i płonie...

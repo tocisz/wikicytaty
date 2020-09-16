@@ -1,0 +1,4 @@
+Section: Miasto Bestii
+Opis: sposób Alexa na głód.
+
+Zignorować pustkę w żołądku i zabić głód obojętnością.

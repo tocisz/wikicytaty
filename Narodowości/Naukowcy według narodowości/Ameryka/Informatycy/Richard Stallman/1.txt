@@ -1,0 +1,4 @@
+Section: Richard Stallman
+Źródło: http://www.pcworld.pl/news/123958_4/Stallman.Bedziecie.walczyc.o.wolnosc.Odrzucicie.Windows.i.Mac.OS.html wywiad Petera Moona, pcworld.pl, 17 września 2007
+
+Będziecie walczyć o wolność? Odrzucicie Windows i Mac OS i przejdziecie na GNU/Linux? Czy będziecie zbyt leniwi, by stawić opór?

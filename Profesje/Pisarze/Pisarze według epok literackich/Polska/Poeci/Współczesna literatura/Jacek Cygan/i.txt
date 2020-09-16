@@ -1,0 +1,4 @@
+Section: Jacek Cygan / Inne
+Opis: toast.
+
+Powiem krótko: Witaj, wódko!

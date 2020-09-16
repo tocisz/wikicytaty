@@ -1,0 +1,5 @@
+Section: Człowiek / C
+Opis: przysłowie abchaskie
+Zobacz też: praca
+
+Człowiek nie może pracować bez odpoczynku, ale odpoczynek bez pracy nie daje zadowolenia.

@@ -1,0 +1,3 @@
+Section: Ludwig Wittgenstein / Tractatus Logico-Philosophicus
+
+1. Świat jest wszystkim, co jest faktem.

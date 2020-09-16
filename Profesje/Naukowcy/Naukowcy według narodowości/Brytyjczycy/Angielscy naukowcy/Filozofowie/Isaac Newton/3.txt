@@ -1,0 +1,4 @@
+Section: Isaac Newton / Philosophiae naturalis. Principia mathematica (1687)
+Opis: prawo bezwładności sformułowane przez Newtona, odkryte wcześniej przez Galileusza; tłum. Sławomir Brzezowski.
+
+Każde ciało pozostaje w stanie spoczynku albo ruchu jednostajnego wzdłuż prostej, dopóki przez siły do niego przyłożone nie zostanie zmuszone do zmiany tego stanu.

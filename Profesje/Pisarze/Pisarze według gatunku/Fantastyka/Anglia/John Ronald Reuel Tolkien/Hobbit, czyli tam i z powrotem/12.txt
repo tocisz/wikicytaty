@@ -1,0 +1,5 @@
+Section: Hobbit, czyli tam i z powrotem
+Opis: pierwsze zdanie.
+Źródło: rozdział 1, Nieproszeni gości, s. 5
+
+W pewnej norze ziemnej mieszkał sobie pewien hobbit.

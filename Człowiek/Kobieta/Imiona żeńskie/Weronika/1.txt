@@ -1,0 +1,4 @@
+Section: Weronika
+Opis: przysłowie polskie
+
+Weronika chustkę zrzuci, wiosna od nas się odwróci.

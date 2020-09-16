@@ -1,0 +1,4 @@
+Section: Isaac Newton / Philosophiae naturalis. Principia mathematica (1687)
+Opis: klasyczne pojęcie przestrzeni.
+
+Absolutna przestrzeń w swojej własnej istocie, bez związku z czymkolwiek zewnętrznym, pozostaje zawsze podobna i nieporuszona.

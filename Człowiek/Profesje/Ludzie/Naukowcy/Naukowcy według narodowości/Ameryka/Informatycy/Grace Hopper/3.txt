@@ -1,0 +1,3 @@
+Section: Grace Hopper
+
+Najlepszą rzeczą w standardach jest to, że jest z czego wybierać.

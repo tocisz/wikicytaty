@@ -1,0 +1,6 @@
+Section: Hugo Steinhaus / Inne
+Źródło: przedmowa do Kalejdoskopu matematycznego z 1956 roku
+
+Jaka jest teza tej książki? Są dwie:
+1. przedmiotem matematyki jest rzeczywistość,
+2. matematyka jest uniwersalna: nie ma rzeczy, która by była jej obca.

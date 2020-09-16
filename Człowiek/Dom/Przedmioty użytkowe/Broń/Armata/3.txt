@@ -1,0 +1,5 @@
+Section: Armata
+Opis: przysłowie chińskie
+Zobacz też: wróbel
+
+Do wróbla nie strzela się z armat.

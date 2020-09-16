@@ -1,0 +1,4 @@
+Section: Czapka
+Opis: przysłowie karaimskie
+
+Jeden oddaje cześć głowie, dziesięciu – czapce.

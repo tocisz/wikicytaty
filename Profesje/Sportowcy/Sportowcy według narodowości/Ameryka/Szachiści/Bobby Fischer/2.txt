@@ -1,0 +1,4 @@
+Section: Bobby Fischer
+Opis: ostatnie słowa wypowiedziane przed śmiercią.
+
+Nic tak nie koi bólu jak ludzki dotyk.

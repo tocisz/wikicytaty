@@ -1,0 +1,4 @@
+Section: Matka / P
+Opis: przysłowie polskie
+
+Pokorne cielę dwie matki ssie.

@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Autor: Tomasz z Akwinu
+
+Człowiek jednej książki.

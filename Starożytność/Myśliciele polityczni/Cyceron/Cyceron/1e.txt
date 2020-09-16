@@ -1,0 +1,3 @@
+Section: Cyceron / Inne / J
+
+Jest cechą głupoty dostrzegać błędy innych, a zapominać o swoich.

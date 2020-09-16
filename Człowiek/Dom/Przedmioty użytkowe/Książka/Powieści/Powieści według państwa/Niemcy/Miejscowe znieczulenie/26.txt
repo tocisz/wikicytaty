@@ -1,0 +1,4 @@
+Section: Miejscowe znieczulenie / Z
+Opis: komentarz Scherbauma w gazetce „Znaki Morse’a”.
+
+Zerwane zaręczyny kosztują więcej niż te, które się odbywają.

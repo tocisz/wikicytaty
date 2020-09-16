@@ -1,0 +1,4 @@
+Section: Jacek Karpiński / O Jacku Karpińskim
+Autor: Bożena Aksamit, Zduszona rewolucja inżyniera Karpińskiego, „Ale Historia”, w: „Gazeta Wyborcza”, 2 lipca 2012.
+
+Ówczesne komputery mają 64 kilobajty pamięci, K-202​ – ​8 megabajtów! Jacek Karpiński wymyślił adresowanie stronicowe, które umożliwia wielokrotne powiększanie pamięci. Dziś system adresowania stronicowego stosuje 90 proc. urządzeń na świecie, ale cóż z tego, skoro Karpiński nie opatentował wynalazku.

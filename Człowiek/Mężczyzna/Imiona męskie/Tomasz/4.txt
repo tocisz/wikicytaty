@@ -1,0 +1,4 @@
+Section: Tomasz
+Opis: przysłowie polskie
+
+Na Tomasza najdłuższa noc nasza.

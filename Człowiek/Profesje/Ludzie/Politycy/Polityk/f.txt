@@ -1,0 +1,4 @@
+Section: Polityk
+Autor: Andrzej Majewski
+
+Politycy mówią o lepszym jutrze i rzeczywiście, to lepsze jest zawsze jutro.

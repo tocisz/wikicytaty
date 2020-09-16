@@ -1,0 +1,5 @@
+Section: Nathuram Godse
+Opis: odczytując 96-stronicowy dokument w języku angielskim, w którym wyjaśniał swoje motywy.
+Źródło: Eva Weber, Proces zabójców Gandhiego w: 100 najsłynniejszych procesów pod redakcją Edwarda W. Knappmana, tłum. Jarosław Mikos, wyd. Świat Książki, Warszawa 1998, ISBN 8372270570, s. 273.
+
+Oświadczam przed Bogiem i ludźmi, że kładąc kres życiu Gandhiego uwolniłem Indie od człowieka, który był dla nich przekleństwem, siłą zła, i który (…) sprowadził jedynie nędzę i nieszczęście, nie tylko na Hindusów (…), ale także na muzułmanów.

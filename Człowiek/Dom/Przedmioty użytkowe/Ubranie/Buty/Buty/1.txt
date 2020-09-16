@@ -1,0 +1,4 @@
+Section: Buty
+Opis: XIX wiek.
+
+But wielki skręca, małe ciśnie nogi.

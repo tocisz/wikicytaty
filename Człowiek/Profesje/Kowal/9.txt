@@ -1,0 +1,5 @@
+Section: Kowal
+Autor: Wiesław Malicki
+
+Nie każdy jest kowalem swego losu.
+Przeważnie bywa się kowadłem.

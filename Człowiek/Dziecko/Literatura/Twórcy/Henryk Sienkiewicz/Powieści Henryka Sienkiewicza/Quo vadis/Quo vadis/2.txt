@@ -1,0 +1,4 @@
+Section: Quo vadis
+Opis: tytuł powieści. Według legendy pytanie to zadał św. Piotr, uciekając z Rzymu, napotkanemu Chrystusowi.
+
+Dokąd idziesz (Panie)?

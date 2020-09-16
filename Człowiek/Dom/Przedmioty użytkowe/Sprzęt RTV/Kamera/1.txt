@@ -1,0 +1,4 @@
+Section: Kamera
+Autor: Dirk Bogarde
+
+Kamera jest w stanie oddać myśl w dwusekundowym ujęciu. Opisanie jej na kartce papieru zajęłoby godzinę.

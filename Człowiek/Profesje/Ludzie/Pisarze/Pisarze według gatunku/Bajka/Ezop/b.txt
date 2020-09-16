@@ -1,0 +1,3 @@
+Section: Ezop
+
+Każdy z nas nosi dwie sakwy: jedną z przodu, drugą z tyłu. Do tej z przodu składamy błędy innych, do tej z tyłu – nasze własne błędy i dlatego ich nie widzimy.

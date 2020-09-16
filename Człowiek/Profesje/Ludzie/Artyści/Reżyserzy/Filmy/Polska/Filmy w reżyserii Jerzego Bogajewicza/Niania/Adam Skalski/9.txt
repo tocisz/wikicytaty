@@ -1,0 +1,5 @@
+Section: Adam Skalski
+Opis: o Małgosi.
+Źródło: odcinek 5, Stosunki służbowe
+
+Powinniśmy ją trzymać pod kluczem.

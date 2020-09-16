@@ -1,0 +1,4 @@
+Section: Michael Buffer
+Opis: słynne powiedzenie, rozpoczynające walkę.
+
+Przygotujcie się na grzmoty!

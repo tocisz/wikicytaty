@@ -1,0 +1,5 @@
+Section: Jessie Redmon Fauset
+Opis: fragment listu napisanego podczas studiów w Cornell University.
+Źródło: Deborah G. Felder, 100 kobiet, które miały największy wpływ na dzieje ludzkości, tłum. Maciej Świerkocki, wyd. Świat Książki, Warszawa 1998, ISBN 8371296665, s. 237.
+
+Ponieważ niemal całe życie spędziłam w dzielnicy zamieszkanej głównie przez białych, a przez ostatnie cztery lata byłam jedyną kolorową dziewczyną w moim środowisku akademickim… musiałam po prostu pokazać ludziom, że my także posiadamy wybitne zdolności i talenty, albowiem w przeciwnym razie musiałabym wyrzec się swojej osobowości.

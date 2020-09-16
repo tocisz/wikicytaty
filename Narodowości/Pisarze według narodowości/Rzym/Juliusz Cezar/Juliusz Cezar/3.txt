@@ -1,0 +1,4 @@
+Section: Juliusz Cezar
+Opis: słowa oryginalnie wypowiedziane po grecku, dosłownie „I ty, synu?”, rozpowszechnione w wersji łacińskiej Et tu Brute contra me.
+
+I ty, Brutusie, przeciw mnie?

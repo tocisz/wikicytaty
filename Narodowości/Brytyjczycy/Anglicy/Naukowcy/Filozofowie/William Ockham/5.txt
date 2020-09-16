@@ -1,0 +1,5 @@
+Section: William Ockham
+Źródło: Summa logiczna
+Opis: teza z pism Williama Ockhama uznawana za najbliższą regule tzw. brzytwy Ockhama.
+
+Żaden powszechnik nie jest substancją, obojętnie, jak byśmy się nań zapatrywali.

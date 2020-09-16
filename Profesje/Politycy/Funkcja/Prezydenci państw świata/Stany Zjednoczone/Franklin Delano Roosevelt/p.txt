@@ -1,0 +1,5 @@
+Section: Franklin Delano Roosevelt
+Opis: fragment mowy inauguracyjnej z 4 marca 1933 na rozpoczęcie pierwszej kadencji zawierającej apel o poparcie przez obywateli USA programu Nowego Ładu (New Deal).
+Źródło: Mowa inauguracyjna, przeł. Piotr Rączka, w: Wielkie mowy historii, t. 2, wyd. Polityka Spółdzielnia Pracy, Warszawa 2006.
+
+Wreszcie nasz postęp w dziedzinie zwiększania miejsc pracy będzie wymagał dwóch zabezpieczeń przed powrotem złych duchów starego porządku; cała sfera bankowości, kredytowania i inwestowania musi podlegać ścisłemu nadzorowi; należy położyć kres spekulacji cudzymi pieniędzmi i wprowadzić regulacje zapewniające odpowiedni i mocny pieniądz.

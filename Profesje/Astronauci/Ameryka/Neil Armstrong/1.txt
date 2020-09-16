@@ -1,0 +1,6 @@
+Section: Neil Armstrong
+Opis: misja Apollo 11, podczas zejścia na Księżyc, 20 lipca 1969.
+Inne tłumaczenie: To jest mały krok dla człowieka, ale wielki skok dla ludzkości.
+Źródło: Jostein Gaarder, Świat Zofii. Cudowna podróż w głąb historii filozofii, tłum. Iwona Zimnicka, Warszawa 1995, s. 500.
+
+Dla człowieka to jeden mały krok, dla ludzkości skok ogromny.

@@ -1,0 +1,3 @@
+Section: Los powtórzony / C
+
+Często zastanawiał się, czy naukowcy zawsze muszą tworzyć tylko sobie znane hermetyczne języki pełne tajemniczej terminologii. Czasami miał wrażenie, że robią to z czystej próżności i żeby wszystko skomplikować jak najbardziej.

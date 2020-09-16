@@ -1,0 +1,3 @@
+Section: Demokryt / C
+
+Ciężko jest być zależnym od człowieka gorszego.

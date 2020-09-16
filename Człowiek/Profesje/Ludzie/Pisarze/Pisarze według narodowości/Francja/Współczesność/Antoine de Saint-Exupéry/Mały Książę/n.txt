@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: Mały Książę do Pilota.
+
+Lecz oczy są ślepe. Szukać należy sercem.

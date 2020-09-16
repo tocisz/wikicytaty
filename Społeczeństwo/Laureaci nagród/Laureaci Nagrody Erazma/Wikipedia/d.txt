@@ -1,0 +1,4 @@
+Section: Wikipedia
+Autor: Jimmy Wales
+
+Wikipedia nie jest innowacją techniczną, lecz społeczną.

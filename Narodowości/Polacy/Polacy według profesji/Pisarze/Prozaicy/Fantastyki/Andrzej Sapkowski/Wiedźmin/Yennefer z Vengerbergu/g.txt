@@ -1,0 +1,5 @@
+Section: Yennefer z Vengerbergu / Wypowiedzi
+Opis: dialog Jaskra i Yennefer po zaatakowaniu Jaskra przez Rience’a, cyt. za: Andrzej Sapkowski, Krew elfów.
+
+– Uważam, że trzeba ostrzec Geralta. Ty jedna wiesz gdzie go szukać. Znasz drogę. Domniemywam, że bywałaś tam… gościem…
+– Owszem, zdarzało mi się niegdyś. Zdarzało mi się bywać tam gościem. Ale nigdy nieproszonym.

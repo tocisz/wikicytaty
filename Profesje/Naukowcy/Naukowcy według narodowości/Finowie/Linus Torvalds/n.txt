@@ -1,0 +1,4 @@
+Section: Linus Torvalds / N
+Źródło: http://www.linuxhq.com/kernel/v1.3/53/Documentation/CodingStyle Dokumentacja stylu kodowania Linuksa 1.3.53 (28 sierpnia 2006)
+
+Nieskończenie wiele małp piszących przy użyciu GNU emacsa nigdy nie napisze dobrego programu.

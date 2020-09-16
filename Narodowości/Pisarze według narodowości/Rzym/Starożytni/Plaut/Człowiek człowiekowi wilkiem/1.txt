@@ -1,0 +1,4 @@
+Section: Człowiek człowiekowi wilkiem
+Opis: parafraza z komedii Plauta Asinaria, podsumowująca opinię autora o naturze człowieka.
+
+Człowiek człowiekowi (jest) wilkiem.

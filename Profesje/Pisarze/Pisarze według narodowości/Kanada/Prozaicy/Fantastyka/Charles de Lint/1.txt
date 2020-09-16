@@ -1,0 +1,5 @@
+Section: Charles de Lint
+Opis: przypisywane
+Źródło: Scott Mautz, Make it Matter
+
+Wszyscy jesteśmy zbudowani z historii. Nawet kiedy nas pogrzebią, to właśnie historie będą żyć dalej. 

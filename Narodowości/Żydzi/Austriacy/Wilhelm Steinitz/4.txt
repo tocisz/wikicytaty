@@ -1,0 +1,3 @@
+Section: Wilhelm Steinitz
+
+szachy

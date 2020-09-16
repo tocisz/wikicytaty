@@ -1,0 +1,5 @@
+Section: Michel Bauwens
+Źródło: http://zielonewiadomosci.pl/zw/w-poszukiwaniu-nowej-wiekszosci/ Internet, dobra wspólne i sprawiedliwość społeczna, rozmowa z Adamem Ostolskim, zielonewiadomosci.pl, 31 grudnia 2013.
+Zobacz też: technologia, kapitalizm
+
+Odrzucam wyobrażenie, że technologia jest czymś neutralnym, postrzegam ją jako coś, co otwiera przed ludzkością nowe możliwości. Ale te możliwości mogą być przedmiotem konfliktu. Technologia peer-to-peer (p2p) może przybierać różne formy w zależności od sił, które ją kontrolują. Na przykład w tym, co nazywam „kapitalizmem netarchicznym”, mamy platformy własnościowe. Komercyjni właściciele tworzą fasadę p2p (front-end), ponieważ chcą, by ludzie się ze sobą komunikowali, ale ta fasada połączona jest z hierarchicznym wnętrzem (back-end), gdzie dizajn oraz dane personalne są kontrolowane, dzięki czemu można sprzedawać uwagę użytkowników. Gdy więc mówimy o technologii peer-to-peer, musimy uważać, by patrzeć nie tylko na strukturę – komputery połączone w sieci p2p, ludzie zorganizowani w sieci p2p itp.– lecz także na relacje władzy i własności.

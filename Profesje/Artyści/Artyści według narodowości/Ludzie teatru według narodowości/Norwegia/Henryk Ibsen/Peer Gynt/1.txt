@@ -1,0 +1,4 @@
+Section: Peer Gynt
+Opis: tłum. Z. Krawczykowski.
+
+Nikt nie umiera w samym środku piątego aktu.

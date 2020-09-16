@@ -1,0 +1,4 @@
+Section: Robert Sheckley
+Źródło: Mnemon
+
+Mnemoni jako klasa społeczna wypłynęli w ostatnim roku Wojny, Która Położyła Kres Wszystkim Wojnom. Ich jedyna funkcją społeczną było zapamiętywanie dzieł literackich, którym groziło zagubienie, zniszczenie lub zakaz czytania.

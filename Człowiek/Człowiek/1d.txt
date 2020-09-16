@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Autor: Blaise Pascal
+
+Człowiek jest mieszaniną pychy i nikczemności, wielkości i nędzy; pragnie cnoty, a służy grzechowi; pragnie trwałego szczęścia, a goni za chwilowymi rozkoszami; pan ziemi i nędzny robak.

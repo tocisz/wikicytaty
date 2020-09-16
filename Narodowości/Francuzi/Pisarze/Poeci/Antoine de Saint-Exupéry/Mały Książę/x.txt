@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: Mały Książę do pilota.
+
+Nawet w obliczu śmierci przyjemna jest świadomość posiadania przyjaciela.

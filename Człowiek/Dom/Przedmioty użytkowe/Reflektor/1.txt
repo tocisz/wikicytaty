@@ -1,0 +1,4 @@
+Section: Reflektor
+Opis: prawo Murphy'ego
+
+Światełko w tunelu jest reflektorem pociągu nadjeżdżającego z przeciwka.

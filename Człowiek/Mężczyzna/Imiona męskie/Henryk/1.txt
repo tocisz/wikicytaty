@@ -1,0 +1,4 @@
+Section: Henryk
+Opis: przysłowie polskie
+
+Od świętego Henryka noc umyka.

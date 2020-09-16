@@ -1,0 +1,4 @@
+Section: Nieuk
+Opis: przysłowie wietnamskie
+
+Brzydka kobieta lubi się zdobić, nieuk lubi popisywać się swą wiedzą.

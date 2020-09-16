@@ -1,0 +1,4 @@
+Section: Kevin Warwick
+Źródło: http://wyborcza.pl/1,75476,8878308,Ja__cyborg.html?as=3&startsz=x#ixzz19bG7jopz wyborcza.pl, 29 grudnia 2010
+
+W jednym z eksperymentów, które tu prowadzimy, hodujemy w szalce komórki nerwowe, które potem łączymy z zabawkowym robotem. I one uczą się kontrolować tego robota. Chodzi oczywiście o bardzo proste, podstawowe odruchy, np. chodzenie. Podłączyliśmy mu sonar, ten sam, z którego ja korzystałem, i dzięki niemu robot nie zderza się z otaczającymi go przedmiotami.

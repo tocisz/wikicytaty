@@ -1,0 +1,3 @@
+Section: W zasadzie niegroźna
+
+Logika jest świetną rzeczą, ma jednak – co wykazała ewolucja – kilka wad. Wszystko, co logicznie myśli, może zostać oszukane przez coś, co myśli przynajmniej tak samo logicznie. Najprostszym sposobem stuprocentowo logicznego oszukania robota jest podawanie mu ciągle tego samego zestawu bodźców, co spowoduje, że zaplącze się w błędnym kole.

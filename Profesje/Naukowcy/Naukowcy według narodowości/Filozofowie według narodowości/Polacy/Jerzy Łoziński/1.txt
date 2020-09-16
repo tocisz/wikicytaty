@@ -1,0 +1,5 @@
+Section: Jerzy Łoziński
+Opis: wyjaśnienie swojej kontrowersyjnej praktyki, zmierzającej do maksymalnego dostosowania tłumaczonego tekstu do specyfiki polskojęzycznego odbiorcy.
+Źródło: notka od tłumacza w książce Władca Pierścieni. Powrót Króla (wyd. Zysk i S-ka, Poznań 1997, ISBN 83-7150-243-5), str. 595.
+
+Nawet tak wspaniałe przekłady jak S. Barańczaka mogą być podstawą do studiowania świata Szekspira, ale nie Shakespeare'a.

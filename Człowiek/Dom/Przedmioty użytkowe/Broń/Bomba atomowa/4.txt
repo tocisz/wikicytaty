@@ -1,0 +1,5 @@
+Section: Bomba atomowa
+Autor: Albert Einstein
+Opis: komentując swoją rolę w skonstruowaniu bomby atomowej.
+
+Gdybym tylko wiedział, powinienem był zostać zegarmistrzem.

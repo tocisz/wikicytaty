@@ -1,0 +1,4 @@
+Section: Bat
+Autor: Jan Sztaudynger
+
+Jak świat światem bat źle współżyje z grzbietem.

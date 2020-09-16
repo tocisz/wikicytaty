@@ -1,0 +1,4 @@
+Section: Linus Torvalds / M
+Źródło: http://lkml.org/lkml/2006/9/22/319 Wiadomość na listę mailową jądra Linuksa, 22 września 2006 (7 czerwca 2008)
+
+Myślę, że ludzie w ogólności mogą mi ufać, ale mogą mi ufać właśnie dlatego, że wiedzą, że nie muszą.

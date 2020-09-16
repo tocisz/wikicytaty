@@ -1,0 +1,4 @@
+Section: Menu
+Autor: Feliks Rajczak
+
+W menu zazdrości są tylko puste kalorie.

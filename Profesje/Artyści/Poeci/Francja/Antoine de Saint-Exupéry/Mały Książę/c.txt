@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: geograf do Małego Księcia.
+
+Geograf jest zbyt ważną osobistością, by mógł sobie pozwolić na łazikowanie.

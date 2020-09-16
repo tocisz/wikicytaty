@@ -1,0 +1,5 @@
+Section: Wdowa
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, Księga przysłów…, op. cit., s. 585.
+
+Wdowiec z wdową rzadko dobrze z sobą.

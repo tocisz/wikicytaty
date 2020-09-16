@@ -1,0 +1,4 @@
+Section: Czytelnik
+Autor: Arturo Pérez-Reverte, Klub Dumas
+
+Każdy czytelnik ma takiego diabła, na jakiego zasłużył.

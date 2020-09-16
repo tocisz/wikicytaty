@@ -1,0 +1,7 @@
+Section: Po rozum do głowy
+Źródło: s. 4
+Zobacz też: czas, dokładność, zegar
+
+Pewnego razu przed Bardzo Zacnym Matematykiem (…) położono dwa zegarki. Jeden z nich był zepsuty – stał, drugi co prawda chodził, lecz śpieszył się o sekundę na dobę. Nie pozbawiony poczucia humoru matematyk zwrócił się do komputera, żeby mu wskazał, który z zegarków przedstawia większą wartość praktyczną.
+Maszyna cyfrowa odpowiedziała (…):
+– Zepsuty zegarek w ciągu jednej doby pokazuje właściwy czas dwa razy, natomiast śpieszący się właściwą godzinę pokazuje raz na 118 lat i ponad 3 miesiące (dokładniej – 43 200 dni).

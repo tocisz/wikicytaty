@@ -1,0 +1,4 @@
+Section: Marek
+Opis: przysłowie polskie
+
+Gdy Marek z mrozem przybywa, babie lato krótkie bywa.

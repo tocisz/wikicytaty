@@ -1,0 +1,4 @@
+Section: Dzwon
+Autor: Ignacy Krasicki
+
+Wiesz, dlaczego dzwon głośny? Bo wewnątrz próżny.

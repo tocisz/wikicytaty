@@ -1,0 +1,4 @@
+Section: Nikt
+Autor: Stanisław Jerzy Lec
+
+Anonim jest tylko wtedy dopuszczalny, gdy piszący go rzeczywiście jest nikim.

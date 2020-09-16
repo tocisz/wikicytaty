@@ -1,0 +1,5 @@
+Section: Uzda
+Autor: Andrzej Frycz Modrzewski
+Źródło: O naprawie Rzeczypospolitej, wyd. E. Wende & Ska, Warszawa 1914, tłum. Cyprian Bazylik.
+
+Jedzenia i picia, i zbytnie żarcie nieprzystojne jest człowiekowi, ale najwięcej tym, którzy na sobie osobę urzędu noszą, bo ciało rozmaitymi niemocami zaraża, samego człowieka do statecznych spraw niesposobnego a na koniec wszetecznym i zuchwałym, a jako bez uzdy konia z drogi błądzącym czyni.

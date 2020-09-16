@@ -1,0 +1,4 @@
+Section: Rossmówki / Wypowiedzi postaci
+Opis: pożegnanie na zakończenie audycji.
+
+Bulba!

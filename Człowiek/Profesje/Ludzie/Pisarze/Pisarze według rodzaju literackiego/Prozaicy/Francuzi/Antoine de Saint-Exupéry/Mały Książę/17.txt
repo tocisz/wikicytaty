@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: Mały Książę do pilota.
+
+Pustynię upiększa to, że gdzieś w sobie kryje studnię.

@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Autor: Antoine de Saint-Exupéry
+
+Człowiek ma dar kochania, lecz także dar cierpienia.

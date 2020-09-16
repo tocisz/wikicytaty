@@ -1,0 +1,3 @@
+Section: Turbot / N
+
+Niestety to nie jest tak, że można wszystko wiedzieć z góry.

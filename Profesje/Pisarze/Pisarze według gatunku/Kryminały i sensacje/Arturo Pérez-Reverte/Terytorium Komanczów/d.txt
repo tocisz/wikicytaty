@@ -1,0 +1,4 @@
+Section: Terytorium Komanczów
+Opis: z wykładów Barlesa dla studentów dziennikarstwa.
+
+(…) wojna jest jedna: jakieś nieboraki w rozmaitych mundurach strzelają do siebie, umierając ze strachu, w dziurach pełnych błota, a ważny sukinsyn siedzi i pali cygaro w klimatyzowanym biurze, gdzieś bardzo daleko, wymyśla flagi, hymny narodowe i pomniki nieznanego żołnierza, nie brudząc się krwią ani gównem. Wojna to biznes dla sprzedawców i generałów, drogie dzieci. Cała reszta to bałach.

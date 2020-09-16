@@ -1,0 +1,5 @@
+Section: Lekarz
+Autor: Sofokles
+Zobacz też: lekarstwo
+
+Zły to lekarz, który stosuje lekarstwo gorsze od samej choroby.

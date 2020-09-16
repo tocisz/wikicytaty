@@ -1,0 +1,3 @@
+Section: Tadeusz Morawski
+
+Ala wywraca, a car wywala

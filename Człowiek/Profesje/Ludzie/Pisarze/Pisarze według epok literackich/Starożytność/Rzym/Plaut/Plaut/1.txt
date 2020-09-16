@@ -1,0 +1,4 @@
+Section: Plaut
+Źródło: Pseudolus
+
+Biada zwyciężonym!

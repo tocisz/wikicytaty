@@ -1,0 +1,4 @@
+Section: Kufel
+Opis: przysłowie łotewskie
+
+Czas zrobi z ziarenka jęczmienia kufel piwa.

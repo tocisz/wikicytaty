@@ -1,0 +1,4 @@
+Section: Linus Torvalds / T
+Źródło: LKML, April 21, 2006 http://groups.google.com/group/fa.linux.kernel/msg/0aff8e90a185c176
+
+Twierdzę, że ludzie od Macha (a także FreeBSD) to niekompetentni idioci.

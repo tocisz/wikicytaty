@@ -1,0 +1,4 @@
+Section: Życiorys
+Autor: Aleksander Kumor
+
+Żyj według życiorysu, który chciałbyś sobie napisać.

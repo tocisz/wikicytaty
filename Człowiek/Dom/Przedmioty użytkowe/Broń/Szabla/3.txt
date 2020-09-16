@@ -1,0 +1,6 @@
+Section: Szabla
+Autor: Henryk Sienkiewicz
+Źródło: Potop
+Opis: Roch Kowalski o swej szabli.
+
+Ja jestem Kowalski, a to jest pani Kowalska, innej nie chcę.

@@ -1,0 +1,5 @@
+Section: Eben Moglen
+Źródło: http://www.softwarefreedom.org/events/2010/isoc-ny/FreedomInTheCloud-transcript.html Freedom In the Cloud: Software Freedom, Privacy, and Security for Web 2.0 and Cloud Computing, softwarefreedom.org, 5 lutego 2010
+Zobacz też: Facebook, Mark Zuckerberg
+
+Ludzka rasa jest podatna na zranienie, ale pan Zuckerberg osiągnął w tym niezbyt godne pozazdroszczenia mistrzostwo: uczynił ludzkiej rasie większą krzywdę niż ktokolwiek w jego wieku. Ujarzmił piątkowy wieczór. Oczywiście, każdy chce, żeby ktoś mu zrobił dobrze, ale on uczynił z tego strukturę degenerującą całość ludzkiej osobowości, a udało mu się to w ogromnej mierze za sprawą bardzo kiepskiego układu. A mianowicie: „Dam wam darmowy hosting i trochę gadżetów w PHP, a w zamian będziecie szpiegowani 24h”. I to działa.

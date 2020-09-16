@@ -1,0 +1,5 @@
+Section: Smoleńsk
+Postać: dowódca w rosyjskiej wieży lotów lotniska Smoleńsk
+Opis: do podwładnego żołnierza na wieży lotów.
+
+Sprowadzasz go do 50 metrów.

@@ -1,0 +1,4 @@
+Section: Bohater
+Autor: Ralph Waldo Emerson
+
+Każdy bohater staje się w końcu nudziarzem.

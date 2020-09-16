@@ -1,0 +1,4 @@
+Section: Hogo-fogo Homolka
+Opis: ulubione powiedzenie pradziadka.
+
+Powiem ci, że życie jest piękne, ale g… warte.

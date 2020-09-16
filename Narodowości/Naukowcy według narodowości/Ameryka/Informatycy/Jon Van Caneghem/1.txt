@@ -1,0 +1,4 @@
+Section: Jon Van Caneghem
+Źródło: Wprowadzenie [w:] Instrukcja Heroes of Might and Magic III: The Restoration of Erathia, s. 3, dołączona w formacie. pdf do: New World Computing, Heroes of Might and Magic III: The Restoration of Erathia, tłum. CD Projekt
+
+Skok jakościowy pomiędzy King’s Bounty, a Heroes I był prawdopodobnie najbardziej znaczący zarówno technologicznie jak i pod względem grywalności. Przyjrzałem się King’s Bounty, dodałem do planu gry kilka rzeczy, o które prosili gracze, uwzględniłem możliwości nowocześniejszych komputerów i zabrałem się do pracy. Po nieskończonych problemach z kodem gry, udało nam się ją skończyć i rozesłać do sklepów. Po czym czekaliśmy z zapartym tchem na reakcje.

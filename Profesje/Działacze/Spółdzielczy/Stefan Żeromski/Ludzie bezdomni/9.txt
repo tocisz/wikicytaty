@@ -1,0 +1,5 @@
+Section: Ludzie bezdomni
+Opis: Rozmowa doktora Judyma z Krzywosądem.
+Postać: Tomasz Judym
+
+Ja jestem człowiek młody, który starcem w danej chwili żadną miarą być nie może.

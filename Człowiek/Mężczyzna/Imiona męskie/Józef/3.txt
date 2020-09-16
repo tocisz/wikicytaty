@@ -1,0 +1,4 @@
+Section: Józef
+Opis: przysłowie polskie
+
+Święty Józef pogodny, będzie roczek wodny.

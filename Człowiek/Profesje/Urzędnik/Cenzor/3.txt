@@ -1,0 +1,4 @@
+Section: Cenzor
+Autor: Henryk Jagodziński
+
+I opinie cenzorów bywają niecenzuralne.

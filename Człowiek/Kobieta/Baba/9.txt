@@ -1,0 +1,5 @@
+Section: Baba
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, op. cit., s. 7.
+
+Gdzie diabeł nie może, tam babę pośle.

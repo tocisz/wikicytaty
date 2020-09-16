@@ -1,0 +1,3 @@
+Section: Arystyp
+
+Wyrzuć, czego za dużo, i nieś tylko tyle, ile możesz udźwignąć.

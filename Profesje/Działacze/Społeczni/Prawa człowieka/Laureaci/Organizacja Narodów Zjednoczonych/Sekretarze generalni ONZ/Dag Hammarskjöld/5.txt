@@ -1,0 +1,3 @@
+Section: Dag Hammarskjöld / C
+
+Czy wstręt do pustki ma być jedynym życiem, jakim tę pustkę zapełniasz?

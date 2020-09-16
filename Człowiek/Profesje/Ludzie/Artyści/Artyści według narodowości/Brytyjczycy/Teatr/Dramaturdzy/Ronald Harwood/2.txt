@@ -1,0 +1,5 @@
+Section: Ronald Harwood
+Opis: o filmie przeznaczonym dla dzieci.
+Źródło: http://www.stopklatka.pl/wywiady/wywiad.asp?wi=19673 Wywiad, 2004
+
+Film może trwać maksymalnie dwie godziny, bo tylko tyle wytrzymają dzieci.

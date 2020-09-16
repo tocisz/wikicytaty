@@ -1,0 +1,4 @@
+Section: Uczeń
+Autor: Witold Gombrowicz, Ferdydurke
+
+Każdy jest uczniem i tylko uczniem.

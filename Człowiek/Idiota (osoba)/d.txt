@@ -1,0 +1,5 @@
+Section: Idiota (osoba)
+Autor: Ryūnosuke Akutagawa
+Opis: tytuł opowiadania
+
+Życie pewnego idioty.

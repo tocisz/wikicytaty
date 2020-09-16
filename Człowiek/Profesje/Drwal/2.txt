@@ -1,0 +1,4 @@
+Section: Drwal
+Opis: przysłowie abchaskie
+
+Gdy kiepski drwal idzie do lasu, drżą wszystkie drzewa.

@@ -1,0 +1,3 @@
+Section: Tadeusz Morawski
+
+"akta generała ma mała renegatka",

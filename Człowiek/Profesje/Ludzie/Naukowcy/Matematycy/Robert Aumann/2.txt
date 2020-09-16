@@ -1,0 +1,4 @@
+Section: Robert Aumann
+Źródło: http://www.polityka.pl/spoleczenstwo/niezbednikinteligenta/259140,1,rozmowa-z-noblista-prof-robertem-aumannem-o-grach-spolecznych.read polityka.pl, 17 czerwca 2008
+
+Przecież takich rozgrywek jak globalna rywalizacja mocarstw, nawet przy dzisiejszej technice, nie da się precyzyjnie opisać w modelu matematycznym. Zbyt wiele jest niewiadomych i zbyt wiele czynników trzeba by uwzględnić. Ale znając teorię, rozumiejąc zasady, można wspomagać intuicję i spontaniczne myślenie.

@@ -1,0 +1,5 @@
+Section: Batalista
+Postać: Andres Falques
+Źródło: s. 178.
+
+Niepewność należy do gracza, a nie do reguł gry… Z nieskończonej liczby możliwych trajektorii pocisku tylko jedna zdarza się naprawdę. (…) Mikroskopijne źródło nieodwracalności.

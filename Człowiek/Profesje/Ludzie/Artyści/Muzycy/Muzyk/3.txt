@@ -1,0 +1,4 @@
+Section: Muzyk
+Autor: Adam Mickiewicz
+
+Muzyk zmiesza orkiestrę najlepiej dobraną, jeśli grając stara się, aby go słyszano.

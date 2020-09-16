@@ -1,0 +1,5 @@
+Section: Dziennikarz
+Autor: Karel Čapek
+Źródło: Leksykon złotych myśli, wyboru dokonał Krzysztof Nowak, Warszawa 1998.
+
+Dziennikarzem staje się człowiek z reguły w ten sposób, że z młodzieńczego braku doświadczenia napisze coś do prasy.

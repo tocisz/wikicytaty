@@ -1,0 +1,4 @@
+Section: Gene Roddenberry
+Opis: posłowie do serialu Ziemia: ostatnie starcie.
+
+Miarą siły cywilizacji nie jest zdolność do prowadzenia wojen, lecz zdolność do zapobiegania nim.

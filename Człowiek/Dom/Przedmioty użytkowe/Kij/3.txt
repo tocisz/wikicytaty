@@ -1,0 +1,5 @@
+Section: Kij
+Opis: przysłowie polskie
+Zobacz też: wiadro
+
+Kijem wiadra nie naprawisz.

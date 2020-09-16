@@ -1,0 +1,3 @@
+Section: Leszek Niedzielski / Inne
+
+Najgorzej, jak dwie dupy zejdą się do kupy.

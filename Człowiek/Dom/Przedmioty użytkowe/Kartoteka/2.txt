@@ -1,0 +1,4 @@
+Section: Kartoteka
+Autor: Milan Kundera
+
+Kartoteki policyjne są często naszą jedyną przepustką do nieśmiertelności.

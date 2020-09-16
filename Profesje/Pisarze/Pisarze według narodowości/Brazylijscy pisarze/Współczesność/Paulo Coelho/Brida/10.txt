@@ -1,0 +1,3 @@
+Section: Brida
+
+To, co zewnętrzne, trudniej zmienić niż to, co wewnątrz.

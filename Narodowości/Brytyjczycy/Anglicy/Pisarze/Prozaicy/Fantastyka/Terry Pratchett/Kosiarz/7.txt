@@ -1,0 +1,3 @@
+Section: Kosiarz
+
+Diament. To zwykły kamień poddany wysokiej temperaturze i ciśnieniu.

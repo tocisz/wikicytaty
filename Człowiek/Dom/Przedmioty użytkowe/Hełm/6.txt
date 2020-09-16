@@ -1,0 +1,8 @@
+Section: Hełm
+Autor: John Ronald Reuel Tolkien, Drużyna Pierścienia
+Opis: jedna ze zwrotek wiersza Bilbo Bagginsa, wypowiedzianego przez Sama.
+
+Przy włóczni ostrej – długi miecz;
+Z dala widziano lśniący hełm;
+Niebiańskich pól gwiaździsty siew
+Na lustrze tarczy jarzył się.

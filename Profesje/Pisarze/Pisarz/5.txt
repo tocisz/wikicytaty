@@ -1,0 +1,5 @@
+Section: Pisarz
+Opis: przysłowie śląskie
+Źródło: Andrzej Cinciała, Pierwszy dodatek do Przysłów ludu w Księstwie Cieszyńskiem w: http://www.wbc.poznan.pl/dlibra/docmetadata?id=146532 Wisła. Miesięcznik Geograficzno-Etnograficzny, tom II, z. 2, wyd. A. Gruszecki, Warszawa 1888, s. 308.
+
+Jak sie z chłopa stanie pisarz, to se myśli, że je cesarz.

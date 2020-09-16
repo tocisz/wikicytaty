@@ -1,0 +1,4 @@
+Section: Jerzy Ofierski
+Opis: zwrot, którym zaczyna się każda opowieść sołtysa Kierdziołka
+
+Cie choroba!

@@ -1,0 +1,5 @@
+Section: Galileusz
+Opis: według legendy słowa wypowiedziane szeptem przez Galileusza w 1633, gdy stanął przed sądem inkwizycji rzymskiej.
+Źródło: Giuseppe Baretti, Italian Library, "Querelles Littéraires" (1761)
+
+A jednak się kręci.

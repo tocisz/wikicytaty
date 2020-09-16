@@ -1,0 +1,4 @@
+Section: Wroniec
+Opis: w kolejce.
+
+Pamiętaj za kim Stoisz.

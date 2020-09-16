@@ -1,0 +1,5 @@
+Section: Agnieszka
+Opis: przysłowie polskie
+Źródło: Encyklopedia staropolska
+
+Dobra Agnieszka – kto z nią nie mieszka.

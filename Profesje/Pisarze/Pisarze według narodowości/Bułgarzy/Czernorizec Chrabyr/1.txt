@@ -1,0 +1,5 @@
+Section: Czernorizec Chrabyr
+Opis: początek traktatu.
+Źródło: O literach, cyt. za: Leszek Moszyński, Wstęp do filologii słowiańskiej, Wydawnictwo Naukowe PWN, Warszawa 2006, ISBN 8301147202, s. 17, 19.
+
+Początkowo Słowianie nie mieli pisma, lecz gdy byli poganami, liczyli i wróżyli za pomocą kresek i nacięć. Po przyjęciu zaś chrześcijaństwa usiłowali zapisać mowę słowiańską nieprzystosowanymi literami łacińskim i greckimi.

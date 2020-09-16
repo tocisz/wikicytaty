@@ -1,0 +1,4 @@
+Section: Ryszard Tadeusiewicz
+Źródło: Anna Wojnar, Odkrywanie tajemnic ludzkiego mózgu, „Alma Mater” nr 103, maj 2008, s. 19.
+
+(...) można zaprojektować i przebadać neurokomputer, który będzie mógł poznawać zupełnie nieznane światy – na przykład podczas wypraw kosmicznych na nieznane planety. Ta niezwykła maszyna będzie do tego zdolna dzięki temu, że zostanie wyposażona w umiejętność samouczenia się. Twórca takiego neurokomputera nie musi więc z góry wiedzieć, jak będą wyglądali kosmici, których sonda odnajdzie na dalekiej planecie. Neurokomputer sam się nauczy rozpoznawać ich i dzielić na grupy, na przykład związane z płciami, których u kosmitów może być więcej niż dwie! Budowniczy sondy nie musi też próbować przewidywać, jakie potwory mogą zaatakować wysłaną sondę i jak się będzie można przed nimi bronić – bo wszystko to budowana samoucząca się sieć neuronowa sama odkryje!

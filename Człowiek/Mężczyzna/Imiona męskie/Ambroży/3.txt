@@ -1,0 +1,5 @@
+Section: Ambroży
+Opis: przysłowie polskie
+Źródło: Oskar Kolberg, Lud. Jego zwyczaje, sposób życia, mowa, podania, przysłowia, obrzędy, gusła, zabawy, pieśni, muzyka i tańce, Tom 17, W. druk. Jana Jaworskiego, 1884, s. 176.
+
+Na święty Ambroży poprawią się mrozy.

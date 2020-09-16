@@ -1,0 +1,5 @@
+Section: Geometria dla najmłodszych
+Postać: pan Andrzej
+Źródło: s. 49
+
+Każdy kąt, który jest mniejszy od kąta prostego, nazywa się kątem ostrym.

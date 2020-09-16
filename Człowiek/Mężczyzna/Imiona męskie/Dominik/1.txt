@@ -1,0 +1,4 @@
+Section: Dominik
+Opis: przysłowie polskie
+
+Gdy ciepło na Dominika, ostra zima nas dotyka.

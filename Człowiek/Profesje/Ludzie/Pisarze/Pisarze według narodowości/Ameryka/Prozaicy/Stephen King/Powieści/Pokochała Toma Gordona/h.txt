@@ -1,0 +1,5 @@
+Section: Pokochała Toma Gordona
+Opis: pierwsze zdanie z książki.
+Źródło: Rozgrzewka
+
+Świat to potwór zębaty, gotów gryźć, gdy tylko zechce.

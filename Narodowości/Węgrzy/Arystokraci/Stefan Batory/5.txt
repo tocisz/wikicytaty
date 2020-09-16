@@ -1,0 +1,4 @@
+Section: Stefan Batory
+Opis: przysłowie łacińskie, zacytowane przez Batorego, skierowane do Jana Zamoyskiego o Samuelu Zborowskim.
+
+Nieżywy pies nie gryzie.

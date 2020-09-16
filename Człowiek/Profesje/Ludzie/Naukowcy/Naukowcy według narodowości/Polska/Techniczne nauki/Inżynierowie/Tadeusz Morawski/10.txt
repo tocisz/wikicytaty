@@ -1,0 +1,4 @@
+Section: Tadeusz Morawski / Palindromy
+Opis: palindrom z nazwiskiem autora.
+
+Morawski na zanik swarom!

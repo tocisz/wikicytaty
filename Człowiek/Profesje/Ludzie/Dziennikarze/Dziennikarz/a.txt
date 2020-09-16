@@ -1,0 +1,4 @@
+Section: Dziennikarz
+Autor: Sławomir Master
+
+Ktoś kiedyś powiedział, że nie ma głupich pytań, a jednak dziennikarze czasami potrafią takie wymyślić.

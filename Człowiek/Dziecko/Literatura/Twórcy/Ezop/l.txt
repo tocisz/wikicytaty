@@ -1,0 +1,3 @@
+Section: Ezop
+
+Siostrą rozkoszy jest smutek.

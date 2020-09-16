@@ -1,0 +1,4 @@
+Section: Johnny Bravo / Dialogi
+Opis: Johnny zapytany o tajne hasło bractwa GNU. Poprawne hasło brzmiało: Suma podstawy równa się kwadratowi obu ramion, mimo to został wpuszczony.
+
+– Lubię placki.

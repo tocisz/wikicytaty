@@ -1,0 +1,4 @@
+Section: Puder
+Opis: przysłowie polskie
+
+Nie pomoże puder, róż, kiedy gęba stara już.

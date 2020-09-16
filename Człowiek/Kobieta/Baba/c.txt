@@ -1,0 +1,4 @@
+Section: Baba
+Opis: przysłowie polskie
+
+Masz, babo, placek.

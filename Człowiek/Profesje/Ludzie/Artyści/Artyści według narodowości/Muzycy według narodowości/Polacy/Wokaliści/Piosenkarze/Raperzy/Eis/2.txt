@@ -1,0 +1,4 @@
+Section: Eis
+Źródło: Teraz albo nigdy
+
+Jestem tu po hajs, nie po drobne.

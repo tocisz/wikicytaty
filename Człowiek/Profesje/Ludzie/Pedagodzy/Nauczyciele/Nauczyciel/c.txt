@@ -1,0 +1,4 @@
+Section: Nauczyciel
+Źródło: Podstawa programowa, MEN, 2002
+
+Nauczyciel powinien dążyć do wszechstronnego rozwoju ucznia jako nadrzędnego celu pracy edukacyjnej.

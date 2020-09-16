@@ -1,0 +1,6 @@
+Section: David Brin
+Opis: o gatunku ludzkim.
+Źródło: Wojna wspomaganych (Postscriptum)
+
+Być może jesteśmy pierwszymi, którzy mówią, myślą, budują i mają aspiracje,
+niekoniecznie jednak ostatnimi.

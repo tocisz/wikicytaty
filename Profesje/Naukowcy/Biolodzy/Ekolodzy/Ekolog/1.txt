@@ -1,0 +1,4 @@
+Section: Ekolog
+Autor: Wiktor Suworow, Specnaz
+
+Ekolodzy są jak arbuzy – na zewnątrz zieloni, w środku czerwoni.

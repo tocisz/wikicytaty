@@ -1,0 +1,4 @@
+Section: Zakład Ubezpieczeń Społecznych
+Źródło: znalezione w Usenecie
+
+Jednostką bałaganu jest ZUS. W praktyce nie występują tak wielkie wartości więc używamy przedrostków nano, piko i femto. Wzorzec zusa jest umieszczony w Warszawie na ul. Czerniakowskiej 16.

@@ -1,0 +1,5 @@
+Section: Andrzej
+Opis: przysłowie
+Źródło: Nowa księga przysłów i wyrażeń przysłowiowych polskich, Tom 1, Warszawa 1969, PIW, s. 19.
+
+Gdy święty Andrzej ze śniegiem przybieży, sto dni śnieg na polu leży.

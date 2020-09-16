@@ -1,0 +1,4 @@
+Section: Grzegorz
+Opis: przysłowie polskie
+
+Po świętym Grzegorzu nie paś bydła na zbożu.

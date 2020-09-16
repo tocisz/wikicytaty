@@ -1,0 +1,4 @@
+Section: Syn
+Opis: przysłowie chińskie
+
+Długa choroba rodziców zniechęci najbardziej przywiązanego syna.

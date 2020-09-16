@@ -1,0 +1,4 @@
+Section: Emil
+Opis: przysłowie polskie
+
+Na Emila babskie lato się przesila.

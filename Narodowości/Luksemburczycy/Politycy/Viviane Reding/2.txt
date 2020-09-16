@@ -1,0 +1,4 @@
+Section: Viviane Reding
+Źródło: rozmowa Adama Leszczyńskiego, http://wyborcza.pl/1,76842,13910269,__Ostroznie_daje_moje_dane_internetowym_firmom____.html#ixzz2TSTPCkJ6 Ostrożnie daję moje dane internetowym firmom, „Gazeta Wyborcza”, 15 maja 2013
+
+Dane, które dał pan firmie, może pan wycofać, nawet jeśli ta firma już je odsprzedała komuś innemu. Ta firma musi wtedy podjąć wszystkie kroki – w granicach rozsądku – żeby je odzyskać. Oczywiście są firmy, które nie chcą się na to zgodzić, bo cały ich model biznesowy opiera się na kradzieży prywatnych danych i odsprzedawaniu ich.

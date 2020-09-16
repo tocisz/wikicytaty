@@ -1,0 +1,5 @@
+Section: Stół
+Opis: przysłowie.
+Zobacz też: nożyce
+
+Uderz w stół, a nożyce się odezwą.

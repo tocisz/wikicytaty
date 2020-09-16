@@ -1,0 +1,4 @@
+Section: Marek
+Opis: przysłowie polskie
+
+Kiedy Marek skwarem zieje, w maju kożuch nie dogrzeje.

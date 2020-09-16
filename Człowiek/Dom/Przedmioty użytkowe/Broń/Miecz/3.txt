@@ -1,0 +1,5 @@
+Section: Miecz
+Opis: przysłowie wg Biblii.
+Źródło: Biblia, Ewangelia wg św. Mateusza, 26,52
+
+Kto mieczem wojuje, ten od miecza ginie.

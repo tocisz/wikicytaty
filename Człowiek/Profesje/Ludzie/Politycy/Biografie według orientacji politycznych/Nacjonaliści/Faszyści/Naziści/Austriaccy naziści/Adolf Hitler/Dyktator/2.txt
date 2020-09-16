@@ -1,0 +1,5 @@
+Section: Dyktator
+Opis: rozmowa między byłym pilotem a fryzjerem.
+
+– Dziwne. Miałem cię Aryjczyka.
+– Jestem jaroszem.

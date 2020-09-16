@@ -1,0 +1,4 @@
+Section: Wojciech
+Opis: przysłowie polskie
+
+Gdy na Wojciecha rano plucha, do połowy lata będzie ziemia sucha.

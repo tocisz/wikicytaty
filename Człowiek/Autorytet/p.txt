@@ -1,0 +1,4 @@
+Section: Autorytet
+Autor: Lew Tołstoj
+
+Wiara w autorytety powoduje, że błędy autorytetów przyjmowane są za wzorce.

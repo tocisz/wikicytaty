@@ -1,0 +1,5 @@
+Section: Daniel J. Siegel / Burza w mózgu nastolatka. Potencjał okresu dorastania. (2015)
+Źródło: s. 76.
+Zobacz też: neuron, synapsa
+
+Jedna z tych zmian polega na zmniejszaniu się liczby komórek mózgowych (neuronów) oraz połączeń między nimi (synaps) w okresie dorastania. Proces ten nazywamy przycinaniem (pruning). (...) W dzieciństwie ma miejsce nadprodukcja neuronów i połączeń synaptycznych. (...) Przycinanie połączeń synaptycznych osiąga swój szczyt właśnie w okresie intensywnych zmian, jakim jest dorastanie. Pozbywamy się wówczas zbędnych połączeń, pozostawiając te, z których korzystamy.

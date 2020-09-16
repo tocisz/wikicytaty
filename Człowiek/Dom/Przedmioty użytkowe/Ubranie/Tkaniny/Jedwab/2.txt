@@ -1,0 +1,4 @@
+Section: Jedwab
+Opis: przysłowie arabskie
+
+Jedwab wynaleziono po to, aby kobiety mogły w sukniach chodzić nago.

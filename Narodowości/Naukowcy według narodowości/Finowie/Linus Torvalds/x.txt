@@ -1,0 +1,4 @@
+Section: Linus Torvalds / T
+Źródło: http://www.ussg.iu.edu/hypermail/linux/kernel/9804.1/0149.html Wiadomość na listę mailową linux-kernel, 8 kwietnia 1998 (28 sierpnia 2006)
+
+„Testy regresyjne”? Co to jest? Jeśli się kompiluje, jest dobrze, jeśli startuje, jest doskonale.

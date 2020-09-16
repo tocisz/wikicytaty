@@ -1,0 +1,4 @@
+Section: Ewa Grodecka
+Opis: o programach w harcerstwie.
+
+Programy są różne i zmienne, ale istnieje to samo wspólne dla wszystkich źródło rzeczy: Prawo harcerskie, metoda, system zastępowy.

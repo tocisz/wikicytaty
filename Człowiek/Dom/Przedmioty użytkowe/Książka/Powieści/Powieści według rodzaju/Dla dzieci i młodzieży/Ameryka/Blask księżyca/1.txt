@@ -1,0 +1,3 @@
+Section: Blask księżyca
+
+Celem każdej gry jest wygrana. Jeśli nie zależy ci na wygranej, bez sensu jest walczyć.

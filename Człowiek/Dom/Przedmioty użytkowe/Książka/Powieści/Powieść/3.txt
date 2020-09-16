@@ -1,0 +1,4 @@
+Section: Powieść
+Autor: Stendhal
+
+Powieść jest zwierciadłem przechadzającym się po dziedzińcu.

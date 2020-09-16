@@ -1,0 +1,4 @@
+Section: Zygmunt Vetulani / Wypowiedzi
+Źródło: https://www.tygodnikprzeglad.pl/zrob-sobie-mozg/ Zrób sobie mózg, wywiad Bronisława Tumiłowicza, „Przegląd”, nr 6/2018, s. 58–59.
+
+W pewnych pojedynczych działaniach osiągnięto bardzo wysoki poziom symulacji, np. podczas gry w szachy czy w go. Jesteśmy jednak wciąż bardzo daleko od możliwości modelowania całości zachowań człowieka, nawet bardzo prymitywnych. Liczba decyzji podejmowanych każdego dnia okazuje się tak ogromna, że minie dużo czasu, zanim powstanie urządzenie będące w stanie uporać się ze wszystkimi problemami, którego działania będą nieodróżnialne od ludzkich. Nie możemy przewidzieć, czy i kiedy tak się stanie, bo z dotychczasowych doświadczeń wynika, że żadna prognoza w tym zakresie się nie sprawdziła.

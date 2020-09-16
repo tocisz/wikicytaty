@@ -1,0 +1,4 @@
+Section: Fryderyk II Wielki
+Opis: pesymistyczna refleksja króla-filozofa, w trakcie trwania wojny siedmioletniej.
+
+Kiedy władcy grają o prowincje, ludzie są żetonami, którymi się płaci

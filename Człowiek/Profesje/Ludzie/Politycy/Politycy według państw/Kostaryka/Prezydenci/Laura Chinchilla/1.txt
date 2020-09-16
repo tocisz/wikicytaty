@@ -1,0 +1,5 @@
+Section: Laura Chinchilla
+Opis: po ogłoszeniu wyników wyborów prezydenckich.
+Źródło: Tomasz Surdel, http://www.tierralatina.pl/2010/02/kostaryka-wybrala-kobiete/ Kostaryka wybrała kobietę, tierralatina.pl, 8 lutego 2010
+
+Kostaryka stanie się pierwszym rozwiniętym krajem w regionie i pierwszym o zerowym bilansie węglowych zanieczyszczeń powietrza.

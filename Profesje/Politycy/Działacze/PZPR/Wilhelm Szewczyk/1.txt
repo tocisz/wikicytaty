@@ -1,0 +1,4 @@
+Section: Wilhelm Szewczyk
+Źródło: Leksykon złotych myśli, wyboru dokonał Krzysztof Nowak, Warszawa 1998.
+
+Nierówność funkcji nie musi oznaczać nierówności stanów.

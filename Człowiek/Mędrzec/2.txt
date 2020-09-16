@@ -1,0 +1,5 @@
+Section: Mędrzec
+Opis: przysłowie mongolskie
+Zobacz też: głupiec
+
+Głupiec, który był między ludźmi, jest lepszy od mędrca, który siedział w domu.

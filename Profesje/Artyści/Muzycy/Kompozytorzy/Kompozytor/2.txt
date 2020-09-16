@@ -1,0 +1,4 @@
+Section: Kompozytor
+Autor: Karol Szymanowski
+
+Charakter narodowy kompozytora nie polega na cytatach folkloru, czego najwspanialszym przykładem jest twórczość Chopina.

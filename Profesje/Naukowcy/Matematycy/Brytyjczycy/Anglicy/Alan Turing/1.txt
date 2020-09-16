@@ -1,0 +1,6 @@
+Section: Alan Turing
+Opis: w wywiadzie radiowym dla BBC (1952).
+Źródło: J. Walmsley, Mind and Machine
+Zobacz też: mózg
+
+Nie interesuje nas to, że mózg ma konsystencję zimnej owsianki.

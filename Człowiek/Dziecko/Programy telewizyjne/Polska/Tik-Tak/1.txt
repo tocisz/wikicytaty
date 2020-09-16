@@ -1,0 +1,8 @@
+Section: Tik-Tak
+Autor: Andrzej Marek Grabowski, Pan Tik-Tak
+Opis: piosenka z czołówki programu.
+
+Która godzina? – pyta rodzina,
+Jak kraj jest wielki wszerz i wydłuż,
+Wszyscy gotowi, można zaczynać?
+Zatem otwieram nasz program już.

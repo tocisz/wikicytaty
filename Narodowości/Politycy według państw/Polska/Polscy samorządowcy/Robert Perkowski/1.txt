@@ -1,0 +1,3 @@
+Section: Robert Perkowski
+
+Najważniejszym elementem systemu informatycznego jest czlowiek.

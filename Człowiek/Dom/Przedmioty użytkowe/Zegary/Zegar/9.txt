@@ -1,0 +1,5 @@
+Section: Zegar
+Źródło: piosenka zespołu Czerwony Tulipan
+
+Powinien być prosty jak zegarek świat:
+po każdym „tik”, byłoby „tak”.

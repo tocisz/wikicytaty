@@ -1,0 +1,5 @@
+Section: Cyceron / Listy
+Znaczenie: problem trudny do rozwiązania.
+Źródło: Ad Atticum, 12, 4
+
+Archimedesowy problem.

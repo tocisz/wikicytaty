@@ -1,0 +1,4 @@
+Section: Grzegorz
+Opis: przysłowie polskie
+
+Jeszcze Grześ gdzieś, a już mu kaszę studzą.

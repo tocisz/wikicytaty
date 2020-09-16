@@ -1,0 +1,5 @@
+Section: Konfucjusz / W
+Opis: Dialogi konfucjańskie (chiń. https://zh.wikisource.org/zh-hans/%E8%AB%96%E8%AA%9E/%E6%B3%B0%E4%BC%AF%E7%AC%AC%E5%85%AB 论语), księga VIII, 13, 3
+Źródło: Myślę, więc jestem: aforyzmy, maksymy, sentencje, oprac. Czesława i Joachim Glenskowie, Instytut Śląski w Opolu, Opole 1986, s. 191.
+
+W państwie rządzonym dobrze – wstyd być biednym; w państwie rządzonym źle – jest hańbą być bogatym.

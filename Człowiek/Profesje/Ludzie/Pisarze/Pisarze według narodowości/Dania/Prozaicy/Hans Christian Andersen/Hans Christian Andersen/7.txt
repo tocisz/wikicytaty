@@ -1,0 +1,4 @@
+Section: Hans Christian Andersen
+Opis: słowa Andersena, podróżującego dotychczas dyliżansem po Europie, kiedy po raz pierwszy wsiadł w Niemczech do pociągu.
+
+Teraz dopiero wiem, co to jest ciąg ptaków, teraz dopiero rozumiem, co to znaczy przemierzać ziemię!

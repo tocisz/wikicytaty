@@ -1,0 +1,4 @@
+Section: Wiersz
+Autor: Michał Anioł
+
+Wiersz jest nad czas i nad śmierć.

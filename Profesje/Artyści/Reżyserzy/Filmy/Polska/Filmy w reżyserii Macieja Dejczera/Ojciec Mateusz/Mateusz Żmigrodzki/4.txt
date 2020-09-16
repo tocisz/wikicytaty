@@ -1,0 +1,4 @@
+Section: Mateusz Żmigrodzki / C
+Źródło: odcinek 2, Eksperyment
+
+Czasami najtrudniej jest znaleźć to, co w ogóle nie jest ukryte.

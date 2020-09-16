@@ -1,0 +1,4 @@
+Section: Grzegorz
+Opis: przysłowie polskie
+
+Na świętego Grzegorza szuka kawka łoża.

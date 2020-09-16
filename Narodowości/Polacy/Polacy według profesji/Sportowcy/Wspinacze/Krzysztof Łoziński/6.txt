@@ -1,0 +1,5 @@
+Section: Krzysztof Łoziński
+Opis: o ekspertach Antoniego Macierewicza.
+Źródło: http://www.radiozet.pl/Programy/Gosc-Radia-ZET/Blog/Krzysztof-Lozinski#comments rozmowa Moniki Olejnik, Gość Radia Zet, 20 kwietnia 2012
+
+Tu są podstawowe, elementarny błędy w metodyce badań naukowych. Mianowicie panowie najpierw zakładają tezę, a potem do tej tezy dopasowują dowód. To jest odwrotna kolejność. Najpierw się zna fakty, wykonuje pomiary sprawdzające czy to jest prawda, potem analizuje się cały ten zbiór faktów i dopiero na końcu wyciąga wnioski. Oni działają z przeciwnej strony.

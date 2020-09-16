@@ -1,0 +1,4 @@
+Section: Guzik
+Autor: Johann Wolfgang von Goethe, Maximen und Reflexionen
+
+Kto pierwszy guzik chybi, ten już nie da sobie rady z zapinaniem.

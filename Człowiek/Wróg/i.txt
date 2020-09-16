@@ -1,0 +1,3 @@
+Section: Wróg / J
+
+Jeśli wróg jest w zasięgu strzału, ty również.

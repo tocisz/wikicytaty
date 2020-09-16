@@ -1,0 +1,4 @@
+Section: Suknia
+Źródło: przysłowie polskie
+
+Nie suknia zdobi człowieka, ale człowiek suknię.

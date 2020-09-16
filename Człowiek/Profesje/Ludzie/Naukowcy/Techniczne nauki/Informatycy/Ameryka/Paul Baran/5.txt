@@ -1,0 +1,7 @@
+Section: Paul Baran
+Opis: fragment referatu „Łączność, komputery, ludzie” wygłoszonego po raz pierwszy w listopadzie 1965 roku na Połączonej Konferencji Komputerowej w Las Vegas.
+Źródło: Wojciech Orliński, Człowiek, który wynalazł internet. Biografia Paula Barana, wyd. Agora, Warszawa 2019, s. 197-198.
+Zobacz też: prywatność
+
+Obfitość zdalnie dostępnych systemów komputerowych, połączonych ze sobą, może przynieść zagrożenie dla prawa jednostki do prywatności – takiej, jaką znamy dziś.
+Skumulowana baza danych może być tak obszerna i tak łatwo dostępna, że pozwoli to pozbawionym skrupułów jednostkom na używanie tych informacji do nielegalnych celów.

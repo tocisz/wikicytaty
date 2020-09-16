@@ -1,0 +1,4 @@
+Section: Kaganiec
+Autor: Sławomir Wróblewski
+
+Gryź życie, dopóki nie nałoży ci kagańca.

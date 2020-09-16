@@ -1,0 +1,6 @@
+Section: Hans Christian Andersen
+Źródło: Kalosze szczęścia (duń. Lykkens Kalosker).
+Opis: tymi słowami Andersen pisał o swojej babci, z której opowiadań zasłyszanych w dzieciństwie czerpał później tematy do swoich baśni.
+
+By mi dogodzić, gdym prosił o czary,
+Dała mi babcia swoje okulary.

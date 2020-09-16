@@ -1,0 +1,4 @@
+Section: Salomea
+Opis: powiedzenie
+
+Wdzięczy się jak Salomea w burakach.

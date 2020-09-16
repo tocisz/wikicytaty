@@ -1,0 +1,4 @@
+Section: Bill Gates / Komputery
+Opis: wypowiedziane w czasach Windows 2.11.
+
+Programy Microsoftu są generalnie wolne od błędów. Jeżeli odwiedzisz miejsce, w którym działa nasza „gorąca linia”, będziesz musiał spędzić tak długie tygodnie zanim usłyszysz, że ktoś dzwoni zgłaszając nam „buga”. 99,9% telefonów i błędów wynika z pomyłek użytkowników. Nie znam żadnego mniej odpowiedniego powodu do aktualizacji oprogramowania niż naprawa błędów. Prawdziwym powodem aktualizacji musi być przedstawianie nowych możliwości oprogramowania.

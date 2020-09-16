@@ -1,0 +1,3 @@
+Section: Ezop
+
+Zniewagi, które zadaliśmy, ważymy na innej wadze niż te, których doświadczyliśmy.

@@ -1,0 +1,4 @@
+Section: Lustro
+Autor: Witold Gombrowicz, Ferdydurke
+
+W lustrze, gdy się ujrzymy niespodzianie, przez chwilę nie jesteśmy pewni, czy to my.

@@ -1,0 +1,5 @@
+Section: Frank Abagnale
+Opis: cytat z autobiografii
+Źródło: Stuart Gordon,  Księga oszustw z serii Księgi osobliwości, tłum. Agnieszka Jacewicz, Jan Zaremba, Tomasz Kosik, Wydawnictwo Amber, Warszawa 1996, ISBN 8371961556, s. 16.
+
+Byłem po prostu niezwykle zręcznym pozerem i oszustem.

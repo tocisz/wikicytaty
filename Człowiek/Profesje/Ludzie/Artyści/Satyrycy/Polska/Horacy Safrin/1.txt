@@ -1,0 +1,3 @@
+Section: Horacy Safrin
+
+Asekurant sprawdza skąd wiatr wieje, zanim kogokolwiek do niego wystawi.

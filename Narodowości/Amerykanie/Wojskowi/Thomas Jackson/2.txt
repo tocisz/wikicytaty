@@ -1,0 +1,3 @@
+Section: Thomas Jackson
+
+Moim obowiązkiem jest wykonywać rozkazy.

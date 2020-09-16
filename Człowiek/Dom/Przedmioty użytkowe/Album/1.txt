@@ -1,0 +1,5 @@
+Section: Album
+Autor: Ewa Ostrowska, Zabić ptaka
+Zobacz też: pamięć, wspomnienia
+
+Album jest jak pamięć, przechowuje wspomnienia o czasie minionym.

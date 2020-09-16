@@ -1,0 +1,5 @@
+Section: Wiersz
+Autor: Tomasz Jastrun, Nie lubię długich wierszy
+
+Krótki wiersz jest znakiem naszych czasów
+Ziarnem które czeka na swoją porę

@@ -1,0 +1,5 @@
+Section: Horacy / Listy
+Opis: parafraza greckiego aforyzmu „początek – połową wszystkiego”, przypisywanego Pitagorasowi.
+Źródło: I, 2, 40
+
+Połowę dzieła wykonał, kto je rozpoczął.

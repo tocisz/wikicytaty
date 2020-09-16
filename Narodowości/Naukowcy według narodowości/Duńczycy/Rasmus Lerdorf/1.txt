@@ -1,0 +1,3 @@
+Section: Rasmus Lerdorf
+
+Jeśli eval jest odpowiedzią, prawie na pewno zadajesz złe pytanie.

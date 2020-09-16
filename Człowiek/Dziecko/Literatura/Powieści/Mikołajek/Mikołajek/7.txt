@@ -1,0 +1,4 @@
+Section: Mikołajek
+Opis: powiedzenie Mikołajka używane w utworach.
+
+No bo co w końcu, kurczę blade!

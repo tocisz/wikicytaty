@@ -1,0 +1,4 @@
+Section: Atrament
+Autor: Adam Michnik
+
+My, dziennikarze, wiemy dobrze, że nic tak nie plami jak atrament.

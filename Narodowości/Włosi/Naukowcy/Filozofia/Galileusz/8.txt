@@ -1,0 +1,3 @@
+Section: Galileusz
+
+Nagromadzenie danych to nie jest jeszcze nauka.

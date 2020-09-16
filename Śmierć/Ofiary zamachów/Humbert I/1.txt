@@ -1,0 +1,4 @@
+Section: Humbert I
+Opis: słowa wypowiedziane po nieudanym zamachu na jego życie.
+
+To jest ryzyko zawodowe.

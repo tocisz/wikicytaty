@@ -1,0 +1,3 @@
+Section: Szafa
+
+Duża szafa mały kluczyk.

@@ -1,0 +1,4 @@
+Section: Józef
+Opis: przysłowie polskie
+
+Gdy na święty Józef bociek przybędzie, to już śniegu nie będzie.

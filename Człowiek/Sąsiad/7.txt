@@ -1,0 +1,4 @@
+Section: Sąsiad
+Opis: przysłowie węgierskie
+
+Żaden człowiek nie jest na tyle bogaty, aby nie potrzebował sąsiada.

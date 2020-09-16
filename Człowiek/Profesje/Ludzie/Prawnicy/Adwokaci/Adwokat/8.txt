@@ -1,0 +1,4 @@
+Section: Adwokat
+Źródło: film W czym mamy problem?
+
+Oskarżony, który jest swoim własnym adwokatem, ma głupiego klienta.

@@ -1,0 +1,4 @@
+Section: Bogowie, honor, Ankh-Morpork
+Opis: przypis dotyczący De-terminarza.
+
+Jedna z uniwersalnych zasad szczęśliwego życia brzmi: Zawsze bądź ostrożny wobec dowolnego pomocnego urządzenia, które waży mniej niż instrukcja jego obsługi.

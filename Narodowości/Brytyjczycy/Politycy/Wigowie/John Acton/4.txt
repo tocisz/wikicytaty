@@ -1,0 +1,3 @@
+Section: John Acton
+
+Przez wolność rozumiem stan gwarantujący każdemu człowiekowi ochronę w czynieniu tego, co uważa za swój obowiązek,

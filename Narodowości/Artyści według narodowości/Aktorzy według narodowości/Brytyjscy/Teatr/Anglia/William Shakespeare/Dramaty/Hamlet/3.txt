@@ -1,0 +1,5 @@
+Section: Hamlet
+Postać: Hamlet
+Źródło: akt III
+
+Chcąc być łagodnym, okrutnym być muszę.

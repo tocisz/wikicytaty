@@ -1,0 +1,4 @@
+Section: Goofy na wakacjach / Wypowiedzi postaci / Goofy
+Opis: pokazuje Maxowi miejsca.
+
+Mamy miejsca w pierwszym rzędzie.

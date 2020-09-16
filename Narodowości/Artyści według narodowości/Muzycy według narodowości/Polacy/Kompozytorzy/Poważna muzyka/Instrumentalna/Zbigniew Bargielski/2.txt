@@ -1,0 +1,5 @@
+Section: Zbigniew Bargielski
+Opis: o koncepcji systemu „centralnego” w utworze, charakterystycznej dla tego kompozytora.
+Źródło: http://www.culture.pl/pl/culture/artykuly/os_bargielski_zbigniew culture.pl
+
+Procedura taka zakłada wyodrębnienie dominujących dźwięków, które funkcjonują jako centra dla poszczególnych segmentów formy. Są one wydobywane na pierwszy plan poprzez częste repetycje, podczas gdy inne dźwięki, bardziej neutralne, tworzą strukturalne tło.

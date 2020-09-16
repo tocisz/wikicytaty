@@ -1,0 +1,4 @@
+Section: Azar Javed / O Azarze Javedzie
+Postać: Geralt z Rivii (rozmowa z Raymondem Maarloeve'm na początku aktu II, jeśli gracz wybrał opcję dialogową „Azar Javed, mówi ci to coś?”).
+
+Rzyć Javeda ma umówione spotkanie z moim butem.

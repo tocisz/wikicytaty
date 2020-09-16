@@ -1,0 +1,5 @@
+Section: Karol Darwin / O powstawaniu gatunków drogą doboru naturalnego (1859)
+Opis: definiując pojęcie doboru naturalnego.
+Źródło: przeł. Sz. Dickstein, J. Nusbaum, wyd. Altaya, Warszawa 2001, str. 74.
+
+Wszelkie zmiany, choćby najsłabsze, w jakikolwiek sposób powstałe, jeżeli tylko w pewnym stopniu są korzystne dla osobników danego gatunku w ich nieskończenie zawikłanych stosunkach z innymi istotami organicznymi i z fizycznymi warunkami życiowymi, będą sprzyjać zachowaniu tych osobników przy życiu i zwykle zostaną przekazane potomstwu. Potomstwo to będzie więc miało więcej szans na pozostanie przy życiu, ponieważ z wielu ciągle rodzących się osobników każdego gatunku niewielka tylko liczba może się utrzymać

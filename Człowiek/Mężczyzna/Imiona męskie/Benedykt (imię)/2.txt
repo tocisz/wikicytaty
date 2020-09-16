@@ -1,0 +1,4 @@
+Section: Benedykt (imię)
+Opis: przysłowie polskie
+
+Jak po Benedykcie ciepło, to i w lecie będzie piekło.

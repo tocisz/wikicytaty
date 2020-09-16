@@ -1,0 +1,4 @@
+Section: Rozmowa w Katedrze
+Opis: porucznik o Cayo Bermudezie.
+
+Polityka jest dla nierobów, nie dla ludzi pracy.

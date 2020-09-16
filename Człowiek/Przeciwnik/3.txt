@@ -1,0 +1,5 @@
+Section: Przeciwnik
+Autor: Tadeusz Dołęga-Mostowicz, powieść http://wiersze.wikia.com/index.php?title=Ostatnia_brygada&useskin=monobook Ostatnia brygada, cz. 3, rozdz. IV
+Opis: wypowiedź Dowmunta w rozmowie z Jankiem.
+
+(...) każdy polityk ma swoich zwolenników i swoich przeciwników. Jedni bowiem uważają, że szczęście kraju polega na tym, co według innych byłoby dlań nieszczęściem.

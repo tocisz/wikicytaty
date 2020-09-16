@@ -1,0 +1,10 @@
+Section: Dzwon
+Autor: Federico García Lorca, wiersz Dzwon
+
+Na wieży
+żółtej
+bije dzwon.
+
+Na wietrze
+żółtym
+kuranty grzmią.

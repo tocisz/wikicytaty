@@ -1,0 +1,3 @@
+Section: Edmund John / Palindromy
+
+Ada raportuje, że jutro parada.

@@ -1,0 +1,4 @@
+Section: Artur Ekert
+Źródło: Karol Jałochowski, http://www.polityka.pl/nauka/komputeryiinternet/1506974,3,kryptografia-nie-z-tego-swiata.read Kryptografia nie z tego świata Klucz do rzeczywistości, polityka.pl, 29 czerwca 2010
+
+(...) bezpieczeństwo sprowadza się do kwestii wolnej woli w wyborze mierzonych parametrów. Jeśli i Pan, i ja decydujemy niezależnie od siebie, w jaki sposób przekręcimy gałkę aparatury, klucz jest bezpieczny. Bezpieczeństwo kryptograficzne sprowadza się więc do problemu jaźni! I to jest intrygujące.

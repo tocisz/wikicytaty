@@ -1,0 +1,4 @@
+Section: Dziennikarz
+Opis: porzekadło
+
+Dziennikarz to ktoś, kogo wypychasz drzwiami a wraca oknem.

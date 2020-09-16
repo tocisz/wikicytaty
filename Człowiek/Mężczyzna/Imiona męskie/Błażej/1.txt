@@ -1,0 +1,4 @@
+Section: Błażej
+Opis: przysłowie polskie
+
+Deszcz na świętego Błażeja, słaba wiosny nadzieja.

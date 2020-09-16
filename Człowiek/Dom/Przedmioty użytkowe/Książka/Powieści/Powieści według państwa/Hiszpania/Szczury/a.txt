@@ -1,0 +1,4 @@
+Section: Szczury
+Opis: powiedzenie Stulatka.
+
+W Kastylii pogoda wściekła – dziewięć miesięcy zimy i trzy miesiące piekła.

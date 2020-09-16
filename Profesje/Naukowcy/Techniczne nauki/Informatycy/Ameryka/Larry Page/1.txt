@@ -1,0 +1,4 @@
+Section: Larry Page
+Opis: misja firmy Google
+
+Naszą misją jest uporządkowanie światowych zasobów informacji, aby stały się one powszechnie dostępne i użyteczne.

@@ -1,0 +1,4 @@
+Section: Marta
+Opis: przysłowie polskie
+
+Po Marcie ustanie ptaków śpiewanie.

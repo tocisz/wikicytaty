@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: zwrotniczy do Małego Księcia.
+
+Zawsze się wydaje, że w innym miejscu będzie lepiej.

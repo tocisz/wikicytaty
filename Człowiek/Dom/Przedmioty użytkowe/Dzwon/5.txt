@@ -1,0 +1,8 @@
+Section: Dzwon
+Autor: Jarosław Iwaszkiewicz, ***
+Autor: John Donne, Medytacja XVII
+Opis: wykorzystane jako motto przez Ernesta Hemingwaya w powieści Komu bije dzwon.
+
+(…) życie jest wieczne,
+A po człowieku dzwoni dzwon,
+Aby inni ludzie pamiętali.

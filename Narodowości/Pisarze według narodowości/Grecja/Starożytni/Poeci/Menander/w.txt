@@ -1,0 +1,3 @@
+Section: Menander
+
+Wiedza bez logiki nic nie jest warta.

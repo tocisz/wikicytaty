@@ -1,0 +1,4 @@
+Section: Powieść
+Autor: Tom Clancy
+
+Różnica między rzeczywistością a powieścią jest taka, że powieść musi być sensowna.

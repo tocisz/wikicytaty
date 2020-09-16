@@ -1,0 +1,5 @@
+Section: Jacek
+Opis: przysłowie polskie
+
+Na święty Jacek
+z nowej pszenicy placek.

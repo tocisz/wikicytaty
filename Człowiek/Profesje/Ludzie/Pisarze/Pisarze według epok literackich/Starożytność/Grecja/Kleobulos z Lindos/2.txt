@@ -1,0 +1,6 @@
+Section: Kleobulos z Lindos
+Opis: zagadka; odpowiedzią jest rok.
+Źródło: Diogenes Laertios, Żywoty i poglądy słynnych filozofów, PWN, 1984
+
+Jeden ojciec dwunastu ma synów, a z nich każdy córek ma trzydzieści, różniących się wyglądem.
+Jedne są białe, a drugie są czarne, lecz choć nieśmiertelne, wszystkie skończyć się muszą.

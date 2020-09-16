@@ -1,0 +1,4 @@
+Section: Piotr Korzecki
+Źródło: odcinek 8
+
+Normalność bywa nudna.

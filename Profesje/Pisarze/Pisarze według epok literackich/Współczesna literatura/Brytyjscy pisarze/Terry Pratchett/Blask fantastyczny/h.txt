@@ -1,0 +1,3 @@
+Section: Blask fantastyczny
+
+Thaum jest podstawową jednostką mocy magicznej. Powszechnie uznaje się, że jest to ilość magii niezbędna do stworzenia jednego małego białego gołębia albo trzech standardowych kul bilardowych.

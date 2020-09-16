@@ -1,0 +1,4 @@
+Section: Milton Friedman
+Opis: o ekonomii.
+
+To co sprawia, że jest ona najbardziej fascynującą jest to, że jej fundamentalne zasady są tak proste, że każdy jest w stanie je zrozumieć, jednak niewielu je rozumie.

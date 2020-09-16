@@ -1,0 +1,5 @@
+Section: Francis Scott Fitzgerald / Inne
+Opis: o tworzeniu postaci w utworze.
+Źródło: Robin U. Russin, William Missouri Downis, Jak napisać scenariusz filmowy, Wydawnictwo Wojciech Marzec, Warszawa 2008, tłum. Ewa Spirydowicz, s. 79.
+
+Zacznij od jednostki, a stworzysz typ; zacznij od typu, a nie stworzysz nic.

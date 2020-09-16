@@ -1,0 +1,5 @@
+Section: Lekarz
+Autor: Petroniusz, Satiricon
+Opis: komentarz do praktyk skupiających się na podtrzymywaniu nadziei u chorych, z racji na pozycję społeczną lekarzy.
+
+Lekarz jest jedynie pocieszycielem umysłu.

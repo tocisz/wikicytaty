@@ -1,0 +1,4 @@
+Section: Leonhard Euler
+Źródło: Benjamin Baumslag, Fundamentals of Teaching Mathematics at University Level (2000)
+
+Tym, którzy pytają, jaka jest nieskończenie mała wartość w matematyce, odpowiadamy, że jest nią właściwie zero. Tak więc w tym koncepcie nie ma ukrytych tak wielu tajemnic, jak w to się powszechnie wierzy.

@@ -1,0 +1,4 @@
+Section: Willard Van Orman Quine
+
+Ogólnie: teoria zakłada istnienie przedmiotów danego rodzaju wtedy i tylko wtedy, gdy niektóre z tych przedmiotów muszą być wartościami zmiennych po to, by twierdzenia przyjęte w tej teorii były prawdziwe.
+Nie chcę tu sugerować zależności bytu od języka. Nie zajmuję się tu ontologicznym stanem rzeczy, lecz ontologicznymi założeniami wypowiedzi. To, co istnieje, nie zależy od niczyjego języka, natomiast to, o czym ktoś mówi, że istnieje, zależy.

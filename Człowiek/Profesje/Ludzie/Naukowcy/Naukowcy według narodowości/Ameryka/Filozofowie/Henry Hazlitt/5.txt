@@ -1,0 +1,3 @@
+Section: Henry Hazlitt
+
+Zły ekonomista widzi tylko to, co bezpośrednio uderza wzrok; dobry ekonomista patrzy także dalej. Zły ekonomista widzi tylko bezpośrednie konsekwencje proponowanego kierunku polityki; dobry ekonomista spogląda także na konsekwencje dalsze i pośrednie. Zły ekonomista widzi tylko skutki, jakie dana polityka przyniosła lub przyniesie pewnej konkretnej grupie; dobry ekonomista bada także skutki, jakie polityka przyniesie wszystkim grupom

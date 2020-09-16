@@ -1,0 +1,4 @@
+Section: Marta
+Opis: przysłowie polskie
+
+Od świętej Marty za żniwa, dawaj kwarty.

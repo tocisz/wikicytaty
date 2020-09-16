@@ -1,0 +1,3 @@
+Section: David Hilbert
+
+Można mierzyć ważność danej pracy naukowej przez liczbę wcześniejszych publikacji, które stały się przez nią bezużyteczne.

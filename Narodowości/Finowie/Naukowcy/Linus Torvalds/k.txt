@@ -1,0 +1,4 @@
+Section: Linus Torvalds / N
+Źródło: Daniel Lyons, http://www.forbes.com/technology/2006/03/09/torvalds-linux-licensing-cz_dl_0309torvalds1.html Forbes: Linux Licensing, 9 marca 2006 (28 sierpnia 2006)
+
+Na przykład, GPLv2 w żaden sposób nie ogranicza twojego użytkowania oprogramowania. Jeśli jesteś szalonym naukowcem, możesz używać oprogramowania na GPLv2 do realizowania swoich niecnych planów podboju świata („Rekiny z laserami na głowach!!”), a wszystko, czego GPLv2 od ciebie wymaga to oddać kod źródłowy. I to jest dla mnie w porządku. Uwielbiam rekiny uzbrojone w lasery. Chcę tylko, by szaleni naukowcy w pewien sposób mi się odpłacili. Po czym mogą mnie smażyć swoimi rekinowymi laserami ile im się podoba.

@@ -1,0 +1,5 @@
+Section: Tadeusz Morawski / Palindromy
+Opis: także tytuł zbioru.
+Źródło: http://www.palindromy.pl/ Palindromy
+
+Żartem dano nadmetraż.

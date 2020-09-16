@@ -1,0 +1,5 @@
+Section: Christoph Willibald Gluck
+Opis: o reformie operowej.
+Źródło: Janusz Ekiert, Czy wiesz? Zagadki muzyczne, wyd. Alfa, Warszawa 1995, s. 238.
+
+Uważałem za konieczne sprowadzić tę muzykę [operową] do jej właściwej funkcji: wspierania poezji w wyrażaniu uczuć i dramatycznych sytuacji, nie zaś przeszkadzania w rozwoju akcji.

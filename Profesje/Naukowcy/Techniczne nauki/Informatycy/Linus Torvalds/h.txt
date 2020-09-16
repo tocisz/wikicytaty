@@ -1,0 +1,4 @@
+Section: Linus Torvalds / M
+Źródło: Paula Rooney, http://www.crn.com/sections/breakingnews/breakingnews.jhtml?articleId=59300278 Torvalds: Waiting To See Sun’s Open Solaris, CRN 1 lutego 2005 (28 sierpnia 2006)
+
+Mnóstwo ludzi wciąż lubi Solarisa, ale ponieważ stanowię dla nich czynną konkurencję, życzę im śmierci.

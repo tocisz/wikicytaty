@@ -1,0 +1,3 @@
+Section: Octave Mirbeau
+
+Malarz, który był tylko malarzem, nigdy nie stanie się w pełni artystą.

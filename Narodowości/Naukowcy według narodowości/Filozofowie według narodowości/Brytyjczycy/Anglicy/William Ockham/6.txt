@@ -1,0 +1,4 @@
+Section: William Ockham / Cytaty przypisywane
+Opis: cytat ten nie pojawia się w żadnym z dzieł Ockhama.
+
+Bytów nie należy mnożyć ponad konieczność.

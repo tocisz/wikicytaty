@@ -1,0 +1,4 @@
+Section: Fechmistrz
+Opis: Ja Danaów się boję, nawet kiedy niosą dary, cyt. za Wergiliuszem Eneida.
+
+Timeo Danaos et dona ferentes.

@@ -1,0 +1,4 @@
+Section: Inżynier
+Opis: budowlane prawo Murphy'ego
+
+Doskonały i nieomylny inżynier to taki, który unika drobnych błędów na drodze do wielkiej katastrofy.

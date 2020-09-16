@@ -1,0 +1,5 @@
+Section: Alpinista
+Autor: Leszek Cichy
+Źródło: Leszek Cichy, Krzysztof Wielicki, Jacek Żakowski, Rozmowy o Evereście, Młodzieżowa Agencja Wydawnicza, Warszawa 1982, ISBN 8320316340, s. 113.
+
+Alpiniści nie są ludźmi nierozważnymi. Wręcz przeciwnie, każdy się dobrze zastanawia, czy na jakąś drogę może sobie pozwolić, i jeżeli już jej próbuje, to nie jest to przypadek.

@@ -1,0 +1,4 @@
+Section: Folwark zwierzęcy
+Opis: zmieniona wersja pierwszego hasła
+
+Cztery nogi dobrze, dwie nogi lepiej.

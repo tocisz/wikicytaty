@@ -1,0 +1,9 @@
+Section: Harry S. Truman
+Opis: rozmowa, która odbyła się w październiku 1945.
+Źródło: Oliver Stone’s Untold History of the United States (2012), tłum. Edyta Czerwonka, odcinek 3
+
+Harry Truman: Kiedy Rosjanie zbudują bombę atomową?
+Robert Oppenheimer: Nie wiem.
+Harry Truman: Jestem pewien, że nigdy.
+Robert Oppenheimer: Panie prezydencie, czuję, że mam krew na rękach.
+Harry Truman: Krew jest na moich rękach, to moje zmartwienie.

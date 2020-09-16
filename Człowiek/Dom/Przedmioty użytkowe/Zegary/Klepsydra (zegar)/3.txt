@@ -1,0 +1,3 @@
+Section: Klepsydra (zegar)
+
+klepsydra (nekrolog)

@@ -1,0 +1,3 @@
+Section: Brisingr
+
+Za każdym razem, kiedy zabijamy, zabijamy część siebie.

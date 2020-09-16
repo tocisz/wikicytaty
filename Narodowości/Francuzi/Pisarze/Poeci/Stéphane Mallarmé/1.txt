@@ -1,0 +1,3 @@
+Section: Stéphane Mallarmé
+
+Każda myśl jest przypadkiem.

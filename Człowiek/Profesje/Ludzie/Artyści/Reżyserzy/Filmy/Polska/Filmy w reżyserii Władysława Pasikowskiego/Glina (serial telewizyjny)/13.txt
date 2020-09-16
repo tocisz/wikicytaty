@@ -1,0 +1,9 @@
+Section: Glina (serial telewizyjny)
+Opis: Jóźwiak przesłuchuje Pulpeta.
+Źródło: odcinek 9
+
+Jóźwiak: Jeszcze cie nie zcwelili pod celą? Wszystko przed tobą.
+Pulpet: Ty uważaj, do kogo mówisz.
+Jóźwiak: Dobrze wiem, do kogo mówię.
+ Pulpet: To jest sprzeczne z prawem!
+ Jóźwiak: Co, zcwelenie pod celą?

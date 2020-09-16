@@ -1,0 +1,5 @@
+Section: Szklanka
+Opis: przysłowie polskie
+Opis: duża awantura o małą, nieistotną rzecz lub sprawę.
+
+Burza w szklance wody.

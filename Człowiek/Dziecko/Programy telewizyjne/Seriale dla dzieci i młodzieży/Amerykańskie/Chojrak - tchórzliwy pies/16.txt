@@ -1,0 +1,5 @@
+Section: Chojrak - tchórzliwy pies / Komputer
+Opis: Komputer robi dowcipy Chojrakowi.
+Źródło: odcinek Wyprawa na słońce
+
+Ha! Ale z ciebie cymbał!

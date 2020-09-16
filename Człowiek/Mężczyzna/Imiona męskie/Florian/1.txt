@@ -1,0 +1,4 @@
+Section: Florian
+Opis: przysłowie polskie
+
+Od świętego Florka daj chleba do worka.

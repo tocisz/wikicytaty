@@ -1,0 +1,6 @@
+Section: Wiedźmin 2: Zabójcy królów / Wypowiedzi postaci / Inni
+Postać: Triss Merigold
+Opis: wypowiedziane w namiocie do Geralta podczas rozmowy przed udaniem się wiedźmina do króla Foltesta.
+Źródło: prolog
+
+Foltest i reszta królów Północy tuzami intelektu i ogłady być może nie są, ale lepszych nie mamy.

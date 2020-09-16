@@ -1,0 +1,4 @@
+Section: Linus Torvalds / F
+Źródło: http://groups.google.com/groups?&selm=Pine.LNX.3.91.961016155929.27735D-100000%40linux.cs.Helsinki.FI Post na grupę dyskusyjną linux.dev.kernel, 16 października 1996 (28 sierpnia 2006)
+
+(…) filozofią Linuksa jest „śmiej się w obliczu niebezpieczeństwa”. Ups. Nie ta. „Zrób to sam”. Właśnie.

@@ -1,0 +1,4 @@
+Section: Polityk
+Autor: Niccolo Machiavelli
+
+Politykowi nie wolno być niewolnikiem własnych słów.

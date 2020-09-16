@@ -1,0 +1,4 @@
+Section: Brat
+Opis: przysłowie hinduskie
+
+Można się obawiać rodzonego brata, własnej matki, bać się przyjaciela, lecz nigdy – lekarza.

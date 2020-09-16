@@ -1,0 +1,4 @@
+Section: Dominik Sankowski
+Źródło: http://www.naszdziennik.pl/index.php?dat=20090516&typ=my&id=my12.txt Nowoczesne technologie w służbie człowiekowi, naszdziennik.pl, 16 maja 2009
+
+Z mojego doświadczenia jako eksperta Państwowej Komisji Akredytacyjnej na kierunku informatyka wynika, że chociaż wiele szkół w Polsce proponuje kształcenie w tym zakresie, to jednak stale rośnie potrzeba szkolenia dobrych, nowoczesnych informatyków, którzy będą posiadali umiejętności związane nie tylko z programowaniem, ale przede wszystkim z rozwojem internetu, sieciami komputerowymi oraz technologiami internetowymi. W tej dziedzinie informatyki rynek pracy jest w dalszym ciągu nienasycony.

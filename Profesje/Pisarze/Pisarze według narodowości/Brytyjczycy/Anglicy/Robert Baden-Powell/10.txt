@@ -1,0 +1,3 @@
+Section: Robert Baden-Powell / Skauting
+
+Pod nazwą „skauting” będziemy rozumieli pracę i właściwości ludzi puszczy, odkrywców (…)

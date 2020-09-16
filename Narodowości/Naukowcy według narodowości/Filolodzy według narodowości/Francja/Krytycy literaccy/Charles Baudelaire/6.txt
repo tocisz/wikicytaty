@@ -1,0 +1,4 @@
+Section: Charles Baudelaire
+Opis: sposób myślenia ludzi o autorytetach w sprawach religii wg Baudelaire'a.
+
+Kochałabym was i zapewniłabym wam wielkość, gdybyście mnie przekonali, że idziemy naprzód mimo woli, nieuchronnie – śpiąc; zdejmijcie z nas odpowiedzialność, zakryjcie przed nami upokarzające porównania, ujmijcie historię w sofizmaty, a będziecie się mogli nazywać mędrcami mędrców.

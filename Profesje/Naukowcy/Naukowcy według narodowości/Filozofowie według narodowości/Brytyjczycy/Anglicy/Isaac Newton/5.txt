@@ -1,0 +1,4 @@
+Section: Isaac Newton / Philosophiae naturalis. Principia mathematica (1687)
+Opis: stwierdzenie, że prawo powszechnego ciążenia to fundamentalne prawo doświadczalne.
+
+Nie stawiam hipotez.

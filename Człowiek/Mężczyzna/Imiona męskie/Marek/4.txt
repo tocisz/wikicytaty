@@ -1,0 +1,4 @@
+Section: Marek
+Opis: przysłowie polskie
+
+Po Marku ulewa, to zwykle potem dogrzewa.

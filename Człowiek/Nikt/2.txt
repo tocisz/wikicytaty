@@ -1,0 +1,4 @@
+Section: Nikt
+Autor: Erich Maria Remarque
+
+Nikt nie wydaje się bardziej obcy niż ktoś, kogo się kiedyś kochało.

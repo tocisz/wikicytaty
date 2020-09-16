@@ -1,0 +1,4 @@
+Section: Buntownik
+Autor: Ali ibn Abi Talib
+
+Nie każdy, kogo złapano w czasie zamieszek, jest buntownikiem.

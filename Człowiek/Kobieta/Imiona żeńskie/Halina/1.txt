@@ -1,0 +1,4 @@
+Section: Halina
+Opis: przysłowie polskie
+
+Gdy Halina łąki zrosi, rolnik z wody siano kosi.

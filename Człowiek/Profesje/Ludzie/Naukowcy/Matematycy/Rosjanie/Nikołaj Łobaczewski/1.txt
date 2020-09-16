@@ -1,0 +1,4 @@
+Section: Nikołaj Łobaczewski
+Źródło: George Edward Martin, The Foundations of Geometry and the Non-Euclidean Plane (1982)
+
+Nie ma takiej dziedziny matematyki, jakkolwiek abstrakcyjnej, która by nie mogła być pewnego dnia zastosowana do zjawisk prawdziwego świata.

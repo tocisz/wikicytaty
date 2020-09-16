@@ -1,0 +1,6 @@
+Section: Pierre de Fermat
+Opis: notka na marginesie łacińskiego tłumaczenia książki Arithmetica Diofantosa, dotyczy wielkiego twierdzenia Fermata.
+Źródło: http://technologie.newsweek.pl/kto-dzis-pamieta-pierrea-fermata-wyszukiwarka-google,80934,1,1.html Kto dziś pamięta Pierre’a Fermata? Wyszukiwarka Google, newsweek.pl, 17 sierpnia 2011
+Zobacz też: matematyka, twierdzenie
+
+Znalazłem zaiste zadziwiający dowód tego twierdzenia. Niestety, margines jest zbyt mały, by go pomieścić.

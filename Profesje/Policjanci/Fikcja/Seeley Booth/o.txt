@@ -1,0 +1,4 @@
+Section: Seeley Booth
+Opis: do Bones.
+
+Użyj swoich zmutowanych mocy, zagadaj ludzi na śmierć.

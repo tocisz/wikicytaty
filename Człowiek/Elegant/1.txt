@@ -1,0 +1,4 @@
+Section: Elegant
+Opis: przysłowie z XIX wieku.
+
+Elegancik nowy, zegarek cynowy, wiatr odwinie poły, widać tyłek goły.

@@ -1,0 +1,5 @@
+Section: Leonhard Euler
+Opis: odpowiedź, jakiej Euler udzielił pruskiej królowej, gdy spytała go, dlaczego jest tak mało rozmowny.
+Źródło: Alexander Vucinich, Science in Russian Culture : A History to 1860 (1963)
+
+Pani, przybywam z kraju, w którym wiesza się ludzi, gdy mówią zbyt dużo.

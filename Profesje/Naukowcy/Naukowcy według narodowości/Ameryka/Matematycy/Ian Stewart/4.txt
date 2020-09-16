@@ -1,0 +1,4 @@
+Section: Ian Stewart / Oswajanie nieskończoności
+Źródło: s. 54.
+
+Często musi upłynąć pewien czas – bywa, że setki lat, zanim dobre matematyczne idee nabiorą praktycznego znaczenia.

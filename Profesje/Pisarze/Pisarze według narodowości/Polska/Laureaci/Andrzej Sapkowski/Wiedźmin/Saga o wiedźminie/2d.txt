@@ -1,0 +1,4 @@
+Section: Saga o wiedźminie / Chrzest ognia
+Opis: komentarz wampira Regisa do słów wypowiedzianych przez Geralta.
+
+Niewiedza nie stanowi usprawiedliwienia dla nieprzemyślanych działań. Gdy się nie wie, gdy ma się wątpliwości, dobrze jest zasięgnąć porady…

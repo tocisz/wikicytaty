@@ -1,0 +1,4 @@
+Section: Richard Stallman
+Źródło: http://www.pcworld.pl/news/66395/Uwolnic.programy.Rozmowa.z.Richardem.Stallmanem.html wywiad Petera Moona, pcworld.pl, 17 września 2007
+
+Nie ma żadnego pozytywnego argumentu przemawiającego za opatentowaniem oprogramowania. (…) Patenty ograniczają każdego użytkownika komputera, stanowią zagrożenie, że przed sądem mogą stanąć nie tylko producenci oprogramowania, ale i zwykli użytkownicy. (…) Jest to system działający w kierunku odwrotnym niż powinien: hamuje, a co najmniej spowalnia postęp.

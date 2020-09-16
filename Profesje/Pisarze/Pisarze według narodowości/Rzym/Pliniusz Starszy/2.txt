@@ -1,0 +1,5 @@
+Section: Pliniusz Starszy / Historia naturalna
+Opis: słowa wypowiedziane przez greckiego malarza Apellesa.
+Znaczenie: każdego dnia należy starać się uczynić choćby najmniejszy postęp w pracy twórczej.
+
+Ani dnia bez linii.

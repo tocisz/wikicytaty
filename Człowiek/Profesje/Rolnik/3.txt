@@ -1,0 +1,5 @@
+Section: Rolnik
+Opis: przysłowie duńskie
+Zobacz też: lenistwo
+
+Gdzie rolnik leniwy, tam leniwa i ziemia.

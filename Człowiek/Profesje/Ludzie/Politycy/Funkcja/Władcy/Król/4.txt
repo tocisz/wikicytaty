@@ -1,0 +1,4 @@
+Section: Król
+Opis: początek pierwotnej wersji pieśni, tradycyjnie używanej w charakterze hymnu Wielkiej Brytanii.
+
+Boże, zachowaj króla.

@@ -1,0 +1,4 @@
+Section: Drabina
+Opis: przysłowie polskie
+
+I najwyższa drabina ma ostatni szczebel.

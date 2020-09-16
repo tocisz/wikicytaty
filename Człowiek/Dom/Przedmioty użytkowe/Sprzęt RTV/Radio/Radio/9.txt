@@ -1,0 +1,4 @@
+Section: Radio
+Autor: Hans Fritsche
+
+Radio musi docierać do wszystkich, inaczej nie dotrze do nikogo.

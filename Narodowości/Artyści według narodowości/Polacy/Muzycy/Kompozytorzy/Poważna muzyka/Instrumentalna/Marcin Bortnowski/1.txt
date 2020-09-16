@@ -1,0 +1,5 @@
+Section: Marcin Bortnowski
+Źródło: książka programowa festiwalu Warszawska Jesień 2003, cyt. za: http://www.culture.pl/pl/culture/artykuly/dz_bortnowski_kawalki_swiatla culture.pl
+Zobacz też: akordeon, klawesyn
+
+Kawałki światła na akordeon, klawesyn i komputer napisałem na początku 2003 roku. Komputer nie jest instrumentem w sensie tradycyjnym. Jego zadaniem jest transformacja partii akordeonu i klawesynu. I nie chodziło mi o zmianę samej barwy tych instrumentów, lecz o poszerzenie ich możliwości technicznych, co udało mi się uzyskać dzięki specjalnie napisanemu przeze mnie programowi komputerowemu, który pozwala dokonywać zmian w czasie rzeczywistym.

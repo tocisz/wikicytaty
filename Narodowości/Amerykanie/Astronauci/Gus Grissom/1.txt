@@ -1,0 +1,4 @@
+Section: Gus Grissom
+Opis: w trakcie feralnej próby Apollo 1.
+
+Jeśli nie mogę się z wami porozumieć z odległości ośmiu kilometrów, to jak będziemy z wami rozmawiać z Księżyca?

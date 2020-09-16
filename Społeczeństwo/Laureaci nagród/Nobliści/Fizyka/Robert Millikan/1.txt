@@ -1,0 +1,5 @@
+Section: Robert Millikan
+Opis: słowa z wykładu noblowskiego w 1924.
+Źródło: Mirosław Galikowski, Romuald Hassa, Marek Kaczmarzyk, Aleksandra Mrzigod, Janusz Mrzigod, Marek Więckowski, Przyroda 1. Materiały merytoryczne przeznaczone do nauki przyrody w liceum ogólnokształcącym i technikum, Nowa Era, Warszawa 2012, ISBN 9788326713040, s. 11.
+
+Nauka idzie naprzód na dwóch nogach, którymi są teoria i doświadczenie (…) Czasami jedna noga robi najpierw krok do przodu, a czasami druga, ale stały postęp dokonuje się tylko przy użyciu obu – przez teoretyzowanie poddawane następnie sprawdzeniu bądź przez znajdowanie nowych zależności przy eksperymentowaniu, czego następstwem jest ruch teoretycznej nogi do przodu, i tak na przemian, bez końca.

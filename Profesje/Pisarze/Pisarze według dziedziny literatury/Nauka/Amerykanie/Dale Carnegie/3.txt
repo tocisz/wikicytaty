@@ -1,0 +1,4 @@
+Section: Dale Carnegie
+Opis: epitafium na grobie.
+
+Tu spoczywa ten, który wiedział, jak zgromadzić wokół siebie zdolniejszych niż on sam.

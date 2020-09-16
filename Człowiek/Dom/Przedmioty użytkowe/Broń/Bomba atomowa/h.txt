@@ -1,0 +1,3 @@
+Section: Bomba atomowa
+
+broń

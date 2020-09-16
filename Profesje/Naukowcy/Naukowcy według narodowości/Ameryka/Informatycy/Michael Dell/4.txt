@@ -1,0 +1,3 @@
+Section: Michael Dell
+
+Miernikiem wartości strony nie jest liczba osób, które ją odwiedziły, tylko liczba osób, które na nią powróciły.

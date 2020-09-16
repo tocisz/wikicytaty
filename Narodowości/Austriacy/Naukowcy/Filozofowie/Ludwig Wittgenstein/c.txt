@@ -1,0 +1,3 @@
+Section: Ludwig Wittgenstein / Tractatus Logico-Philosophicus
+
+2.06 Istnienie i nieistnienie stanów rzeczy jest rzeczywistością. (Istnienie stanów rzeczy nazywamy też faktem pozytywnym, nieistnienie – negatywnym.)

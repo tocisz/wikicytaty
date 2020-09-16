@@ -1,0 +1,5 @@
+Section: Steve Ballmer
+Opis: na konferencji w Wall Street.
+Źródło: Jakilinux.org, 19 lutego 2007
+
+Uważam, że umowa którą zawarliśmy z Novellem pod koniec ubiegłego roku jest bardzo istotna. Zademonstrowała ona w oczywisty sposób wartość własności intelektualnej, również w świecie open source. Nie przewiduję, że Microsoft osiągnie ogromne dodatkowe zyski dzięki tej umowie, ale uważam, że umowa ta raz na zawsze zaświadcza, że open source nie jest wcale „wolny” i że musi respektować własność intelektualną innych firm, tak jak każdy normalny konkurent na rynku.

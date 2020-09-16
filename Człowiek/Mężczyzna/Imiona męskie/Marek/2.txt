@@ -1,0 +1,4 @@
+Section: Marek
+Opis: przysłowie polskie
+
+Jak na Marka pot ocierasz, w Serwacego kożuch wdziewasz.

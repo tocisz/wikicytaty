@@ -1,0 +1,4 @@
+Section: Pijak
+Opis: powiedzenie z XX wieku.
+
+Pijanemu się nie sprzeciwiaj, ale go szybko mijaj.

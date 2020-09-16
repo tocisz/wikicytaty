@@ -1,0 +1,4 @@
+Section: Cenzor
+Autor: Žarko Petan
+
+Cenzor to człowiek, który czyta uszami.

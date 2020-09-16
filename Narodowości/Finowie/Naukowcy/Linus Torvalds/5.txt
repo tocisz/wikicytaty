@@ -1,0 +1,4 @@
+Section: Linus Torvalds / D
+Źródło: http://www.linuxhq.com/kernel/v1.1/42/kernel/sched.c Komentarz w pliku kernel/sched.c w kodzie źródłowym jądra 1.1.42 (28 sierpnia 2006)
+
+Dijkstra zapewne mnie nienawidzi.

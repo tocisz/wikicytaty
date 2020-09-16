@@ -1,0 +1,5 @@
+Section: Albin
+Opis: przysłowie polskie
+Zobacz też: post
+
+Na świętego Albina rzadka u ludzi mina, bo post się zaczyna.

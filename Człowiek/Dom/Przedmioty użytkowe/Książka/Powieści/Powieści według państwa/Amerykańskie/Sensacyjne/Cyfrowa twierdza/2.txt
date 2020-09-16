@@ -1,0 +1,3 @@
+Section: Cyfrowa twierdza
+
+Gdy mianownik jest równy zeru, ułamek staje się nieskończony. Komputery nie cierpią nieskończoności, dlatego wypisują wówczas same dziewiątki.

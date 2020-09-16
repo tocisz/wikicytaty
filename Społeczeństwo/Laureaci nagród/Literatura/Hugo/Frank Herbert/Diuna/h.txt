@@ -1,0 +1,4 @@
+Section: Diuna
+Opis: Gurney Halleck (na Kaladanie).
+
+Gdyby życzenia były jak ryby, wszyscy stawialiby sieci.

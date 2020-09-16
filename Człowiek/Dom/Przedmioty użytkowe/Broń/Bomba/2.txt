@@ -1,0 +1,4 @@
+Section: Bomba
+Autor: Stanisław Jerzy Lec
+
+Niektórzy nastawiają bomby zegarowe, zapominając o różnicy czasu na świecie.

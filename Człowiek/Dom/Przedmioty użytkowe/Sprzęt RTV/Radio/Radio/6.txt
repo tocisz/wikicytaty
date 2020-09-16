@@ -1,0 +1,4 @@
+Section: Radio
+Opis: hasło amerykańskiej rozgłośni radiowej Głos Ameryki.
+
+Podajemy wiadomości dobre czy złe, ale zawsze prawdziwe

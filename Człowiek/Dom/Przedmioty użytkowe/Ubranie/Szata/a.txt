@@ -1,0 +1,4 @@
+Section: Szata
+Autor: Grzegorz Knapski
+
+Szata wydaje człeka obyczaje.

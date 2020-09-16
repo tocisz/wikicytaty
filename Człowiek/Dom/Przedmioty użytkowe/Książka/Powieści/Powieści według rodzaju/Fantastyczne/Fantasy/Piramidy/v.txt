@@ -1,0 +1,3 @@
+Section: Piramidy
+
+Wszystkie rzeczy są definiowane przez swoje nazwy. Wystarczy zmienić nazwę, a zmienia się obiekt.

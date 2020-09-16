@@ -1,0 +1,4 @@
+Section: William Ockham
+Źródło: Quaestiones et decisiones in quattuor libros Sententiarum Petri Lombardi
+
+Nie należy zakładać wielości bez konieczności.

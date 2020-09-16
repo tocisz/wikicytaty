@@ -1,0 +1,4 @@
+Section: Lekarz
+Autor: George Woods
+
+Bankier bez pieniędzy jest jak lekarz bez pigułek.

@@ -1,0 +1,4 @@
+Section: Tymoteusz
+Opis: przysłowie polskie
+
+Na święty Tymoteusz kup se czapkę, nie kapelusz.

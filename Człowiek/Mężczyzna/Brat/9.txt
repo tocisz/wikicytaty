@@ -1,0 +1,4 @@
+Section: Brat
+Autor: George Orwell, Rok 1984
+
+Wielki Brat patrzy!

@@ -1,0 +1,3 @@
+Section: Galileusz
+
+Natura jest napisana w języku matematycznym.

@@ -1,0 +1,4 @@
+Section: Linus Torvalds / L
+Źródło: http://groups.google.com/groups?selm=cola-liw-834355743-12037-0%40liw.clinet.fi Post na grupę dyskusyjną comp.os.linux.announce, 9 czerwca 1996 (28 sierpnia 2006)
+
+Ludzie powiadali mi, że nie uważają, że tłusty pingwin jest w stanie godnie oddać całą wielkość Linuksa, co po prostu mówi mi, że w życiu nie widzieli wściekłego pingwina pędzącego ku nim z prędkością 100 mil na godzinę. Gdyby takiego spotkali, bardziej by uważali na słowa.

@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Opis: przysłowie norweskie
+
+Człowiekowi, który tłumaczy każdy swój błąd, nie starcza już czasu na nic innego.

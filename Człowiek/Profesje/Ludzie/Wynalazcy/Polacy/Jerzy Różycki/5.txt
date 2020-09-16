@@ -1,0 +1,5 @@
+Section: Jerzy Różycki / O Jerzym Różyckim
+Opis: komunikat przygotowany przez organizację IEEE (Institute of Electrical and Electronics Engineers) z USA, odznaczenie „Milestone”.
+Źródło: http://www.pcworld.pl/news/Polacy-ktorzy-zlamali-kod-Enigmy-docenieni-prestizowa-nagroda-Szkoda-ze-po-tylu-latach,398032.html Polacy, którzy złamali kod Enigmy, docenieni prestiżową nagrodą. Szkoda, że po tylu latach…, pcworld.pl
+
+Polscy matematycy: Marian Rejewski, Jerzy Różycki i Henryk Zygalski z krajowego Biura Szyfrów złamali kody maszyny szyfrującej Enigma. Pracując razem z inżynierami fabryki AVA w Warszawie zbudowali bombę – pierwszą maszynę deszyfrująca kody Enigmy. Ich osiągnięcia były podstawą do dalszych prac Brytyjczyków nad deszyfracją, które w okresie późniejszym z pomocą Amerykanów, przyczyniły się do zakończenia II wojny światowej. To prestiżowe wyróżnienie ostatecznie niweczy kolportowaną przez blisko 70 lat fałszywą informację przypisującą zasługi związane ze złamaniem kodów Enigmy tylko Brytyjczykom i Amerykanom.

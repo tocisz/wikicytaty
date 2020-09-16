@@ -1,0 +1,4 @@
+Section: Jan Pająk
+Opis: o wynalezionej przez Pająka komorze oscylacyjnej.
+
+„Komora oscylacyjna” (po angielsku „Oscillatory Chamber”) przyporządkowana została nieznanemu wcześniej na Ziemi urządzeniu realizującemu całkowicie nową zasadę wytwarzania pól magnetycznych, jaką miałem honor osobiście wynaleźć i rozpracować.

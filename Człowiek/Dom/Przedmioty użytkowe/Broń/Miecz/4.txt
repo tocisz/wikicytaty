@@ -1,0 +1,5 @@
+Section: Miecz
+Opis: według Malorego, te słowa widniały na Excaliburze, mieczu który król Artur wyciągnął z kamienia, stając się dzięki temu władcą Anglii.
+Źródło: Thomas Malory, Le Morte d'Arthur, 1485
+
+Kto wyciągnie ten miecz z kamienia tego i kowadła jest prawowitym królem całej Anglii.

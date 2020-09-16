@@ -1,0 +1,5 @@
+Section: Zygmunt Vetulani / Wypowiedzi
+Źródło: https://www.tygodnikprzeglad.pl/zrob-sobie-mozg/ Zrób sobie mózg, wywiad Bronisława Tumiłowicza, „Przegląd”, nr 6/2018, s. 58–59.
+Zobacz też: brydż, inteligencja, komputer, szachy
+
+Fakt wygrania przez komputerowego gracza partii szachów czy brydża z człowiekiem nie musi oznaczać, że urządzenie jest inteligentne. Wygrana wynika z tego, że w ostatecznym rozrachunku w urządzeniu zostały zastosowane odpowiednie algorytmy opracowane przez człowieka, np. wykorzystujące własności sztucznych sieci neuronowych. To nie urządzenie wygrywa z człowiekiem, np. z szachistą, ale człowiek – projektant urządzenia. To po prostu rywalizacja jednego intelektu z drugim poprzez medium, jakim jest informatyka.

@@ -1,0 +1,4 @@
+Section: Solon
+Opis: w wersji łacińskiej przytoczone przez Owidiusza w Przemianach.
+
+Nikogo nie można nazwać szczęśliwym przed śmiercią.

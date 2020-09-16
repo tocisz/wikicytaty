@@ -1,0 +1,4 @@
+Section: Pankracy
+Opis: przysłowie polskie
+
+Jasny dzień Pankracego, przyczynia wina dobrego.

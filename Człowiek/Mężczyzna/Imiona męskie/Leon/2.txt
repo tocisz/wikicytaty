@@ -1,0 +1,4 @@
+Section: Leon
+Opis: powiedzenie
+
+To nie on, to Leon.

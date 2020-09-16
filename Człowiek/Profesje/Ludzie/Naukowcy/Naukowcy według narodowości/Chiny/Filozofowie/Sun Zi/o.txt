@@ -1,0 +1,3 @@
+Section: Sun Zi / I
+
+Istnieje pięć rodzajów szpiegów: szpieg miejscowy, szpieg wewnętrzny, szpieg podwójny, szpieg martwy i szpieg żywy. Szpieg miejscowy jest zatrudniany spośród mieszkańców danego miejsca. Szpieg wewnętrzny wywodzi się z nieprzyjacielskich oficerów. Szpieg podwójny to przekupiony szpieg wroga. Szpieg martwy podaje przeciwnikowi nieprawdziwe informacje. Szpieg żywy wraca do swego pracodawcy, by przekazać mu informacje.

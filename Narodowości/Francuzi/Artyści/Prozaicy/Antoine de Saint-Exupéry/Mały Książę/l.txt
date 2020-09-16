@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: pilot do Małego Księcia.
+
+Kolce nie służą do niczego. To tylko złośliwość kwiatów.

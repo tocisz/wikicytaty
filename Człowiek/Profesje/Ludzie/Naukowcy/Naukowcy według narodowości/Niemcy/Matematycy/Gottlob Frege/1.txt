@@ -1,0 +1,4 @@
+Section: Gottlob Frege
+Źródło: Grundgesetze der Arithmetik, t. I, J. Woleński, Epistemologia, PWN, Warszawa 2005, s. 104.
+
+Bycie prawdziwym jest czymś innym niż bycie uważanym za prawdziwe.

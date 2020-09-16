@@ -1,0 +1,3 @@
+Section: Niels Henrik Abel
+
+Geometria jest sztuką wyciągania prawidłowych wniosków ze źle sporządzonych rysunków.

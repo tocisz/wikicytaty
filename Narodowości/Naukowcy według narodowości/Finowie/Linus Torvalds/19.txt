@@ -1,0 +1,5 @@
+Section: Linus Torvalds / O Linusie Torvaldsie
+Autor: Eric S. Raymond
+Opis: Prawo Linusa, podstawa modelu Open Source, zainspirowane przez Linusa
+
+Przy dostatecznie dużej liczbie patrzących oczu, każdy błąd (w programie komputerowym) jest niegroźny.

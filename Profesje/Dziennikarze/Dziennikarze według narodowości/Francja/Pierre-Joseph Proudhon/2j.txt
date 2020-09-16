@@ -1,0 +1,6 @@
+Section: Pierre-Joseph Proudhon / O Proudhonie
+Opis: Marks opisuje Proudhona w przedmowie do pracy krytykującej jego esej: „Filozofia nędzy”.
+Autor: Karol Marks
+Źródło: Nędza filozofii, Warszawa 1949
+
+Pan Proudhon nie ma szczęścia: nie umieją się jakoś w Europie na nim poznać. We Francji uważają, że ma on prawo byś złym ekonomistą, gdyż uchodzi tutaj za dobrego filozofa niemieckiego. W Niemczech zaś ma prawo być złym filozofem, gdyż tutaj znowu uważają go za jednego z najtęższych ekonomistów francuskich. My – będąc i Niemcem, i ekonomistą jednocześnie – powzięliśmy zamiar zaprotestowania przeciw podwójnej tej omyłce.

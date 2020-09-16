@@ -1,0 +1,3 @@
+Section: Rytm Ziemi
+
+rytm

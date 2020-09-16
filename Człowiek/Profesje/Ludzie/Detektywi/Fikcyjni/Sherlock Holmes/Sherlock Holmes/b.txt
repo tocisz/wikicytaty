@@ -1,0 +1,4 @@
+Section: Sherlock Holmes
+Źródło: Arthur Conan Doyle, Skandal w Bohemii
+
+Podstawowym błędem jest podawanie teorii, zanim uzyska się dane. Niepostrzeżenie zaczyna się dostosowywać fakty, by zgadzały się z teoriami, zamiast próbować stworzyć teorię, która byłaby zgodna z faktami.

@@ -1,0 +1,4 @@
+Section: Janusz Korwin-Mikke/O
+Źródło: blog, 30 sierpnia 2008
+
+Ostatnim, najwyższym szczeblem d...kracji będzie referendum nt. „Czy funkcja tg x jest całkowalna na odcinku [0,2]?”

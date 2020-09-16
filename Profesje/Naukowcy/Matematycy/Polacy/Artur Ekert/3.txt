@@ -1,0 +1,4 @@
+Section: Artur Ekert
+Źródło: Karol Jałochowski, http://www.polityka.pl/tygodnikpolityka/nauka/1506974,3,kryptografia-nie-z-tego-swiata.read Kryptografia nie z tego świata, polityka.pl, 29 czerwca 2016
+
+Intryguje mnie to, czy ilość przypadkowości w systemie jest zachowana. Słowem, czy jest coś takiego, jak zasada zachowania przypadkowości? Czy możemy wygenerować coś bardziej przypadkowego za pomocą czegoś, co jest mniej przypadkowe?

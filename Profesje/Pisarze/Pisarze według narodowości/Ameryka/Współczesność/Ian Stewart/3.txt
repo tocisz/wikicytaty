@@ -1,0 +1,4 @@
+Section: Ian Stewart / 17 równań, które zmieniły świat
+Źródło: s. 283.
+
+Równania Maxwella pozwoliły przewidzieć istnienie fal elektromagnetycznych, podróżowanie z prędkością światła i opisanie światła w postaci falowej. To z kolei doprowadziło do wynalezienia radia, telewizji, łączności bezprzewodowej i większości współczesnych metod porozumiewania się.

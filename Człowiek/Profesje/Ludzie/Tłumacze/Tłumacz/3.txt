@@ -1,0 +1,4 @@
+Section: Tłumacz
+Autor: William Shakespeare
+
+Milczenie jest najlepszym tłumaczem radości, bo małe jest szczęście, które można wyrazić słowami.

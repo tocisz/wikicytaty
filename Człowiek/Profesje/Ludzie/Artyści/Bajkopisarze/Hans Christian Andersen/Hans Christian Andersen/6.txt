@@ -1,0 +1,4 @@
+Section: Hans Christian Andersen
+Opis: słowa Andersena często przez niego powtarzane w kontekście jego zamiłowań do podróży.
+
+Podróżować to żyć.

@@ -1,0 +1,4 @@
+Section: Monty Python / O Monthy Pytonie
+Autor: Tomasz Beksiński
+
+Żeby złapać humor Pythonów, trzeba mieć dystans do wielu rzeczy, a przede wszystkim do samego siebie. Znam ludzi, którzy Monty Pythona kompletnie nie rozumieją. To jest humor dla intelektualistów.

@@ -1,0 +1,3 @@
+Section: Tadeusz Morawski
+
+Doszło do tego przypadkowo. Jechałem w góry, zapisałem kolejno to, co widziałem, napis Nowy Targ, potem góry, Zakopane. Dopisałem wspak i wyszedł sensowny palindrom: "Nowy Targ, góry, Zakopane - na pokazy róg, graty won". Przygoda, która mnie spotkała, jest zupełnie nieprawdopodobna, nie pisałem wcześniej palindromów, a moje próby sprzed 30 lat dały zerowy rezultat.

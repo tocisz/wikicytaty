@@ -1,0 +1,4 @@
+Section: Drzwi
+Źródło: Julio Llamazares, Rzeka zapomnienia
+
+Zamknięcie jednych drzwi otwiera kolejne wyjścia.

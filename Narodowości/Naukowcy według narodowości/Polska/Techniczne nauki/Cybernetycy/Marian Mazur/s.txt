@@ -1,0 +1,3 @@
+Section: Marian Mazur / O cybernetyce
+
+Sukcesy cybernetyki są możliwe tylko w problemach o dostatecznej ogólności, do których (...) monodyscypliny muszą się przedzierać przez gąszcz mozolnie gromadzonych szczegółów, podczas gdy w cybernetyce wiedzie krótka droga z przeciwnej strony, tj. od twierdzeń najogólniejszych. Natomiast w problemach szczegółowych monodyscypliny są niezastąpione. Mówiąc poglądowo, do miejsca położonego wysoko na zboczu góry krótsza droga wiedzie od szczytu góry niż od jej podnóża, a do miejsca nisko położonego – przeciwnie. (s. 19)

@@ -1,0 +1,4 @@
+Section: Producenci
+Opis: wyrok ławy przysięgłych.
+
+Naszym zdaniem oskarżeni są cholernie winni.

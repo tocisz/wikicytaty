@@ -1,0 +1,4 @@
+Section: Komputer
+Autor: John Osborne
+
+Komputer to logiczne ogniwo w rozwoju człowieka: inteligencja bez moralności.

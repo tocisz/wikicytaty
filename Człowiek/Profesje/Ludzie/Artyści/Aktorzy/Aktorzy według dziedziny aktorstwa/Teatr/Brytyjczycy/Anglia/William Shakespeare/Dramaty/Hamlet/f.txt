@@ -1,0 +1,5 @@
+Section: Hamlet
+Postać: Hamlet
+Opis: ostatnie słowa.
+
+Reszta jest milczeniem.

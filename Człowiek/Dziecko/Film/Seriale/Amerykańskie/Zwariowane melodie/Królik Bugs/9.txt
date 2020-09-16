@@ -1,0 +1,4 @@
+Section: Królik Bugs
+Opis: jedno z najczęstszych powiedzonek, głównie, gdy Bugs zostaje sprowokowany.
+
+Oczywiście wiesz, że to oznacza wojnę.

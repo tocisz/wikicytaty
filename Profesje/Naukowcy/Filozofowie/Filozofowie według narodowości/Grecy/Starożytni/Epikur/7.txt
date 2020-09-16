@@ -1,0 +1,3 @@
+Section: Epikur / C
+
+Cnota to umiejętność wygaszania potrzeb, w sytuacjach utrudniających istotne ich spełnienie.

@@ -1,0 +1,4 @@
+Section: Menu
+Autor: Stanisław Jerzy Lec, Myśli nieuczesane
+
+Wszystko jest jadłospisem czasu.

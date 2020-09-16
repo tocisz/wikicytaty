@@ -1,0 +1,5 @@
+Section: Bomba atomowa
+Opis: rozmowa Wiaczesława Mołotowa z Józefem Stalinem po spotkaniu z Trumanem.
+
+Mołotow: Usiłują podnieść swoje akcje.
+Stalin: Niech podnoszą. Trzeba będzie porozmawiać z Kurczatowem o przyspieszeniu naszych prac.

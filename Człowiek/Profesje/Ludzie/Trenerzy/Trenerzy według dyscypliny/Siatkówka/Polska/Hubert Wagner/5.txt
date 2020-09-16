@@ -1,0 +1,3 @@
+Section: Hubert Wagner
+
+Mecze wygrywa się blokiem.

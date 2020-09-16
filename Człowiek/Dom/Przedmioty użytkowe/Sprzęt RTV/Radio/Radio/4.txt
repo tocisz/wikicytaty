@@ -1,0 +1,4 @@
+Section: Radio
+Opis: słowa, którymi rozpoczynało swoje audycje Błyskawica – radio powstania warszawskiego (sierpień-wrzesień 1944).
+
+Halo tu Błyskawica. Stacja nadawcza Armii Krajowej w Warszawie na falach 32,8 i 52,2 metra.

@@ -1,0 +1,4 @@
+Section: Koszula
+Opis: przysłowie ludowe
+
+Bliższa koszula ciału...

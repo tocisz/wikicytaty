@@ -1,0 +1,12 @@
+Section: Stefan Witwicki
+Źródło: Życzenie
+Opis: do wiersza Fryderyk Chopin ułożył pieśń pod tym samym tytułem. Pieśń od oryginału różni się tekstem w drugiej zwrotce. Zamiast:
+Nigdzie bym, w żadnym nie śpiewała kraju
+u Chopina jest:
+nie śpiewałabym w żadnym obcym kraju.
+Prawdopodobnie słowa zmienił sam Chopin, komponując pieśń, lub ktoś, kto opracowywał jego utwory (z powodu różnic między pierwszą a drugą zwrotką wiersza w rozkładzie akcentów, a tym samym niezgodności akcentu drugiej zwrotki z akcentem muzycznym).
+
+Gdybym ja była słoneczkiem na niebie,
+Nie świeciłabym jak tylko dla ciebie (...).
+Gdybym ja była ptaszkiem z tego gaju,
+Nigdzie bym, w żadnym nie śpiewała kraju (...).

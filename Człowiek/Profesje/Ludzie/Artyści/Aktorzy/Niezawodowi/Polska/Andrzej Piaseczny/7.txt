@@ -1,0 +1,5 @@
+Section: Andrzej Piaseczny / Cytaty z piosenek
+Opis: tytuł piosenki.
+Zobacz też: budzik
+
+Budzikom śmierć!

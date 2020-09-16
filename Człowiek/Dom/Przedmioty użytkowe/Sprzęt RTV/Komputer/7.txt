@@ -1,0 +1,4 @@
+Section: Komputer
+Autor: Gabriel Laub
+
+Komputer ma nad mózgiem tę przewagę, że się go używa.

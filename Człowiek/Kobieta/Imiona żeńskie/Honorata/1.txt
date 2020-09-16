@@ -1,0 +1,4 @@
+Section: Honorata
+Opis: przysłowie polskie
+
+Święta Honorata figle płata.

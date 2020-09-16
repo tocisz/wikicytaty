@@ -1,0 +1,4 @@
+Section: Kevin Warwick
+Źródło: http://wyborcza.pl/1,75476,8878308,Ja__cyborg.html?as=3&startsz=x#ixzz19bG7jopz wyborcza.pl, 29 grudnia 2010
+
+Zrobiliśmy coś naprawdę skomplikowanego, bo choć łatwo jest wyprowadzić sygnały nerwowe poza ciało i kontrolować w ten sposób np. trzecie ramię – takie eksperymenty już robiono, choćby na szympansach – to dużo ciężej jest sprawić, by nowe bodźce nerwowe płynęły z zewnątrz przez układ elektroniczny do układu nerwowego i dalej do mózgu, który by je na dodatek rozumiał! A nam się to udało.

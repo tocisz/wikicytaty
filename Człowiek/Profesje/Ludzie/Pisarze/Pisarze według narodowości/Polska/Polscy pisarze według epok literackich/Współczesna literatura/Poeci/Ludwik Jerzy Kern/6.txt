@@ -1,0 +1,4 @@
+Section: Ludwik Jerzy Kern
+Opis: tytuł i fragment tekstu piosenki.
+
+Nie bądź taki szybki Bill.

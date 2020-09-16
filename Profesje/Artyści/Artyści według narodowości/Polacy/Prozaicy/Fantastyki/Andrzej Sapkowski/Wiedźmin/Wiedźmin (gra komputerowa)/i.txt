@@ -1,0 +1,5 @@
+Section: Wiedźmin (gra komputerowa) / Magister
+Opis: dialog Magistra przed pojedynkiem z Geraltem, r. III, jaskinia.
+
+– Muszę przyznać, że w odmienny sposób imaginowałem sobie nasze ponowne spotkanie. Zanim nastąpi nieunikniony koniec twojego sztucznie wydłużonego życia, udowodnię ci jego bezcelowość. Umrzesz świadom, że byłeś jedynie błędem historii, błędem… (…) Nie pozbawili was emocji, mutacja nie udała się w pełni. Mieliście jeździć po świecie i zabijać potwory, a nie decydować, filozofować, okazywać wątpliwości. Straciliście skuteczność. Obaj to wiemy.
+-- A więc zabije cię nieskuteczny, pełen wątpliwości błąd historii. To źle świadczy także o tobie, ale dość gadania. Graj muzyko!

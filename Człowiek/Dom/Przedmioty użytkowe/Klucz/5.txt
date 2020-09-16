@@ -1,0 +1,4 @@
+Section: Klucz
+Autor: Stanisław Jerzy Lec
+
+Klucz sytuacji często tkwi w zamku sąsiada.

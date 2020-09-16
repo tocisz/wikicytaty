@@ -1,0 +1,4 @@
+Section: Prorok
+Autor: Valeriu Butulescu
+
+Prorok nie kłamie, najwyżej się myli.

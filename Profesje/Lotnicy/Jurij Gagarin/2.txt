@@ -1,0 +1,4 @@
+Section: Jurij Gagarin
+Opis: podczas startu Wostok 1.
+
+Jedziemy!

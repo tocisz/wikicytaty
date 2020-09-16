@@ -1,0 +1,4 @@
+Section: Geniusz / C
+Autor: Malcolm Cowley
+
+Człowiek może władać talentem, lecz geniusz włada człowiekiem.

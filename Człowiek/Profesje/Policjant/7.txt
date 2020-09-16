@@ -1,0 +1,4 @@
+Section: Policjant
+Źródło: serial Glina
+
+Policjant musi mieć dobrą pamięć.

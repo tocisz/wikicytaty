@@ -1,0 +1,4 @@
+Section: Agent
+Źródło: serial Nikita
+
+Kiepski agent jest gorszy niż agent martwy!

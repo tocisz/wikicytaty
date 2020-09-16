@@ -1,0 +1,5 @@
+Section: Komputer
+Autor: Hartree w 1948
+Zobacz też: maszyna
+
+Jedna maszyna EDSAC (512 słów pamięci, 1000 operacji na sekundę, brak pamięci pomocniczej) wystarczy do zaspokojenia wszystkich potrzeb obliczeniowych Wielkiej Brytanii.

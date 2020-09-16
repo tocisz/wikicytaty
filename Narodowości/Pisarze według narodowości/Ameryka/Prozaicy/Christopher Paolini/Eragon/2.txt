@@ -1,0 +1,4 @@
+Section: Eragon
+Opis: ostatnie słowa Broma przed śmiercią.
+
+A teraz największa przygoda...

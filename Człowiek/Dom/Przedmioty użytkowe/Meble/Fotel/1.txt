@@ -1,0 +1,4 @@
+Section: Fotel
+Autor: Jerzy Bilewicz
+
+Dwa stołki to jeszcze nie fotel.

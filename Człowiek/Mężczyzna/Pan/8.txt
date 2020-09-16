@@ -1,0 +1,4 @@
+Section: Pan
+Autor: Wilbur Smith, Bóg Nilu
+
+Zły pan lepszy niż żaden.

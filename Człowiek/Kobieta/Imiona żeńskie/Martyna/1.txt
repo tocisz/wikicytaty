@@ -1,0 +1,4 @@
+Section: Martyna
+Opis: przysłowie polskie
+
+Na świętą Martynę przybyło dnia o godzinę.

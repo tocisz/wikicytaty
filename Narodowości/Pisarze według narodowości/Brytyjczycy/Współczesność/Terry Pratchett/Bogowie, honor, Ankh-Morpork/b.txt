@@ -1,0 +1,4 @@
+Section: Bogowie, honor, Ankh-Morpork
+Opis: co zawsze powtarza komendant Vimes.
+
+Każdy jest czegoś winny, a zwłaszcza ci, którzy nie są.

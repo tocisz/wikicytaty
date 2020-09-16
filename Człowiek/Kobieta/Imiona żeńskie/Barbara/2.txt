@@ -1,0 +1,6 @@
+Section: Barbara
+Opis: przysłowie polskie
+Źródło: Nowa księga przysłów i wyrażeń przysłowiowych polskich, t. 1, oprac. Samuel Adalberg, PIW, Warszawa 1969, s. 72.
+Zobacz też: błoto, pogoda
+
+Kiedy na św. Barbarę błoto, będzie zima jak złoto.

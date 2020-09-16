@@ -1,0 +1,5 @@
+Section: Wielki Gatsby
+Opis: ostatnie zdanie powieści.
+Źródło: s. 190
+
+Tak oto nieprzerwanie dążymy naprzód – pod prąd, który nieubłaganie spycha nas z powrotem i każe dryfować w przeszłość.

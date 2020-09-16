@@ -1,0 +1,3 @@
+Section: Ezop
+
+Kto pragnie więcej, traci to co ma.

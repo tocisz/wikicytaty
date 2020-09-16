@@ -1,0 +1,4 @@
+Section: Kowal
+Autor: Jacek Wejroch
+
+Trudno być kowalem własnego losu w cudzej kuźni.

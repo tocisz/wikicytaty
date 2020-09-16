@@ -1,0 +1,4 @@
+Section: Hipokrates / Inne
+Opis: przypisywane Hipokratesowi, ale niewystępujące w źródłach.
+
+Twoje pożywienie powinno być lekarstwem, a twoje lekarstwo powinno być pożywieniem.

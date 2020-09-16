@@ -1,0 +1,11 @@
+Section: Zmiennicy / Odcinek 8, Fartowny dzień
+
+Kuśmider: Panie starszy, chcemy płacić!
+Kelner: Należy się 300 za potrawy, drugie 300 za usługę ekspresową, premia 100% za zamówienie ekstra. Razem będzie półtora...
+Szatniarz: I dla mnie 100 złotych za buta!
+Kelner: Właśnie! I 200 złotych za buty.
+Krashan: Ale ja nie mam polskie pieniądze.
+Kelner: No, mogą być normalne. Tu jeżdżą międzynarodowe pociągi, także jesteśmy przeszkoleni...
+Kuśmider Dobra, dobra. To lepiej ja zapłacę.
+Kuśmider (do Krashana) Jesteś mi winien cztery zielone dodatkowo.
+Krashan: Jesteś bardziej pazerna od kulawa tygrysa.

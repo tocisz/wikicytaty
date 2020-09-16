@@ -1,0 +1,4 @@
+Section: Linus Torvalds / Z
+Źródło: http://www.mail-archive.com/linux-kernel@vger.kernel.org/msg83284.html Wiadomość na listę mailową linux-kernel, 14 lipca 2005 (28 sierpnia 2006)
+
+Zawsze mam rację. A tym razem mam jej jeszcze więcej niż zwykle.

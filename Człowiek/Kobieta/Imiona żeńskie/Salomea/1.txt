@@ -1,0 +1,5 @@
+Section: Salomea
+Opis: przysłowie polskie
+Źródło: Hasło Salomea w: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, s. 486, Warszawa, Druk Emila Skiwskiego, 1889–1894.
+
+Od św. Salomei zima jest w nadziei.

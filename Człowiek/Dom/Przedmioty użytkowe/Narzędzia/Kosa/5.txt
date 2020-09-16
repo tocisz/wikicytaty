@@ -1,0 +1,5 @@
+Section: Kosa
+Opis: przysłowie polskie
+Źródło: Janusz Berner, Mądrej głowie dość… przysłowie, op. cit., s. 158.
+
+Trafiła kosa na kamień.

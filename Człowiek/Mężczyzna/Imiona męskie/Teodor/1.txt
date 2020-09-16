@@ -1,0 +1,5 @@
+Section: Teodor
+Opis: przysłowie polskie
+Zobacz też: deszcz, rok
+
+Kiedy w Teodora deszcz nie pada, suchy rok zapowiada.

@@ -1,0 +1,3 @@
+Section: Szklany klosz
+
+Skakanie z okna ma jedną wadę. Jeżeli nie wejdzie się na dostatecznie wysokie piętro, to można się wcale nie zabić.

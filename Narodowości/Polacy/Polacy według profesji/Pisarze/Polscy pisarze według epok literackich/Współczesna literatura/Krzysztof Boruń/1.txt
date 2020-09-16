@@ -1,0 +1,3 @@
+Section: Krzysztof Boruń
+
+Bierny opór jest nieraz gorszy od czynnego.

@@ -1,0 +1,4 @@
+Section: Andrzej Sobczak
+Opis: tytuł piosenki zespołu Lombard i fragmentu tekstu.
+
+Przeżyj to sam!

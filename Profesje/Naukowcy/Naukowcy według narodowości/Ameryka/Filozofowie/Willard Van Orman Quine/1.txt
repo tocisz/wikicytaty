@@ -1,0 +1,3 @@
+Section: Willard Van Orman Quine
+
+Być uznanym za przedmiot istniejący to po prostu i zwyczajnie tyle co być wartością pewnej zmiennej. W języku tradycyjnej gramatyki sprowadza się to w przybliżeniu do tego, że „być” znaczy tyle co „być przedmiotem do którego odnosi się pewien zaimek”.

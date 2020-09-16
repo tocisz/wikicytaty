@@ -1,0 +1,3 @@
+Section: David Hilbert
+
+Sztuka uprawiania matematyki polega na znalezieniu tego szczególnego przypadku, który zawiera wszystkie zarodki ogólności.

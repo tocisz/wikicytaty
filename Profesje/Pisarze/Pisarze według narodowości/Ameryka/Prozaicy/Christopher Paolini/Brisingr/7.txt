@@ -1,0 +1,4 @@
+Section: Brisingr
+Postać: Orin
+
+Król nie pozostanie długo królem,, jeśli nie pozna wartości milczenia.

@@ -1,0 +1,4 @@
+Section: Świadek
+Źródło: z prawa rzymskiego
+
+Jeden świadek, żaden świadek.

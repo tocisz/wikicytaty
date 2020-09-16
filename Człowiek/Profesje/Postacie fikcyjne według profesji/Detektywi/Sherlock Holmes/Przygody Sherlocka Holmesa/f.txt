@@ -1,0 +1,5 @@
+Section: Przygody Sherlocka Holmesa / Wampirzyca z hrabstwa Sussex
+Postać: dr Watson
+Opis: o Sherlocku Holmesie.
+
+Szybko kodował każdą świeżą informację, jednak jego duma i rezerwa rzadko pozwalały na okazywanie wdzięczności osobie, która mu jej udzieliła.

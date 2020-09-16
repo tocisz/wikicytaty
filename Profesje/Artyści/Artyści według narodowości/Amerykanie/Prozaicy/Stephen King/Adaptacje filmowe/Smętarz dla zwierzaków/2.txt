@@ -1,0 +1,4 @@
+Section: Smętarz dla zwierzaków
+Opis: napis na tablicy rejestracyjnej samochodu Creeda
+
+Przytul swojego lekarza.

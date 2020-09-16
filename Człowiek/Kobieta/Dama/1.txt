@@ -1,0 +1,4 @@
+Section: Dama
+Autor: Tanith Lee, Piratika, tłum. Grzegorz Komerski
+
+Dobrze ułożona dama nigdy z niczego nie spada.

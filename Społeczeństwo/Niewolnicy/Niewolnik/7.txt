@@ -1,0 +1,4 @@
+Section: Niewolnik
+Autor: Jan Stępień
+
+Lepiej być niewolnikiem siebie niż rzeczy.

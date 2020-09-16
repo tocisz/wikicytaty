@@ -1,0 +1,3 @@
+Section: Szkieletowa załoga / Wstęp
+
+Najbardziej zafascynowały mnie klawisze INSERT oraz DELETE, za których sprawą korektory niemal z dnia na dzień odeszły do lamusa.

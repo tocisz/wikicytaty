@@ -1,0 +1,3 @@
+Section: John Locke
+
+Bogactwo jest produktem pracy.

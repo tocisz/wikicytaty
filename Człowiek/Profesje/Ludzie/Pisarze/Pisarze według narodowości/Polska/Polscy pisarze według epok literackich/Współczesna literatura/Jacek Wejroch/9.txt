@@ -1,0 +1,3 @@
+Section: Jacek Wejroch / C
+
+Czy głodni tego świata umierają zbyt cicho, czy syci żyją zbyt głośno?

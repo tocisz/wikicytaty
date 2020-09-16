@@ -1,0 +1,4 @@
+Section: Benoît Mandelbrot
+Źródło: Pan od fraktali, „Wiedza i Życie” nr 7/2010, s. 60.
+
+Fraktale są bardzo proste. Nie odkryto ich późno dlatego, że są skomplikowane, ale dlatego, że ludzie byli zafiksowani na prostych kształtach, i wydawało im się, że te skomplikowane, którymi zajmował się Sierpiński, są często matematycznymi tworami.

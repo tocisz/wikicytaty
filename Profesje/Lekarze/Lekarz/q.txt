@@ -1,0 +1,4 @@
+Section: Lekarz
+Opis: żartobliwe powiedzenie.
+
+W obecności lekarza nic zaszkodzić nie może.

@@ -1,0 +1,4 @@
+Section: Baśnie Andersena / Co ojciec czyni, jest zawsze słuszne
+Opis: komentarz Andersena do baśni.
+
+Nieraz bowiem z bajkami jest tak jak z niektórymi ludźmi: z wiekiem wydają się nam milsi.

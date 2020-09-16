@@ -1,0 +1,4 @@
+Section: Diuna
+Opis: aksjomat Bene Gesserit.
+
+Jeżeli ufasz jedynie swoim oczom, twoje pozostałe zmysły słabną.

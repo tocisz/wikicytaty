@@ -1,0 +1,3 @@
+Section: Ksawery Tartakower
+
+Partia szachów jest zawsze wygrana w następstwie błędu: partnera lub własnego.

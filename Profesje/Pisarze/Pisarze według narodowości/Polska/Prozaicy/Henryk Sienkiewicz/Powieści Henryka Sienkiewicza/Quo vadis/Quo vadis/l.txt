@@ -1,0 +1,4 @@
+Section: Quo vadis
+Opis: kwestia wypowiedziana przez Petroniusza.
+
+Życie jest śmiechu warte, więc się śmieję.

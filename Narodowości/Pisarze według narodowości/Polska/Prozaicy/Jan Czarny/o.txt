@@ -1,0 +1,3 @@
+Section: Jan Czarny
+
+Proste drzewo nie rzuca garbatego cienia.

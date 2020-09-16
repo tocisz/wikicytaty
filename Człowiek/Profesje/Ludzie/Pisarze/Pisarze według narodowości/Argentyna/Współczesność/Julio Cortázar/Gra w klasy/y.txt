@@ -1,0 +1,3 @@
+Section: Gra w klasy
+
+Przypadkowe spotkanie jest czymś najmniej przypadkowym w naszym życiu

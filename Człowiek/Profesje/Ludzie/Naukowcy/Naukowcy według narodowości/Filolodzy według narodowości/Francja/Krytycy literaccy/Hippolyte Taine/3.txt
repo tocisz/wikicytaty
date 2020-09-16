@@ -1,0 +1,5 @@
+Section: Hippolyte Taine
+Opis: o dumie
+Źródło: Johan Huizinga, Jesień średniowiecza, Warszawa 1974.
+
+Pośród najgłębiej zakorzenionych uczuć ludzkich nie ma żadnego, które bardziej byłoby powołane do przekształcenia się w zacność, miłość ojczyzny i sumienność; bo dumny człowiek potrzebował dla siebie szacunku i, by na ten szacunek osiągnąć, musiał na niego zasłużyć.

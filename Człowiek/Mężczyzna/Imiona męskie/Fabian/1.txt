@@ -1,0 +1,4 @@
+Section: Fabian
+Opis: przysłowie polskie; imieniny Fabiana i Sebastiana przypadają tego samego dnia, 20 stycznia.
+
+Fabian i Sebastian gdy mróz dadzą, srogą zimę przyprowadzą.

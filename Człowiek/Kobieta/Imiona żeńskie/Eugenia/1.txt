@@ -1,0 +1,6 @@
+Section: Eugenia
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, wyd. Druk. E. Skiwskiego, Warszawa 1889–1894, s. 123.
+Zobacz też: śnieg, zima
+
+Jeśli da śnieg Eugenii, to zima się przemieni.

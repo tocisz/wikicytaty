@@ -1,0 +1,4 @@
+Section: Brisingr
+Opis: Arya po stworzeniu latającego statku z trawy.
+
+Wiele podobnych osobliwości istnieje na tym świecie.

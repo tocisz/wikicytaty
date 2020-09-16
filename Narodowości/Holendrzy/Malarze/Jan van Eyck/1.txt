@@ -1,0 +1,4 @@
+Section: Jan van Eyck
+Opis: słynna dewiza, którą sygnował swoje obrazy.
+
+Tak, jak potrafię.

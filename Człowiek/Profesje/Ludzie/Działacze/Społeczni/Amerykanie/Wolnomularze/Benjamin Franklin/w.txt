@@ -1,0 +1,4 @@
+Section: Benjamin Franklin
+Opis: zdanie wypowiedziane tuż po ogłoszeniu Deklaracji niepodległości.
+
+Musimy trzymać się razem, bo inaczej z pewnością będziemy wisieć oddzielnie.

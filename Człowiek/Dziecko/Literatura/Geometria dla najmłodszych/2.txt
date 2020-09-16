@@ -1,0 +1,5 @@
+Section: Geometria dla najmłodszych
+Postać: Ołówek
+Źródło: s. 9
+
+Linia jest cała z punktów. W dowolnym miejscu na linii można zaznaczyć punkt.

@@ -1,0 +1,4 @@
+Section: Walter Raleigh
+Opis: ostatnie słowa skierowane do kata.
+
+Uderzaj, człowieku!

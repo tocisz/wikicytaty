@@ -1,0 +1,4 @@
+Section: Jan Bosko
+Opis: w języku polskim używa się tłumaczenia: „Daj mi dusze, resztę zabierz”.
+
+Zostaw dusze, resztę zabierz.

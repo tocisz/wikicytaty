@@ -1,0 +1,5 @@
+Section: Sergey Brin
+Opis: o Internecie za 5–10 lat.
+Źródło: http://wiadomosci.dziennik.pl/opinie/artykuly/77402,jak-wyglada-czlowiek-wart-18-miliardow.html dziennik.pl, 21 czerwca 2008
+
+Moim zdaniem internet stanie się bardziej mobilny, do sieci będziemy mieć dostęp z każdego miejsca na globie. Wiem, ludzie z branży powtarzają to stwierdzenie od co najmniej 20 lat, lecz moim zdaniem tak właśnie wygląda przyszłość. Zresztą to już się dzieje. Przejawem tych zmian są choćby telefony komórkowe zapewniające dostęp do internetu. Popatrzcie na współczesne telefony komórkowe czy nawet na iPhone’y. Są wyposażone w dobre przeglądarki internetowe, pozwalają na odbieranie e-maili, na korzystanie z sieci niemal w każdym miejscu.

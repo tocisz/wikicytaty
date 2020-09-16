@@ -1,0 +1,4 @@
+Section: Jacek Karpiński / O Jacku Karpińskim
+Autor: Bożena Aksamit, Zduszona rewolucja inżyniera Karpińskiego, „Ale Historia”, w: „Gazeta Wyborcza”, 2 lipca 2012.
+
+Gdyby nie towarzysz Łarionow, generalny konstruktor radzieckiego komputera RIAD, kto wie, czy to nie w PRL-u zaczęłaby się rewolucja informatyczna, która dała światu komputery osobiste. (…) Po K-202 Jacka Karpińskiego w Polsce nie pojawiła się już nigdy żadna genialna konstrukcja w dziedzinie elektroniki. (…) Moskwa zdecydowała, że powstanie jeden typ komputera dla całego Układu Warszawskiego – RIAD. Nikomu nie przeszkadza, że to projekt ściągnięty z przestarzałego już IBM 360.

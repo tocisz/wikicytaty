@@ -1,0 +1,6 @@
+Section: Buntownik
+Opis: bohaterowie komiksu Garfield autorstwa Jima Davisa
+
+Jon: Nie powinieneś tak bezczynnie leżeć, Garfield (odchodzi)
+Garfield: Nie powinienem? (cisza)
+Garfield: Jestem buntownikiem!

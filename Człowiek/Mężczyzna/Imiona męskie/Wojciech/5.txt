@@ -1,0 +1,4 @@
+Section: Wojciech
+Opis: przysłowie polskie
+
+Na święty Wojciech zniesie jajko bociek.

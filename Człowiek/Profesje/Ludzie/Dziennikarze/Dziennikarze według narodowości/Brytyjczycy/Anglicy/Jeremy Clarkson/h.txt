@@ -1,0 +1,4 @@
+Section: Jeremy Clarkson / Inne
+Opis: Test automatycznego wyboru stacji w Mercedesie klasy S.
+
+Radio Beznadziejny Bełkot (przełączenie na radio 1) Wiedział! To wspaniały samochód.

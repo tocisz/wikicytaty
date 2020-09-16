@@ -1,0 +1,3 @@
+Section: Bouli / Autorzy
+
+Autorzy scenariusza: Patrick Galliano, Raynald Guillot, Gale Noyer, Claude Prothee, Serge Rosenzweig

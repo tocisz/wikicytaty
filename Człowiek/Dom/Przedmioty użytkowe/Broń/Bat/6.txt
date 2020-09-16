@@ -1,0 +1,4 @@
+Section: Bat
+Autor: Tadeusz Fangrat
+
+Więź: I trzask bata konie brata.

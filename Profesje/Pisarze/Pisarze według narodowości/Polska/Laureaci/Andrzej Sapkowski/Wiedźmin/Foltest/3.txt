@@ -1,0 +1,4 @@
+Section: Foltest / Wiedźmin 1 (gra komputerowa)
+Opis: spontaniczny komentarz wypowiadany wiele razy.
+
+Rządzę krajem idiotów.

@@ -1,0 +1,5 @@
+Section: Mgły Avalonu
+Opis: pierwszy z monologów Morgiany.
+Źródło: str. 7
+
+Był taki czas, kiedy wędrowiec, jeśli miał ochotę i znał choćby kilka tajemnic, mógł wypłynąć łodzią na Morze Lata i dotrzeć nie do Glastonbury pełnego mnichów, lecz do Świętej Wyspy Avalon. W tamtych czasach wrota łączące światy unosiły się we mgle i otwierały wedle myśli wędrowca.

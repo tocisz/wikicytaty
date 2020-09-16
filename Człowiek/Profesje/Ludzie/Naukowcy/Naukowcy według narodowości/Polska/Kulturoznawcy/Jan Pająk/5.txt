@@ -1,0 +1,4 @@
+Section: Jan Pająk
+Opis: o wynalezionej przez Pająka koncepcji „wszystko w jednym”.
+
+Początkowo klawiatura ta zamierzona była jako techniczne wsparcie dla tych osób, które zaochotniczyły do udoskonalania języka rosyjskiego totaliztycznych stron internetowych. Szybko jednak się okazało, że faktycznie to reprezentuje ona zupełnie nową ideę programowania polegającą na zbieraniu owoców z potęgi komputerów zupełnie bez konieczności ich programowania.

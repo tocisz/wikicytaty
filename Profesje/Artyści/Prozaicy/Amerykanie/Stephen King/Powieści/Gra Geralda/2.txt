@@ -1,0 +1,3 @@
+Section: Gra Geralda
+
+Czas biegnie najszybciej, gdy podsłuchuje się rozmowy o sobie.

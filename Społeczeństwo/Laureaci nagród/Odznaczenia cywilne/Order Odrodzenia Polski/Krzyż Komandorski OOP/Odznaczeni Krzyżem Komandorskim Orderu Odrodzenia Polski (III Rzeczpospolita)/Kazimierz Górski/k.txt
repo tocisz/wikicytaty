@@ -1,0 +1,5 @@
+Section: Kazimierz Górski
+Opis: odpowiedź na pytanie, kto wygra rozgrywki ligowe.
+Źródło: Waldemar Jaskulski, Kto, kiedy, z kim, za ile w pierwszej lidze, „Super Express”, dodatek „Super Sport”, 15 marca 1996, s.1.
+
+Wygra ten, kto zdobędzie więcej punktów.

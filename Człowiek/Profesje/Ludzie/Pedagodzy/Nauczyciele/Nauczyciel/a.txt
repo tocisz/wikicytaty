@@ -1,0 +1,4 @@
+Section: Nauczyciel
+Autor: Sławomir Kuligowski
+
+Można być nauczycielem i można nie mieć klasy.

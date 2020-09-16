@@ -1,0 +1,6 @@
+Section: Idzi
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, Druk Emila Skiwskiego, Warszawa 1889–1894, s. 15.
+Zobacz też: Bartłomiej, zboże, żyto
+
+Jak Bartłomiej nie zasieje, nie pokropi Idzi, to się zboża, to się żyta mało w polu widzi.

@@ -1,0 +1,4 @@
+Section: Krzysztof Dobrzański
+Źródło: odc. 6
+
+Jak są problemy, to nie wolno ich maskować, tylko trzeba rozwiązywać raz na zawsze.

@@ -1,0 +1,5 @@
+Section: Pacjent
+Autor: Francis Bacon, Eseje: O przyjaźni.
+Źródło: Henryk Markiewicz, Andrzej Romanowski, Skrzydlate słowa, Państwowy Instytut Wydawniczy, Warszawa 1990, ISBN 83-06-01141-4, s. 34.
+
+Lekarz leczy chorobę, a zabija pacjenta.

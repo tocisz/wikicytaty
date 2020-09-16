@@ -1,0 +1,5 @@
+Section: Elżbieta
+Opis: przysłowie polskie
+Zobacz też: zima
+
+Dzień Elżbiety da orędzie, czy ta zima sroga będzie.

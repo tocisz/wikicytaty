@@ -1,0 +1,3 @@
+Section: Krzysztof Dobrzański
+
+Stres hartuje.

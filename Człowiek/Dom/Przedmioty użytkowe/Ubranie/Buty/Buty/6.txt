@@ -1,0 +1,5 @@
+Section: Buty
+Opis: przysłowie polskie
+Zobacz też: luty
+
+Idzie luty, podkuj buty.

@@ -1,0 +1,4 @@
+Section: Lekarz
+Autor: Awicenna
+
+Lekarz ignorant jest adiutantem śmierci.

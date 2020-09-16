@@ -1,0 +1,4 @@
+Section: Linus Torvalds / G
+Źródło: http://www.ussg.iu.edu/hypermail/linux/kernel/9610.2/0030.html Wiadomość na listę linux-kernel, 17 października 1996 (28 sierpnia 2006)
+
+Głównym powodem, z którego [w Linuksie] nie ma surowych urządzeń jest ten, że osobiście uważam, że są one głupim pomysłem.

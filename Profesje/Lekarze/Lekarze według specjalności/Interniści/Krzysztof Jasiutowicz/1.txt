@@ -1,0 +1,5 @@
+Section: Krzysztof Jasiutowicz
+Opis: odpowiedź na pytanie: Kiedy uwierzyłeś, że Wikipedia ma szansę na realny sukces?
+Źródło: http://pl.wikinews.org/wiki/Krzysztof_Jasiutowicz:_Polskojęzyczna_Wikipedia_zbliża_się_do_punktu_zwrotnego, wikinews, 27 września 2006
+
+Jako projekt to od samego początku. To tak, jak z Linuksem, początkowo nikt nie wierzył, że będzie popularny tak jak Windows, ale było zaangażowanie w projekt.

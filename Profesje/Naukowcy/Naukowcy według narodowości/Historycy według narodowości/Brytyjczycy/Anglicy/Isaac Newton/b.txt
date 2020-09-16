@@ -1,0 +1,4 @@
+Section: Isaac Newton / Inne
+Źródło: Katarzyna Nessing, Adam Blokesz, Świat fizyki – zbiór zadań dla szkół ponadgimnazjalnych; zakres podstawowy, wyd. Zamkor, Kraków 2012, ISBN 9788376620046, s. 7.
+
+Każdy obiekt we Wszechświecie przyciąga inny obiekt wzdłuż linii przechodzącej przez ich środki, proporcjonalnie do ich mas i odwrotnie proporcjonalnie do kwadratu odległości między nimi.

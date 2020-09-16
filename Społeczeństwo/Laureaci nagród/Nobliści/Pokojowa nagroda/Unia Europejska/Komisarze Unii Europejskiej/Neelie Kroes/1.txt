@@ -1,0 +1,5 @@
+Section: Neelie Kroes
+Opis: o o nałożeniu kary w wysokości 899 milionów euro na Microsoft za zwlekanie z ujawnieniem specyfikacji technicznej swojego oprogramowania, co utrudniało np. tworzenie aplikacji open source działających pod Windows.
+Źródło: PC Format nr 5/2008 str.6.
+
+Microsoft był pierwszą firmą w 50-letniej historii unijnej polityki konkurencji, którą musieliśmy ukarać za niepodporządkowanie się naszym antymonopolowym decyzjom. Mam nadzieję, że nasza dzisiejsza decyzja zamyka ten ciemny rozdział.

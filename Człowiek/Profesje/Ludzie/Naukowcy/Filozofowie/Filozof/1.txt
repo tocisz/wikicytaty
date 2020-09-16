@@ -1,0 +1,4 @@
+Section: Filozof
+Autor: Sokrates
+
+Błąd jest przywilejem filozofów, tylko głupcy nie mylą się nigdy.

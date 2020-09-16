@@ -1,0 +1,8 @@
+Section: Johnny Bravo / Dialogi
+Opis: Johnny został poproszony przez Suzy o pomoc w znalezieniu jej lalki.
+
+Johny: Dosyć tego, rezygnuję!
+Suzy: Nie, Johnny! Nie rezygnuj. Podwoję ci honorarium!
+Johny: Przecież nie płacisz mi ani grosika!
+Suzy: No to je potroję!
+Johny: Zgoda!

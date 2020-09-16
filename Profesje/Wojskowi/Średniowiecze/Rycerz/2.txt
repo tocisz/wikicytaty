@@ -1,0 +1,4 @@
+Section: Rycerz
+Opis: przysłowie polskie
+
+Ma coś z rycerza – zakuty łeb.

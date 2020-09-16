@@ -1,0 +1,5 @@
+Section: Komputer
+Autor: Lech Wałęsa
+Opis: wywiad dla TVN24, udzielonym za pośrednictwem komunikatora Skype.
+
+Dziś ten, kto nie potrafi obsługiwać komputera, jest analfabetą.

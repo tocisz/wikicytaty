@@ -1,0 +1,5 @@
+Section: Marian Rejewski
+Opis: artykuł Mariana Rejewskiego Matematyczne podstawy rozwiązania niemieckiego szyfru maszynowego „Enigma”, 1979.
+Źródło: http://marianrejewski.pl/wp/zanim-bylo-bletchley-park/ Zanim było Bletchley Park, marianrejewski.pl
+
+Strona polska udostępniła wszystkie swe metody i urządzenia do dekryptażu Enigmy przyszłym sojusznikom wojennym, przekazując im także po jednym egzemplarzu zrekonstruowanej w Polsce (...) niemieckiej maszyny cyfrowej.

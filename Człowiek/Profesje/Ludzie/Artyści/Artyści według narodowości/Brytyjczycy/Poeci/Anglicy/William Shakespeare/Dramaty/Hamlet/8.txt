@@ -1,0 +1,5 @@
+Section: Hamlet
+Opis: wyrażenie oznaczające utwór zbyt trudny (albo zbyt wyszukany) dla szerszej publiki.
+Źródło: akt II, scena 2
+
+Kawior dla ludu.

@@ -1,0 +1,3 @@
+Section: Marian Mazur / O cybernetyce
+
+Prostotę zawdzięcza cybernetyka abstrahowaniu od właściwości tworzywa. W cybernetyce stawia się pytania: „jak to działa?”, a nie „z czego to jest zrobione?”. W gruncie rzeczy właśnie różnice tworzyw powodowały wyodrębnianie się różnych monodyscyplin. (s. 12)

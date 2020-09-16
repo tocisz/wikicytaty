@@ -1,0 +1,4 @@
+Section: Klaun
+Autor: Charlie Rivel
+
+Aby zrozumieć clowna, trzeba być dobrym człowiekiem.

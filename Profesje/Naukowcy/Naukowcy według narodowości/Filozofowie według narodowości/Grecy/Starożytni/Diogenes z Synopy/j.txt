@@ -1,0 +1,4 @@
+Section: Diogenes z Synopy
+Opis: odpowiedź na pytanie o wielkość tłumu podczas igrzysk olimpijskich.
+
+Tłum był wielki, ale ludzi niewielu.

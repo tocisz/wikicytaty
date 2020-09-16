@@ -1,0 +1,5 @@
+Section: Niels Bohr
+Opis: cytat przypisywany Bohrowi przez Heisenberga, odpowiedź fizyka na pytanie, czy wierzy w działanie zawieszonej na ścianie w jego domu podkowy.
+Źródło: Jostein Gaarder, Świat Zofii. Cudowna podróż w głąb historii filozofii, Warszawa 1995, tłum. Iwona Zimnicka, s. 396.
+
+Nie wierzę, ale słyszałem, że to działa, nawet jeśli się nie wierzy.

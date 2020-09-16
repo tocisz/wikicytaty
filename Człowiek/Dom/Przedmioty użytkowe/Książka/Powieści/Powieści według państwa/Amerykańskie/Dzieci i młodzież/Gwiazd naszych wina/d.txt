@@ -1,0 +1,7 @@
+Section: Gwiazd naszych wina
+Opis: grając w grę komputerową.
+Źródło: rozdział 23, s. 279
+
+Isaac: Nie lubię żyć w tym świecie bez Augustusa Watersa.
+Komputer: Nie rozumiem…
+Isaac: Ja również. Pauza.

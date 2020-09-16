@@ -1,0 +1,3 @@
+Section: Antoni Regulski / Kolacja u Pascala / H
+
+Hazard: fatalny błąd obsługi jutra.

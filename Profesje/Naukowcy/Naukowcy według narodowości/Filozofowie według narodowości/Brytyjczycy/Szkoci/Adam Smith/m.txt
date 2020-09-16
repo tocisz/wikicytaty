@@ -1,0 +1,3 @@
+Section: Adam Smith / Inne
+
+Maszyny, które konstruuje się jako pierwsze, w celu wykonania jakiegoś konkretnego zadania, zwykle są najbardziej skomplikowane, a dopiero następni artyści zwykle odkrywają, że przy mniejszej liczbie kół, przy mniejszej liczbie zasad ruchu, niż początkowo zastosowano, można łatwiej osiągnąć ten sam efekt. Podobnie ma się rzecz z pierwszymi systemami filozoficznymi, zawsze są najbardziej skomplikowane.

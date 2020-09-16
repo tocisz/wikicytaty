@@ -1,0 +1,3 @@
+Section: Ewa Lewandowska
+
+Pycha działa jak zamek błyskawiczny: błyskawicznie zamyka na drugiego człowieka.

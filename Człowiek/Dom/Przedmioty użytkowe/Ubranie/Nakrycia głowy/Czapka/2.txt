@@ -1,0 +1,4 @@
+Section: Czapka
+Opis: przysłowie greckie
+
+Dwie głowy nie mieszczą się w jednej czapce.

@@ -1,0 +1,3 @@
+Section: Willard Van Orman Quine
+
+Logika goni prawdę na drzewie gramatyki.

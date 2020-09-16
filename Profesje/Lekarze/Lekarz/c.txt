@@ -1,0 +1,4 @@
+Section: Lekarz
+Autor: Benjamin Veludo
+
+Lekarz kompetentny to taki, który wie, kiedy trzeba odesłać pacjenta do innego lekarza.

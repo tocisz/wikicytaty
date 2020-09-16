@@ -1,0 +1,4 @@
+Section: Pisarz
+Autor: Oskar Wilde
+
+Rosyjscy pisarze są nadzwyczajni. To, co czyni ich powieści tak wielkimi, to litość, którą w nie wkładają.

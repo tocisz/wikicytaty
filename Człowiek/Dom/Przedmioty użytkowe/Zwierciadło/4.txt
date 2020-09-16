@@ -1,0 +1,4 @@
+Section: Zwierciadło
+Autor: William Szekspir, Hamlet, akt III, 2, tłum. Józef Paszkowski
+
+Wszystko bowiem, co przesadzone, przeciwne jest zamiarowi teatru, którego przeznaczeniem, jak dawniej tak i teraz, było i jest służyć niejako za zwierciadło naturze, pokazywać cnocie własne jej rysy, żywy jej obraz, a światu i duchowi wieku postać ich i piętno.

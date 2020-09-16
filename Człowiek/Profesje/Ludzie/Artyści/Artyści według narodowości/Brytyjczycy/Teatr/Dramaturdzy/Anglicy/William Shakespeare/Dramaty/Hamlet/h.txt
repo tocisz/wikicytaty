@@ -1,0 +1,3 @@
+Section: Hamlet
+
+Świat wyszedł z formy.

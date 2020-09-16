@@ -1,0 +1,5 @@
+Section: Chłop
+Opis: przysłowia polskie
+Źródło: Samuel Adalberg, Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, op. cit., s. 34.
+
+Jak Bóg zagrzmi, to chłop do pacierza.

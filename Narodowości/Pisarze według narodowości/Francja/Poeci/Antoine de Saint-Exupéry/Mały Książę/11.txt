@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: lis do Małego Księcia, w odpowiedzi na pytanie, co to znaczy „oswoić”.
+
+„Oswoić” znaczy „stworzyć więzy”.

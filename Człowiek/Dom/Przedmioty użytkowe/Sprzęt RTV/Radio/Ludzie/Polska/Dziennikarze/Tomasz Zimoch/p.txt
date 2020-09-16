@@ -1,0 +1,3 @@
+Section: Tomasz Zimoch / Wpadki komentatorskie
+
+Źle wyrzucony wyrzut piłki z autu.

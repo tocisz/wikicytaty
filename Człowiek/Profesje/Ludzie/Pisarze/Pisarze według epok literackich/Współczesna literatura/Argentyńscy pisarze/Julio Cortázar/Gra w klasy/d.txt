@@ -1,0 +1,5 @@
+Section: Gra w klasy
+Opis: rozmowa Magi z Horaciem.
+
+– Horacio, co to jest absolut?
+– To są chwile, kiedy coś osiąga maksimum swoich wymiarów, swojej głębokości, swojego zasięgu, swojego sensu i staje się kompletnie nieinteresujące.

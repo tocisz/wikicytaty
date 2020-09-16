@@ -1,0 +1,5 @@
+Section: Karl Isidor Beck
+Opis: tytuł pierwszego śpiewanego walca Johanna Straussa do tekstu wiersza Becka.
+Źródło: Nad Dunajem (niem. An der Donau)
+
+Nad pięknym modrym Dunajem.

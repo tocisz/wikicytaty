@@ -1,0 +1,5 @@
+Section: Paweł Narożnik
+Opis: o filmie Dzisiaj jest piątek.
+Źródło: http://www.stopklatka.pl/wywiady/wywiad.asp?wi=41515 Wywiad, 2007
+
+(...) robienie filmu to nie to samo, co pisanie scenariusza.

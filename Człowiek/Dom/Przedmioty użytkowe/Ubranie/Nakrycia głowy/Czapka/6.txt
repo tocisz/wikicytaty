@@ -1,0 +1,4 @@
+Section: Czapka
+Opis: przysłowie gruzińskie
+
+Szewc bez butów chodził, a czapnik bez czapki.

@@ -1,0 +1,9 @@
+Section: Romeo i Julia
+Opis: Julia do Romea (pisownia oryginalna).
+Źródło: akt III, sc. 5, wyd. Gebethner i Wolff 1913, s. 61, tłum. Józef Paszkowski.
+
+Chcesz już iść? Jeszcze ranek nie tak bliski,
+Słowik to, a nie skowronek się zrywa
+I śpiewem przeszył trwożne ucho twoje.
+Co noc on śpiewa owdzie na gałązce
+Granatu: wierzaj mi, że to był słowik.

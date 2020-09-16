@@ -1,0 +1,3 @@
+Section: Rasmus Lerdorf
+
+Naprawdę nie lubię programowania. Stworzyłem to narzędzie (język PHP), żeby pisać mniej i by móc ponownie wykorzystać użyty kod.

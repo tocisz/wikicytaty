@@ -1,0 +1,4 @@
+Section: Guzik
+Opis: wyrażenie potoczne, używane w znaczeniu: coś nie warte zachodu.
+
+Coś jest guzik warte

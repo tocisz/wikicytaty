@@ -1,0 +1,5 @@
+Section: Pittakos
+Opis: jedna z maksym delfickich.
+Źródło: Jerzy Łanowski, 500 zagadek antycznych
+
+Znaj sposobną chwilę.

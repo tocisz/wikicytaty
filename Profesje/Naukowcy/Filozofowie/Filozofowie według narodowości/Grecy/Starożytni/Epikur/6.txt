@@ -1,0 +1,3 @@
+Section: Epikur / C
+
+Człowiek osiąga szczęście, jeśli potrafi z radością - przyjemnością przeżyć każdy dzień.

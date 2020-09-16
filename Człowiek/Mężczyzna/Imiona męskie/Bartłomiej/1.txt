@@ -1,0 +1,5 @@
+Section: Bartłomiej
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, wyd. Druk. E. Skiwskiego, Warszawa 1889-94, s. 14.
+
+Bartłomiej zwiastuje, jaka jesień następuje.

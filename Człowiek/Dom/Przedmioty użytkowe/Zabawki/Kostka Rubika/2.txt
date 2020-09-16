@@ -1,0 +1,5 @@
+Section: Kostka Rubika
+Autor: Michał Szurek
+Źródło: http://www.ceo.org.pl/portal/b_szkola_myslenia_doc?docId=53315 Szkoła myślenia
+
+Matematyka uczy myślenia. Możemy trenować myślenie na sudoku, kostce Rubika, krzyżówkach. Ale wydaje się, że najlepiej do tego służy matematyka. (…) Biegłość, jaką nabywamy, rozwiązując problemy matematyczne, jest uniwersalna. Liczy się nie tylko samo rozwiązanie, ale jak zaatakować problem, jaką przyjąć strategię jego rozwiązania.

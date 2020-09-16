@@ -1,0 +1,4 @@
+Section: Niels Bohr
+Opis: dewiza Bohra.
+
+Przeciwieństwa się uzupełniają.

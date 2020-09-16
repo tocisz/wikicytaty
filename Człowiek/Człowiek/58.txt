@@ -1,0 +1,4 @@
+Section: Człowiek / K
+Opis: przysłowie egipskie
+
+Każdy człowiek tworzy samego siebie.

@@ -1,0 +1,5 @@
+Section: Abraham (imię)
+Opis: przysłowie polskie
+
+Jak nie będziemy prosić Abrahama,
+to nam ziemia nie zrodzi sama.

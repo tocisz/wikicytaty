@@ -1,0 +1,4 @@
+Section: Pijak
+Opis: powiedzenie z XIX wieku.
+
+Każdy pijak robi nijak.

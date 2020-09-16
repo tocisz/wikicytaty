@@ -1,0 +1,4 @@
+Section: Carsten Haitzler
+Źródło: http://blag.budzon.com.pl/articles/dragonia-magazine/wywiad-z-carstenem-haitzlerem Wywiad, 2010
+
+Jestem pragmatykiem i dla mnie Open Source jest po prostu pragmatycznie lepsze. Mógłbym przytoczyć masę przykładów o tym, jak Open Source potrafi Cię uratować, kiedy zamknięte oprogramowanie Cię zawiedzie. To samo tyczy się tych, którzy to zamknięte oprogramowanie tworzą. O tym, jak Open Source po prostu sprawia, że twoje życie staje się łatwiejsze, jeżeli chcesz coś zmienić. Słyszałem 101 wymówek i powodów, dlaczego lepiej tworzyć rzeczy zamknięte. Od minimalizacji pozwów patentowych, przez brak praw do kodu, który dołączasz i na którym polegasz, po „przecież się pod tym podpisuję”. Prawie wszystkie z nich, to tylko sposoby na uniknięcie zmian. Bo zmiany są trudne.

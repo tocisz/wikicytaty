@@ -1,0 +1,4 @@
+Section: Kafka nad morzem / C
+Postać: Kafka
+
+Człowiekowi potrzebne jest miejsce, do którego może wrócić.

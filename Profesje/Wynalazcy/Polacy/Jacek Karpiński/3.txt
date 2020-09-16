@@ -1,0 +1,5 @@
+Section: Jacek Karpiński
+Opis: o zespole pracującym nad K-202.
+Źródło: http://www.crn.pl/artykuly/archiwum/2007/5/martwie-sie-tylko-wtedy-jesli-moge-cos-zmienic?searchterm=jacek Martwię się tylko wtedy, jeśli mogę coś zmienić…, wywiad z Jackiem Karpińskim, crn.pl, 15 maja 2010
+
+Inżynierów na szczęście sam sobie dobierałem. Trzonem zespołu byli: Ela Jezierska, Andrzej Ziemkiewicz, Zbysław Szwaj, Teresa Pajkowska, Krzysztof Jarosławski. Pracowaliśmy po 12–15 godzin na dobę, bez nich nie byłoby możliwe wykonanie K-202 z oprogramowaniem w ciągu jednego roku. Zapał do pracy większości zespołu był niespotykany.

@@ -1,0 +1,4 @@
+Section: Wiadro
+Opis: przysłowie polskie
+
+Z próżnego wiadra nikt nie naleje.

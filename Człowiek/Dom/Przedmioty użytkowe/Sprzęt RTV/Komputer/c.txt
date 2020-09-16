@@ -1,0 +1,5 @@
+Section: Komputer
+Autor: Agnieszka Rosiak
+Źródło: Zajęcia interaktywne, w: Monika Kostera, Agnieszka Rosiak, Zajęcia dydaktyczne, Gdańskie Wydawnictwo Psychologiczne, Gdańsk 2005, s. 122.
+
+Myślę, że komputery należą do dydaktycznych narzędzi przyszłości. Minie jednak chyba jeszcze sporo czasu, zanim większość wykładowców będzie mogło się poszczycić własnym laptopem i biegłą umiejętnością jego obsługi.

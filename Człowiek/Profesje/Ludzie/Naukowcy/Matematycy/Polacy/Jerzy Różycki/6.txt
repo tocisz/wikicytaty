@@ -1,0 +1,5 @@
+Section: Jerzy Różycki / O Jerzym Różyckim
+Opis: tekst tablicy w języku angielskim i polskim w Muzeum Kryptologicznym w Bletchley Park pod Londynem, 2002.
+Źródło: http://www.matematyka.wroc.pl/doniesienia/sukcesy-polskich-kryptologów-po-latach-docenione! Sukcesy polskich kryptologów docenione!, matematyka.wroc.pl
+
+Tablica ta upamiętnia pracę Mariana Rejewskiego, Jerzego Różyckiego i Henryka Zygalskiego – matematyków polskiego wywiadu, którzy pierwsi złamali kod Enigmy. Ich praca ogromnie pomogła kryptologom w Bletchley Park i przyczyniła się do zwycięstwa aliantów w II wojnie światowej.

@@ -1,0 +1,3 @@
+Section: Spalona
+
+Czasem jednak musimy robić rzeczy, których nie chcemy.

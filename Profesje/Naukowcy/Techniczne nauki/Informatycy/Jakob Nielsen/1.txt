@@ -1,0 +1,5 @@
+Section: Jakob Nielsen
+Opis: o Microsoft Windows 8.
+Źródło: PC Format, 1/2013 s. 6.
+
+Słaby dla tabletów, fatalny dla PC.

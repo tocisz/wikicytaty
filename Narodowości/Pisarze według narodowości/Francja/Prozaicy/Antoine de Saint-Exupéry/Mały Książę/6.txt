@@ -1,0 +1,4 @@
+Section: Mały Książę
+Opis: pilot o Małym Księciu.
+
+Decyzja oswojenia niesie w sobie ryzyko łez.

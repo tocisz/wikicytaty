@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Opis: parafraza z Plauta, Asinaria
+
+Człowiek człowiekowi wilkiem.

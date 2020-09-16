@@ -1,0 +1,6 @@
+Section: Przypadki Robinsona Crusoe
+Opis: piosenka, którą śpiewali Murzyni.
+
+Za wielkimi piaskami jest mój dom.
+ Do mojego domu nie ma drogi.
+ Ale każda moja myśl jest drogą do mojego domu...

@@ -1,0 +1,4 @@
+Section: Gaduła
+Autor: Ramón Gómez de la Serna
+
+Gaduła jest samogrającym dętym instrumentem.

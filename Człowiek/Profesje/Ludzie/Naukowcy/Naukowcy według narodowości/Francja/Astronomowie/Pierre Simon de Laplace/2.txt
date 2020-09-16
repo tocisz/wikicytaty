@@ -1,0 +1,6 @@
+Section: Pierre Simon de Laplace
+Opis: według tradycji odpowiedź dana Napoleonowi I, który zapytał, dlaczego w rozprawie o wahaniach okresowych w ruchu Saturna i Jowisza nie ma wzmianki o Bogu:
+: Ale gdzie w tym wszystkim jest Bóg?
+: Mais où est Dieu dans tout cela? (fr.)
+
+[Sire,] ta hipoteza nie jest mi potrzebna.

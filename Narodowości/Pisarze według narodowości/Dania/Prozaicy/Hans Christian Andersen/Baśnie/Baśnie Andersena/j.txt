@@ -1,0 +1,6 @@
+Section: Baśnie Andersena / Krasnoludek
+Opis: odpowiedź beczki na pytanie krasnoludka, czy wie, co to jest poezja.
+Źródło: Krasnoludek, wyd. Gebethner i Wolff, Warszawa 1908, s. 19, tłum. Cecylia Niewiadomska.
+Zobacz też: poezja
+
+Poezja to jest przecież to, co tak nierówno drukują zawsze u spodu w gazetach, a niekiedy wycinają potem nożyczkami.

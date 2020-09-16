@@ -1,0 +1,6 @@
+Section: Trybunał Sprawiedliwości Unii Europejskiej
+Opis: fragment urzędowej informacji o wyroku Trybunału Sprawiedliwości Unii Europejskiej w sprawie Celmer z 25 lipca 2018 dotyczącym ekstradycji do Polski
+Źródło: http://monitorkonstytucyjny.eu/archiwa/5154 M. Matczak: Polska w B-klasie praworządności – komentarz do wyroku TSUE w sprawie CELMER, monitorkonstytucyjny.eu, 25 lipca 2018
+Zobacz też: europejski nakaz aresztowania, wymiar sprawiedliwości w Polsce
+
+Trybunał orzekł (…), że istnienie rzeczywistego ryzyka narażenia osoby wskazanej w europejskim nakazie aresztowania na naruszenie jej prawa podstawowego do niezawisłego sądu, a w konsekwencji istotnej treści jej prawa podstawowego do rzetelnego procesu sądowego, może pozwolić organowi sądowemu wykonującemu nakaz, w drodze wyjątku, wstrzymać się od wykonania europejskiego nakazu aresztowania.

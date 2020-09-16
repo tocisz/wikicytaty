@@ -1,0 +1,4 @@
+Section: Klara
+Opis: przysłowie polskie
+
+Od świętej Klary, są już ładne dary.

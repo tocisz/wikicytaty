@@ -1,0 +1,4 @@
+Section: Adam
+Opis: przysłowie polskie
+
+Na Adama pięknie, jutrzenka jasna, będzie stodoła ciasna.

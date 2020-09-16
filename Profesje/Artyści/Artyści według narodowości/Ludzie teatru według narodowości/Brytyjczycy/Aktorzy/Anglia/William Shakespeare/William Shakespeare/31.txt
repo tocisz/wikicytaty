@@ -1,0 +1,6 @@
+Section: William Shakespeare / O Szekspirze
+Autor: Henryk Sienkiewicz
+Opis: oryginał polski artykułu, który się w przekładzie angielskim ukazał w Księdze zbiorowej, wydanej w Anglii (r. 1916) ku uczczeniu Szekspira w trzechsetną rocznicę jego śmierci.
+Źródło: Dlaczego mogłem czytać Szekspira? („Tygodnik Ilustrowany”, r. 1917, nr 26)
+
+ .... Szekspir, to po Bogu najpotężniejszy twórca dusz. Dlatego panuje nad czasem i nad wypadkami. Starzeją się pisarze, którzy są przedstawicielami pewnych szkół, pewnej mody, schlebiaczami danej epoki, odtwórcami panujących doraźnie gustów. On nie zestarzeje się nigdy, albowiem tworzy prawdę życia, a prawda i życie są zawsze aktualne.... Tworzy ludzi o rzeczywistych duszach, istotnem ciele i gorącej krwi, którzy mieszkają i żyją dziś między nami tak samo intensywnie, jak żyli przed wiekami. Osobiście mało znam ludzi, z którymibym rozmawiał równie chętnie, jak rozmawiałem z Hamletem; a po przeczytaniu Burzy mimowoli przychodzi mi zawsze na myśl, że jakiś współczesny Barnum powinien wyszukać Kalibana i pokazywać go za pieniądze.

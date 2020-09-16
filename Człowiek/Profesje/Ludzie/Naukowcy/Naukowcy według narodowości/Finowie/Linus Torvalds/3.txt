@@ -1,0 +1,5 @@
+Section: Linus Torvalds / C
+Opis: ogłaszając wydanie Linuksa 0.02
+Źródło: Linus Torvalds i David Diamond Just for Fun: The Story of an Accidental Revolutionary, Collins 2001
+
+Czyż nie tęsknicie za czasami, gdy mężczyźni byli mężczyznami i sami pisali swoje sterowniki?

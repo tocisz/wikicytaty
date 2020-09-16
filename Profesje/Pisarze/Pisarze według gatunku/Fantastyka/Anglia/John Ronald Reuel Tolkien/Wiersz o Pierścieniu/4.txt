@@ -1,0 +1,12 @@
+Section: Wiersz o Pierścieniu
+Opis: przekład Tadeusz A. Olszański.
+Opis: Czarna Mowa to sztuczny język stworzony przez J.R.R. Tolkiena dla celów literackich, a później rozwijany przez inne osoby. Tolkien napisał w tym języku tylko 6. i 7. wers.
+
+Trzy Pierścienie dla królów elfickich pod niebem jasnym,
+Siedem dla krasnoludzkich władców we dworach kamiennych,
+Dziewięć dla ludzi, którym śmierć jest sądzona,
+Jeden Czarnemu Władcy na czarnym tronie
+W Mordorze, ziemi, gdzie Ciemność zaległa.
+Jeden, by nimi władać, Jeden, by je znaleźć,
+Jeden, by je zgromadzić i wszystkie skrępować
+W Mordorze, ziemi, gdzie Ciemność zaległa.

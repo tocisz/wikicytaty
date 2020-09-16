@@ -1,0 +1,4 @@
+Section: Atłas
+Opis: powiedzenie.
+
+Szkoda czasu i atłasu.

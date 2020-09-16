@@ -1,0 +1,6 @@
+Section: Isaac Asimov / Inne
+Opis: trzy prawa robotyki.
+
+Robot nie może skrzywdzić istoty ludzkiej lub pozwolić, by stała się jej krzywda.
+Robot musi wypełniać rozkazy istoty ludzkiej, o ile nie pogwałci tym samym Pierwszego Prawa.
+Robot musi chronić sam siebie, o ile nie pogwałci tym samym Pierwszego lub Drugiego Prawa.

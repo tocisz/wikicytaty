@@ -1,0 +1,3 @@
+Section: Tadeusz Morawski
+
+"jeż leje lwa, paw leje lżej",

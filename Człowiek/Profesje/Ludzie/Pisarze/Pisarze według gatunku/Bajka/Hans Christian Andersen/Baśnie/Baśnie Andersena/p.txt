@@ -1,0 +1,5 @@
+Section: Baśnie Andersena / Len
+Opis: len, którego po ścięciu poddano obróbce.
+Źródło: Len, wyd. Gebethner i Wolff, Warszawa 1908, s. 15, tłum. Cecylia Niewiadomska.
+
+Zawsze dobrze być nie może (…). Czasem cierpieć trzeba, żeby się czegoś dowiedzieć na świecie.

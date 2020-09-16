@@ -1,0 +1,3 @@
+Section: Boomeritis
+
+Nikt jednak nie był do końca pewien, jak zweryfikować to, czy naprawdę stworzyliśmy inteligentne maszyny. Miałem swój własny test, lepszy niż test Turinga – komputer musi mnie przekonać, że chcę popełnić samobójstwo. Jedyną racjonalną reakcją na istnienie był dylemat Hamleta: być albo nie być, a zatem pierwszą rzeczą, którą naprawdę inteligentna maszyna uczyni, będzie rzucenie się w odmęty rozwijającego się paraliżu kontemplacji pytania, czy nie lepiej z tym wszystkim skończyć. Tak, to byłaby bystra maszyna, siedziałaby rozedrgana, roztrzęsiona, ogarnięta lękiem i niepewnością, spoglądałaby w oczy widmu śmierci, cyfrowy krzyk wewnętrzny palący silikonowe łącza na wszystkie strony. Na razie one, to znaczy komputery, są dalekie od takich refleksji.

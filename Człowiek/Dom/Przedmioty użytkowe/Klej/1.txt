@@ -1,0 +1,11 @@
+Section: Klej
+Autor: Jan Brzechwa, Klej
+
+Idzie klej i po kolei
+Napotkane rzeczy klei:
+Stołki, szklanki, filiżanki,
+Salaterki, wazy, dzbanki,
+Talerzyki, flaszki, miski,
+Garnki, wiadra i półmiski,
+Nawet ławki, nawet szafki,
+Nawet książki i zabawki.

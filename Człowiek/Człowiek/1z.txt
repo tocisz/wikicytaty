@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Autor: Blaise Pascal
+
+Człowiek nie jest ani aniołem, ani bydlęciem, nieszczęście w tym, iż kto chce być aniołem, bywa bydlęciem.

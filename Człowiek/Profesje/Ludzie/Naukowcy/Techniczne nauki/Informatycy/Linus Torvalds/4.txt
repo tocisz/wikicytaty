@@ -1,0 +1,5 @@
+Section: Linus Torvalds / C
+Opis: o producentach sprzętu, którzy odmawiają ujawnienia specyfikacji ich urządzeń, by mogły one współpracować z Linuksem.
+Źródło: http://apcmag.com/7012/linus_torvalds_talks_about Linus Torvalds talks future of Linux, 22 sierpnia 2007
+
+Czy „życzę wam wszystkim bolesnej śmierci” jest za mocne?

@@ -1,0 +1,4 @@
+Section: Kajetan
+Opis: przysłowie polskie
+
+Święty Kajetanie, strzeż od deszczu sprzątanie.

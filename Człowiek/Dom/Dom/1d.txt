@@ -1,0 +1,4 @@
+Section: Dom / W
+Opis: przysłowie polskie
+
+Wszędzie dobrze, ale w domu najlepiej.

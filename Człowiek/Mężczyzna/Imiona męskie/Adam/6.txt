@@ -1,0 +1,5 @@
+Section: Adam
+Opis: przysłowie polskie
+Zobacz też: zima
+
+Na Adama pięknie, zima prędko pęknie.

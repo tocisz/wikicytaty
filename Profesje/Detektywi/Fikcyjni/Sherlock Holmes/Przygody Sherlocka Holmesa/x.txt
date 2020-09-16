@@ -1,0 +1,5 @@
+Section: Przygody Sherlocka Holmesa / Inne
+Opis: Sherlock Holmes do bankiera Holdera.
+Źródło: Korona z berylów, tłum. Tadeusz Evert
+
+Zawsze trzymam się mojej starej maksymy: wykluczyć wszystko niemożliwe, a to, co zostanie choćby nawet nieprawdopodobne, musi być prawdziwe.

@@ -1,0 +1,3 @@
+Section: Prędkość
+
+Co ma być, to będzie. Cuda zdarzają się, dopóki trwa czas, a on nie ma końca.

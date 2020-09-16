@@ -1,0 +1,3 @@
+Section: Willard Van Orman Quine
+
+Efektem uporządkowania języka jest redukcja struktury gramatycznej do logicznej.

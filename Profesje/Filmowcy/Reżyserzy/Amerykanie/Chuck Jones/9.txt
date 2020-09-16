@@ -1,0 +1,3 @@
+Section: Chuck Jones
+
+Każda postać prezentuje jakąś cechę, która we mnie tkwi.

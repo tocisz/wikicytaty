@@ -1,0 +1,8 @@
+Section: Hobbit, czyli tam i z powrotem
+Opis: pieśń śpiewana przez krasnoludy podczas spotkania u Bilba.
+Źródło: rozdział 1, Nieproszeni gości, s. 9
+
+Ponad gór omglony szczyt
+Lećmy, zanim wstanie świt,
+By jaskiniom, lochom, grotom
+Czarodziejskie wydrzeć złoto!

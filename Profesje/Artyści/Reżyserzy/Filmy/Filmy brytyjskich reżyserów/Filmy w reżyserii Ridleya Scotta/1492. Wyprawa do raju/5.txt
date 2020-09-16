@@ -1,0 +1,5 @@
+Section: 1492. Wyprawa do raju
+Postać: Krzysztof Kolumb
+Opis: gdy skarbnik powiedział mu, że znajdą kogoś innego do podjęcia wyprawy.
+
+Jeśli wam się to uda, ja zostanę mnichem.

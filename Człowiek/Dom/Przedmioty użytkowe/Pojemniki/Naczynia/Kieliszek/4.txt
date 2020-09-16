@@ -1,0 +1,4 @@
+Section: Kieliszek
+Autor: Georges Courteline
+
+Nigdy nie wiadomo, że się wypiło o jeden kieliszek za dużo, zanim się go nie wypije.

@@ -1,0 +1,4 @@
+Section: Flintstonowie / Wypowiedzi postaci / Fred Flintstone
+Opis: częsty okrzyk Freda.
+
+Yabba-dabba-doo!

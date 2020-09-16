@@ -1,0 +1,5 @@
+Section: Człowiek / C
+Opis: przysłowie gruzińskie
+Zobacz też: lew, nauka
+
+Człowiek mądry, lecz nieuczony, jest jak skuty lew.

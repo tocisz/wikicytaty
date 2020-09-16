@@ -1,0 +1,4 @@
+Section: Jerzy Waldorff
+Opis: tytuł felietonów, a zarazem ulubione powiedzenie Waldorffa.
+
+Muzyka łagodzi obyczaje.

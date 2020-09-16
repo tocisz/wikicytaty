@@ -1,0 +1,4 @@
+Section: Osoba
+Autor: Alphonse de Lamartine
+
+Czasem brak jednej osoby sprawia, że świat zdaje się wyludniony.

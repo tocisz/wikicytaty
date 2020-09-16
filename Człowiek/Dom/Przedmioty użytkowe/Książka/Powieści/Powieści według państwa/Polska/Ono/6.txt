@@ -1,0 +1,3 @@
+Section: Ono
+
+Jest inteligentny. I głupi. To są dwie różne rzeczy, inteligencja i rozum, kiedyś to pojmiesz.

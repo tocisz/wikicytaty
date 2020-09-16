@@ -1,0 +1,3 @@
+Section: Myśli nieuczesane / T
+
+To dziwne, jak trudno wywołać echo w najbardziej pustych głowach.

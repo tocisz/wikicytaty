@@ -1,0 +1,4 @@
+Section: Piotr
+Źródło: powiedzenie
+
+Chodzi z kluczami jak święty Piotr.

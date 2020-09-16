@@ -1,0 +1,3 @@
+Section: Oliwkowy labirynt
+
+Kto uderza pierwszy, uderza dwa razy.

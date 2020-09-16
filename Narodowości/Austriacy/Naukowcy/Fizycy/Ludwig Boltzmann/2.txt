@@ -1,0 +1,6 @@
+Section: Ludwig Boltzmann
+Źródło: http://books.google.pl/books?id=mecUAQAAMAAJ&q=Popul%C3%A4re+Schriften&dq=Popul%C3%A4re+Schriften&hl=pl&ei=2zg7TZDnOo2p8QOplcH6CA&sa=X&oi=book_result&ct=result&resnum=1&ved=0CCoQ6AEwAA Populäre Schriften, Oekonomie Verlag Dr. Müller, 1925, s. 73.
+Opis: reakcja Boltzmanna na jeden z artykułów Maxwella dotyczących dynamicznej teorii gazów.
+Zobacz też: James Clerk Maxwell, Wolfgang Amadeusz Mozart
+
+Tak jak muzyk rozpoznać może Mozarta, Beethovena czy Schuberta po wysłuchaniu kilku pierwszych taktów tak matematyk po przeczytaniu kilku stron pracy odróżni Cauchy'ego, Gaussa, Jacobiego, Helmholtza. Francuskich twórców wyróżnia wybitna formalna elegancja, podczas gdy Anglików, a szczególnie Maxwella, charakteryzuje znakomity zmysł dramatyczny.

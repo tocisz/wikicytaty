@@ -1,0 +1,3 @@
+Section: Zygzak / R
+
+Rzeczywistość posiada więcej niż trzy wymiary, być może znacznie więcej niż widoczne gołym okiem długość – szerokość – wysokość. Ogólna teoria względności Einsteina zakładała, że czas jest czwartym wymiarem, a skomplikowana „teoria strun”, której kolejne wersje stanowiły wyzwanie dla aktualnej fizyki, twierdziła, że istnieje co najmniej dziewięć wymiarów przestrzennych, co dla ludzkiego umysłu jest czymś niepojętym.

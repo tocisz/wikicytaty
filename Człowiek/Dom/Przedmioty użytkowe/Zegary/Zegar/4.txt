@@ -1,0 +1,4 @@
+Section: Zegar
+Autor: William Faulkner
+
+Daty i zegarki są wynalazkiem ludzi.

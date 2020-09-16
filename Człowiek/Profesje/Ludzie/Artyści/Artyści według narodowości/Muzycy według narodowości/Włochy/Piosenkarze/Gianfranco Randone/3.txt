@@ -1,0 +1,4 @@
+Section: Gianfranco Randone
+Źródło: Paweł Pieniążek, http://pawelpieniazek.natemat.pl/189637,x Nieśmiały krok Eiffel 65, natemat.pl, 15 września 2016
+
+Mieliśmy program komputerowy, który pomógł nam w wyborze nazwy. Tak powstał „Eiffel”. Numer 65 to dziwna sprawa, ponieważ żaden z nas go nie wybrał. Zapytaliśmy o to producenta. Okazało się, że była to część numeru telefonu, który zanotował na kartce papieru. Ostatnie dwie cyfry zapisały się na singlu, który trafił do grafika. Ten myśląc, że to część nazwy zespołu, połączył ze sobą te dwa człony. To przyniosło nam szczęście.

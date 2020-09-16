@@ -1,0 +1,5 @@
+Section: Michał Boni
+Źródło: https://natemat.pl/blogi/michalboni/289093,5g-wyzwania-na-dzisiaj-wyzwania-na-jutro, 30 października 2019
+Opis: o sieci 5 G
+
+O 5G, czyli ultraszybkim internecie mówimy coraz częściej. Zaczynamy rozumieć, jak istotne będzie 5G dla nowych zastosowań technologii cyfrowych. W opiece zdrowotnej: szybkie analizowanie (informacje dostarczane w milisekundach) i przesyłanie dużych zbiorów danych, sztuczna Inteligencja zaprzęgnięta do diagnoz chorób, pełne wykorzystanie danych o naszym zdrowiu (za naszą zgodą) w celu większej wiedzy o różnych typach chorób, by - w końcu szybciej i lepiej nas leczyć. Ale można pokazać korzyści w zarządzaniu miastem, transportem, zagrożeniami środowiskowymi. Internet rzeczy da nam możliwość, by lodówka współpracowała z nami w taki sposób, by różne składniki żywienia przechowywane w zindywidualizowanej temperaturze (odpowiedniej dla siebie - inaczej sałata, inaczej mięso, jeszcze inaczej owoce) - były dłużej przydatne, a tym samym zmniejszały skalę wyrzucanego jedzenia (Samsung już jest gotowy do takich rozwiązań).

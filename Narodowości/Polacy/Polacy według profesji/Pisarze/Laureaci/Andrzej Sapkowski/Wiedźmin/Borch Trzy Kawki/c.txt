@@ -1,0 +1,6 @@
+Section: Borch Trzy Kawki / O Borchu Trzy Kawki
+Opis: dialog z gry komputerowej Wiedźmin, według fabuły której Geralt doznał amnezji.
+Źródło: rozmowa podczas imprezy u Shani w trakcie wykonywania zadania pobocznego „Przyjaciółka z dawnych lat” – środek rozdziału II
+
+Geralt: A kumpla smoka nie miałem?
+Jaskier: Chybiona kpina, bo też miałeś.

@@ -1,0 +1,4 @@
+Section: Pijak
+Opis: powiedzenie z XX wieku.
+
+Pijany nie zatai niczego, wypowiada się z grzechu śmiertelnego.

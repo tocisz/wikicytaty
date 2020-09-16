@@ -1,0 +1,3 @@
+Section: Ludwig Wittgenstein / Tractatus Logico-Philosophicus
+
+1.1 Świat to ogół faktów, nie rzeczy.

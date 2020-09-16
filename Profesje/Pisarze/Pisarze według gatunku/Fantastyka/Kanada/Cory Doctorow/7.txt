@@ -1,0 +1,3 @@
+Section: Cory Doctorow / Gdy sysadmini rządzili światem
+
+Skończyło się na odłączeniu wszystkich szwankujących routerów od sieci. Co oczywiste, nie wykonali tego własnoręcznie, choć Feliksa aż korciło, by właśnie tak zrobić, a następnie je zrestartować po wyłączeniu ich interfejsów IPv6. Dzieła wyłączenia dokonała para szefujących im Pieprzonych Operatorów z Piekła Rodem, którzy by wejść do ich klatki i tego dokonać, musieli równocześnie przekręcić dwa kluczyki przy drzwiach – niczym strażnicy w silosie skrywającym Minutemana. Przez ich budynek przechodziło bowiem 95% dalekodystansowego ruchu całej Kanady. Tutejsza ochrona wielokrotnie przewyższała tę, którą można było spotkać w większości silosów z Minutemanami.

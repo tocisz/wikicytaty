@@ -1,0 +1,3 @@
+Section: Bank (grupa muzyczna)
+
+bank – rodzaj przedsiębiorstwa.

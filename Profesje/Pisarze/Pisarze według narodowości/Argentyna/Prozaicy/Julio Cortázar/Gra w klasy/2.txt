@@ -1,0 +1,3 @@
+Section: Gra w klasy
+
+Bez wiary nie zdarza się nic z tego, co powinno nastąpić, z wiara też zresztą prawie nigdy.

@@ -1,0 +1,3 @@
+Section: Parmenides
+
+Jest to, co jest, a nie ma tego, czego nie ma.

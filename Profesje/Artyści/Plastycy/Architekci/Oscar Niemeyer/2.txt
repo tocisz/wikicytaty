@@ -1,0 +1,5 @@
+Section: Oscar Niemeyer
+Opis: o zasadach swojej architektury.
+Źródło: Minha arquitetura
+
+Nie interesują mnie kąty proste ani wymyślone przez człowieka linie proste, sztywne i bezduszne. Interesują mnie krzywizny, swobodne i zmysłowe, takie, jakie spostrzegam w górzystych krajobrazach mojej ojczyzny, meandrujących rzekach, falującym morzu i ciele kobiety, którą kocham.

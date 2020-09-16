@@ -1,0 +1,4 @@
+Section: Lekarz
+Opis: przysłowie żydowskie.
+
+Lekarzowi i grabarzowi nie życzy się „dobrego roku”.

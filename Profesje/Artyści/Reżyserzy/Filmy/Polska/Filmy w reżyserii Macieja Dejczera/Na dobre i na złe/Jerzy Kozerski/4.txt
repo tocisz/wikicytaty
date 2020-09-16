@@ -1,0 +1,5 @@
+Section: Jerzy Kozerski
+Opis: o szachach.
+Źródło: odcinek 172, Podwójne narodziny
+
+To nie jest zabawa, tylko gra. Wojenna gra.

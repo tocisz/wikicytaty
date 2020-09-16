@@ -1,0 +1,5 @@
+Section: Linus Torvalds / T
+Źródło: http://groups.google.com/groups?hl=en&selm=1991Aug25.205708.9541%40klaava.Helsinki.FI Post na grupę dyskusyjną comp.os.minix, 25 sierpnia 1991 (28 sierpnia 2006)
+Opis: początek Linuksa.
+
+Tworzę (darmowy) system operacyjny (tylko hobby, nie będzie wielki i profesjonalny jak gnu) dla klonów AT na 386(486).

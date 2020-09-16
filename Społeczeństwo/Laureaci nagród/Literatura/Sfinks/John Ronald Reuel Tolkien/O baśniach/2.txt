@@ -1,0 +1,4 @@
+Section: O baśniach
+Opis: o toposie wędrówki w dziejach literackich.
+
+Wędrówkę lepiej byłoby ukończyć niż odbywać z nadzieją, ale trzeba ją odbywać z nadzieją, żeby ją kiedykolwiek ukończyć.

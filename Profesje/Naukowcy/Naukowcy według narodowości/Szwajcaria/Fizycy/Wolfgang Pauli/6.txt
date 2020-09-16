@@ -1,0 +1,3 @@
+Section: Wolfgang Pauli
+
+fizyka

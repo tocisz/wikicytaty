@@ -1,0 +1,4 @@
+Section: Tim Berners-Lee
+Źródło: http://www.europarl.europa.eu/news/public/story_page/058-65476-327-11-48-909-20091127STO65455-2009-23-11-2009/default_pl.htm Parlament Europejski, 2 grudnia 2009
+
+Chciałbym, by technologie sieciowe pozwalały rozliczać polityków z ich działań. Gdyby któryś z nich cokolwiek powiedział, zawsze można byłoby znaleźć wyważoną specjalistyczną analizę i włączyć się do dyskusji. Oczywiście od razu pojawiają się pytania, kogo nazywamy ekspertem, komu możemy zaufać i skąd wziąć pewność, że tekstu nie pisał właśnie jakiś idiota.

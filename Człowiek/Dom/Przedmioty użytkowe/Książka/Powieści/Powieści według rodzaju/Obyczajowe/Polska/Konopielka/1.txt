@@ -1,0 +1,4 @@
+Section: Konopielka
+Opis: o Grzegorzu.
+
+A czytał tak prętko, jakby rozmawiał!

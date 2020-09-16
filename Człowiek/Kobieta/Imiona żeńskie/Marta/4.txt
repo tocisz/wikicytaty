@@ -1,0 +1,4 @@
+Section: Marta
+Opis: przysłowie polskie
+
+Około dnia świętej Marty ze żniwami już nie na żarty.

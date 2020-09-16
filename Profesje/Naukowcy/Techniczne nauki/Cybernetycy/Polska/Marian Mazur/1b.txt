@@ -1,0 +1,4 @@
+Section: Marian Mazur / Różne
+Źródło: Marian Mazur, Cybernetyka i charakter, PIW, Warszawa 1976.
+
+Żadnej roli w nauce tradycyjnej nie odgrywała logika. Była ona uprawiana sama dla siebie, jako „sztuka dla sztuki”. Wszelkie rozumowania w monodyscyplinach konkretnych opierały się nie na logice, lecz na zdrowym rozsądku. Jeżeli był to rozsądek „zdrowy”, to oczywiście pozostawał w zgodzie z logiką, ale nie logika była jego źródłem, lecz nawyki życiowego doświadczenia. Co więcej, jeżeli specjalista z jakiejś monodyscypliny uznał za wskazane postudiować logikę, to słuszność jej twierdzeń oceniał na podstawie swojego zdrowego rozsądku, a nie na odwrót. W nauce tradycyjnej wiele konkretnych osiągnięć zawdzięczano dobrej znajomości matematyki, ale nie było chyba ani jednego, które ktoś zawdzięczałby dobrej znajomości logiki. (s. 7)

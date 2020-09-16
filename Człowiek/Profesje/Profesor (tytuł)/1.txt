@@ -1,0 +1,4 @@
+Section: Profesor (tytuł)
+Opis: polski odpowiednik niemieckiego powiedzenia, często przywoływany w tekstach Macieja Rybińskiego.
+
+Jeszcze jeden profesorek, ojczyzna trafi do Tworek.

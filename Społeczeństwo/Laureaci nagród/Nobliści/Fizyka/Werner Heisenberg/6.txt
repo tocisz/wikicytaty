@@ -1,0 +1,4 @@
+Section: Werner Heisenberg
+Opis: na temat poszukiwania kwantowo-mechanicznego opisu świata.
+
+Nie mogę powiedzieć, że istniał jakiś dokładnie określony moment, w którym uświadomiłem sobie niezbędność niesprzecznego schematu, jednakże odmiennego niż aksjomaty fizyki Newtona. To nie stało się tak prosto. Sądzę, że stopniowo w umysłach wielu fizyków rozwijała się idea, że z trudem daje się opisać naturę, nie mając czegoś niesprzecznego i że możemy zostać zmuszeni do opisania natury na podstawie jakiegoś systemu aksjomatycznego, całkowicie innego niż stara fizyka klasyczna, a nawet na podstawie systemu logicznego, całkowicie różniącego się od starego.

@@ -1,0 +1,4 @@
+Section: Frida Kahlo
+Opis: ostatnie zdanie w dzienniku Fridy.
+
+Mam nadzieję, że śmierć jest radosna. Mam nadzieję, że nigdy nie wrócę.

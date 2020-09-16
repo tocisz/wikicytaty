@@ -1,0 +1,5 @@
+Section: Bogowie, honor, Ankh-Morpork
+Postać: Vimes
+Opis: często powtarzane słowa.
+
+Zawsze udawaj głupiego.

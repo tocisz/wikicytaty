@@ -1,0 +1,4 @@
+Section: Rycerze / Wypowiedzi postaci
+Opis: często wypowiadane słowa.
+
+Ha, ha, ha, Melechowicz.

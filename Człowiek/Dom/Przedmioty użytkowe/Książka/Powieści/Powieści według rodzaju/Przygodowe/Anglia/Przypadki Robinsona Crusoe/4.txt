@@ -1,0 +1,3 @@
+Section: Przypadki Robinsona Crusoe
+
+Jest bowiem w człowieku dziwna jakaś ciekawość i chęć badania rzeczy nieznanych.

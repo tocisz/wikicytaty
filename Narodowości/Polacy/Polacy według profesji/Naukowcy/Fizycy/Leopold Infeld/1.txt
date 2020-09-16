@@ -1,0 +1,4 @@
+Section: Leopold Infeld
+Źródło: Feynmana wykłady z fizyki, PWN 2010, str. 17.
+
+Istnieją dwa rodzaje wykładowców. Są tacy, kiepscy, którzy wykładając mówią: „Patrzcie, jaki ja jestem mądry!” i są inni, którzy mówią: „Patrzcie, jakie to proste!”.

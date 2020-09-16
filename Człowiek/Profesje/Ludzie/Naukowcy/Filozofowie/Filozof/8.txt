@@ -1,0 +1,4 @@
+Section: Filozof
+Autor: André Gide
+
+Kiedy filozof odpowiada, przestajemy rozumieć, o co pytaliśmy.

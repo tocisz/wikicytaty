@@ -1,0 +1,4 @@
+Section: Gra w klasy
+Opis: list Magi do Rocamadoura.
+
+Świat staje się obojętny (…), jeżeli człowiek nie ma dość sił, aby wybrać sobie coś prawdziwego i iść za tym.

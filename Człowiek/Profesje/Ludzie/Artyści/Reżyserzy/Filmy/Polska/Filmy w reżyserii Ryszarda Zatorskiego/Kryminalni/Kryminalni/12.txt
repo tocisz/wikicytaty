@@ -1,0 +1,9 @@
+Section: Kryminalni
+Źródło: odcinek 20, Miasteczko
+
+Marek Brodecki: Adres?
+Dodi: Czytać nie umiesz?
+Marek: Imiona rodziców?
+Dodi: Adam i Ewa.
+Marek: Zawód?
+Dodi: Miłosny.

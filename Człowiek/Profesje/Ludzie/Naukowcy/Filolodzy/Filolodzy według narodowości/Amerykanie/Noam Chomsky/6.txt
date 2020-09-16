@@ -1,0 +1,5 @@
+Section: Noam Chomsky / Inne / B
+Opis: przykład zdania poprawnego gramatycznie, choć nie przekazującego żadnych konkretnych treści.
+Źródło: Semantics. An International Handbook of Natural Language Meaning, oprac. Claudia Maienborn, Klaus von Heusinger, Paul Portner, Walter de Gruyter, 2011, s. 466.
+
+Bezbarwne zielone idee wściekle śpią.

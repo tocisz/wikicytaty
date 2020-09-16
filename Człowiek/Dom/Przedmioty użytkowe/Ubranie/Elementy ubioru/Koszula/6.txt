@@ -1,0 +1,4 @@
+Section: Koszula
+Opis: przysłowie ałtajskie
+
+Szczodry chodzi bez koszuli.

@@ -1,0 +1,9 @@
+Section: Kabaret Ani Mru-Mru / Skecz Podkop (Kolęda) / Dialogi
+
+Szef akcji: Czy są pytania?
+Pomocnik I: Wszystko jasne, nie ma pytań.
+Pomocnik II: Nie, ja jedno, dla pewności...
+Szef akcji: Śmiało.
+Pomocnik II: Ja wyłanczam prąd.
+Szef akcji: "Wyłączam".
+Pomocnik II: Czyli to ty wyłanczasz?

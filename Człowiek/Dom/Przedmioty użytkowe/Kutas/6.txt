@@ -1,0 +1,4 @@
+Section: Kutas
+Autor: Franciszek Starowieyski
+
+Cyc nie kutas, nie musi sterczeć, może dumnie zwisać.

@@ -1,0 +1,4 @@
+Section: Kazimierz Górski
+Opis: odpowiedź na pytanie dziennikarza: „Panie trenerze, jak pan sądzi, która drużyna dziś wygra?”
+
+Mi si wydaji, że wygra drużyna, która strzeli więcej bramek.

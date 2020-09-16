@@ -1,0 +1,4 @@
+Section: Groucho Marx
+Opis: Przypisywane Groucho Marksowi, rzeczywisty autor nieznany. Cytat oparty na humorystycznej grze słów – fruit flies like a banana może oznaczać także „muszki owocowe lubią banany”
+
+Czas leci jak strzała, owoc leci jak banan.

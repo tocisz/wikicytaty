@@ -1,0 +1,4 @@
+Section: Howard Phillips Lovecraft
+Opis: inwokacja do Cthulhu.
+
+W swym domu w R'lyeh czeka w uśpieniu martwy Cthulhu.

@@ -1,0 +1,4 @@
+Section: Johannes Kepler
+Źródło: traktat O śniegu sześciokątnym (łac. De nive sexangula, 1611)
+
+Za każdym razem, kiedy pada śnieg, jego pierwotne elementy niezmiennie mają kształt sześcioramiennej gwiazdki. To musi mieć swoją określoną przyczynę, a jeśli jest przypadkowe, to dlaczego nie spotyka się pięcio- lub siedmioramiennych gwiazdek?

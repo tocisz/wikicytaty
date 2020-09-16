@@ -1,0 +1,4 @@
+Section: Demokrata
+Autor: Josh Billings
+
+Arystokrata to demokrata z wypełnionymi kieszeniami.

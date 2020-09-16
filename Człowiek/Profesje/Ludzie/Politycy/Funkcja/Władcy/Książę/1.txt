@@ -1,0 +1,5 @@
+Section: Książę
+Opis: przysłowie polskie
+Źródło: Janusz Berner, Mądrej głowie dość… przysłowie, Oficyna Wydawnicza „Stopka”, Łomża 1992, s. 171.
+
+Co wolno księciu, tego nie wolno bydlęciu.

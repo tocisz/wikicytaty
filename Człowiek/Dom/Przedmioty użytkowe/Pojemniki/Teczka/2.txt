@@ -1,0 +1,4 @@
+Section: Teczka
+Autor: Mario Puzo
+
+Prawnik ze swą teczką może ukraść więcej niż tysiąc ludzi z pistoletami.

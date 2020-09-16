@@ -1,0 +1,3 @@
+Section: Clifford Stoll / Krzemowe remedium. Garść rozważań na temat infostrady (1995)
+
+W świecie, w którym jedynym wyznacznikiem mocy systemu komputerowego jest szybkość, obowiązuje prawo Greshama: zły software wypiera dobry. Wystarczy, żeby był szybszy.

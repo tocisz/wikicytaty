@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Autor: Tomasz Kaczmarzyk
+
+Człowiek, który nie zna siebie, nie wie kim jest.

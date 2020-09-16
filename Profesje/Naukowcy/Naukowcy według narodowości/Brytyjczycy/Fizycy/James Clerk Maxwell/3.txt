@@ -1,0 +1,5 @@
+Section: James Clerk Maxwell
+Źródło: http://books.google.pl/books?id=zfM8AAAAIAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false The Scientific Letters and Papers of James Clerk Maxwell, CUP Archive, 1990, tom 1, s. 197.
+Opis: list do Lewisa Campbella z lipca 1850.
+
+Prawdziwa logika naszego świata tkwi w rachunku prawdopodobieństwa.

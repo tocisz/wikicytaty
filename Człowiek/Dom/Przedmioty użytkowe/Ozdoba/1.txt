@@ -1,0 +1,4 @@
+Section: Ozdoba
+Opis: przysłowie kałmuckie
+
+Dobra żona jest ozdobą domu, zła jego wrogiem.

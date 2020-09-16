@@ -1,0 +1,4 @@
+Section: Wełna
+Opis: przysłowie angielskie
+
+Leniwemu baranowi ciąży jego wełna.

@@ -1,0 +1,4 @@
+Section: Tadeusz Morawski / Palindromy
+Opis: także tytuł zbioru.
+
+Żartem w metraż.

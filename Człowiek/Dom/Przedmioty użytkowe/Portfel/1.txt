@@ -1,0 +1,4 @@
+Section: Portfel
+Autor: Jacek Wejroch
+
+Czasem łatwiej wyciągnąć portfel niż wnioski.

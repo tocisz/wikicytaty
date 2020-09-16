@@ -1,0 +1,4 @@
+Section: Dziadek
+Opis: przysłowie polskie
+
+Nie śmiej się, dziadku, z czyjegoś wypadku – dziadek się śmiał i to samo miał.

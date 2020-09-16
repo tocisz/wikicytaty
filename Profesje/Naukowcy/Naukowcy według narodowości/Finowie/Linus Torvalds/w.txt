@@ -1,0 +1,4 @@
+Section: Linus Torvalds / T
+Źródło: http://torvalds-family.blogspot.com/2008/11/black-and-white.html Linus' blog: Black and white, 2 listopada 2008
+
+Tak naprawdę dla żadnego problemu nie ma po prostu dwóch odpowiedzi, niemal zawsze znajdzie się ich przedział, a „to zależy” jest niemal zawsze najlepszą odpowiedzią na każde większe pytanie.

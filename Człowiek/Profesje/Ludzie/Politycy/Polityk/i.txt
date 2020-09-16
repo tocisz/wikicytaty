@@ -1,0 +1,4 @@
+Section: Polityk
+Autor: Nikita Chruszczow
+
+Politycy są wszędzie tacy sami. Obiecują zbudować most nawet tam, gdzie nie ma rzeki.

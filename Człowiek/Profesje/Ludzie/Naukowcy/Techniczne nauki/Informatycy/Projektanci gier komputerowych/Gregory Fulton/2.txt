@@ -1,0 +1,5 @@
+Section: Gregory Fulton
+Opis: odpowiadając na pytanie, dlaczego zdecydowano się dopracować projekt miasta „Forge”.
+Źródło: Laxx (oprac.), http://www.tawerna.biz/czytaj_artykul_337_o-forge---wywiad.html Autowywiad z Gregiem Fultonem, tłum. Oliwsen, tawerna.biz, 28 sierpnia 2010
+
+Powód pierwszy: Tak jak myślałem, wielu fanów pokazało się ze strony, w której brakuje im wyobraźni I zaufania dla twórców, którzy spędzają wiele godzin pracując nad projektem i ofiarując im pełną grywalną strategię. Nadal jednak nie mam zamiaru z nimi walczyć. Powód drugi: Nigdy nie było dość pro-Forge.

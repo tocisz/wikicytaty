@@ -1,0 +1,3 @@
+Section: Safona
+
+Złoto potrafi zabałamucić nawet uczciwego człowieka.

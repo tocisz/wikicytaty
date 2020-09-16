@@ -1,0 +1,4 @@
+Section: Benedykt (imię)
+Opis: przysłowie polskie
+
+Benedykta Bożą mocą, dzionek już się równa z nocą.

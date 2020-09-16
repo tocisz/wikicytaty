@@ -1,0 +1,5 @@
+Section: Linus Torvalds / J
+Źródło: http://groups-beta.google.com/group/comp.os.minix/msg/2194d253268b0a1b Post na grupę comp.os.minix, 5 października 1991 (28 sierpnia 2006)
+Opis: jądro Hurd 0.0 zostało wydane w sierpniu 1996, stabilna wersja wciąż nie została wydana (luty 2010).
+
+Jestem w stanie (cóż, niemalże) usłyszeć was pytających „dlaczego?”. Hurd zostanie wydany za rok (albo dwa, albo za miesiąc, kto wie), a ja już mam działającego miniksa.

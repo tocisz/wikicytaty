@@ -1,0 +1,4 @@
+Section: Ołówek
+Autor: Ramón Gómez de la Serna
+
+Ołówek pisze cienie słów.

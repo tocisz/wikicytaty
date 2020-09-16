@@ -1,0 +1,4 @@
+Section: Ezop
+Źródło: Żółw i zając
+
+Powolny i wytrwały wygrywa wyścig.

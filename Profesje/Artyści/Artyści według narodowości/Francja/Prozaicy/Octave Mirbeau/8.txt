@@ -1,0 +1,3 @@
+Section: Octave Mirbeau
+
+Nawet największy biedak nie żyje samym chlebem: podobnie jak bogacze ma prawo do piękna.

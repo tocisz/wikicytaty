@@ -1,0 +1,4 @@
+Section: Jerzy Owsiak
+Opis: charakterystyczne pozdrowienie Jurka Owsiaka http://www.wosp.org.pl/15final/.
+
+Sie ma!

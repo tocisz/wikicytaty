@@ -1,0 +1,3 @@
+Section: Paweł Strzelecki
+
+W ciemnym pomieszczeniu za ścianą znajduje się powyginana powierzchnia, zupełnie nieokreślonych kształtów. Może gdzieś sama siebie przecina, a może nie, może ma jakieś zagięcia, fałdki, dziobki, a może jest idealnie gładka. Nie mogę jej obejrzeć, ale mam w tym pomieszczeniu agenta, który zdradza mi pewne zaszyfrowane statystyczne informacje o tej powierzchni. Bez przerwy losuje przypadkowe pary punktów powierzchni, prowadzi przez nie płaszczyzny styczne i mówi mi, że one przecinają się pod takim a takim kątem.

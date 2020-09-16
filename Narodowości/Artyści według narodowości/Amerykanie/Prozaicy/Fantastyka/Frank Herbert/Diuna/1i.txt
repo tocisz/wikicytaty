@@ -1,0 +1,4 @@
+Section: Diuna
+Opis: aksjomat Bene Gesserit.
+
+Pod presją umysł może pójść w jednym z dwóch kierunków: pozytywnym lub negatywnym, w przód lub wstecz. Przedstawcie to sobie jak widmo, którego ekstremami są nieświadomość na negatywnym krańcu i nadświadomość na krańcu pozytywnym. Ku Któremu z nich umysł skłoni się pod naporem, w znacznej mierze zależy od wyszkolenia.

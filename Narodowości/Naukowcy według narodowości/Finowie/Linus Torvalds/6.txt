@@ -1,0 +1,4 @@
+Section: Linus Torvalds / D
+Źródło: http://www.linuxjournal.com/article/7279 Linus & the Lunatics, Part II, 25 listopada 2003 (28 sierpnia 2006)
+
+Dzisiejsze pecety są przerażające. ACPI to całkowity kataklizm pod każdym względem. Ale jesteśmy w pewnym sensie zmuszeni go używać. Jeśli ktokolwiek z Intela, kto miał cokolwiek wspólnego z ACPI słucha mnie teraz, niech zastrzeli się teraz, zanim spłodzi potomstwo.

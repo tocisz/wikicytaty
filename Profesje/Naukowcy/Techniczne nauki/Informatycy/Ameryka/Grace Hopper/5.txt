@@ -1,0 +1,3 @@
+Section: Grace Hopper
+
+Stojący w porcie statek jest bezpieczny, ale statków nie buduje się po to aby stały w portach.

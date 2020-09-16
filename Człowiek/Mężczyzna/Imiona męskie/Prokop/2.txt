@@ -1,0 +1,4 @@
+Section: Prokop
+Opis: przysłowie polskie
+
+Źle na Prokopa, jak zmoknie kopa.

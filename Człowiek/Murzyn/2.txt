@@ -1,0 +1,4 @@
+Section: Murzyn
+Autor: Antoni Regulski
+
+I Murzyn bywa oczerniony.

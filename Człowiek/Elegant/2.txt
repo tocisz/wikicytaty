@@ -1,0 +1,4 @@
+Section: Elegant
+Opis: przysłowie z XIX wieku.
+
+Elegant z morskiej piany, a zegarek ołowiany.

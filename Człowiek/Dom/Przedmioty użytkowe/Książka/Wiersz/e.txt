@@ -1,0 +1,4 @@
+Section: Wiersz
+Autor: René Char
+
+Wiersz jest spełnioną miłością pragnienia, które pozostaje pragnieniem.

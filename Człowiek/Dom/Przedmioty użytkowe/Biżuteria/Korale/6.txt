@@ -1,0 +1,4 @@
+Section: Korale
+Opis: łamaniec językowy
+
+Król Karol kupił królowej Karolinie korale koloru koralowego

@@ -1,0 +1,4 @@
+Section: Linus Torvalds / O
+Źródło: http://www.argentilinux.com.ar/doku.php/linux_videos_documentales:the_code_linux argentilinux.com, zapis wideo (48 min.) z 1996
+
+Oprogramowanie jest jak seks – lepsze, kiedy jest za darmo.

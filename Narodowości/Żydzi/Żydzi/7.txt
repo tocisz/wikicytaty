@@ -1,0 +1,5 @@
+Section: Żydzi
+Opis: przysłowie żydowskie
+Zobacz też: broda
+
+Lepszy jest Żyd bez brody niż broda bez Żyda.

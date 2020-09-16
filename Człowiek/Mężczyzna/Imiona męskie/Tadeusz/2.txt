@@ -1,0 +1,5 @@
+Section: Tadeusz
+Opis: przysłowie
+
+Po świętym Tadeuszu,
+trzeba chodzić w kapeluszu.

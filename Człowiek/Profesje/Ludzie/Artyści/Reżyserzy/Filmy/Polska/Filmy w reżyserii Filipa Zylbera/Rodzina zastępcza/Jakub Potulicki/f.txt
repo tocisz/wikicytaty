@@ -1,0 +1,4 @@
+Section: Jakub Potulicki
+Źródło: odcinek 201, Zen i sztuka obsługi komputera.
+
+Trzeba zacząć od właściwego końca kija.

@@ -1,0 +1,3 @@
+Section: Panowie i damy
+
+Greebo spędził we wnętrzu irytujące dwie minuty. Technicznie rzecz biorąc, kot zamknięty w pudle może być żywy albo martwy. Nigdy nie wiadomo, dopóki nie zajrzy się do środka. W istocie sam fakt otwarcia pudła określa stan kota, chociaż w tym przypadku były trzy stany deterministyczne, w jakich kot mógł się znaleźć: Żywy, Martwy i Piekielnie Wściekły.

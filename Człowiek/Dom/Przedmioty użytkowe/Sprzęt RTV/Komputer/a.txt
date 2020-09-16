@@ -1,0 +1,5 @@
+Section: Komputer
+Autor: Nicholas Negroponte, Being Digital, Vintage Books, Nowy Jork.
+Źródło: Gordon Dryden, Jeanette Vos, Rewolucja w uczeniu, wyd. Moderski i S-ka, Poznań 2000, tłum. Bożena Jóźwiak, s. 40.
+
+Można oczekiwać, że jutro na naszym nadgarstku znajdzie się to, co dziś zajmuje biurko, a wczoraj wypełniało cały pokój.

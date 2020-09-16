@@ -1,0 +1,3 @@
+Section: David Hilbert
+
+Matematyka to gra rozgrywana według pewnych prostych reguł z nic nie znaczącymi znakami na papierze.

@@ -1,0 +1,5 @@
+Section: Pisarz
+Autor: André Gide
+Opis: rada dla młodych pisarzy.
+
+Jeśli chcesz, możesz pisać po pijanemu, ale bądź na czczo, kiedy będziesz to czytał!

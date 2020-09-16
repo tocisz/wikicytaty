@@ -1,0 +1,4 @@
+Section: Henri Poincaré
+Źródło: Nauka i hipoteza, cz. 4: Przyroda, rozdz. IX
+
+A co z prawem Newtona? Prostota jego, tak długo ukryta, być może jest tylko pozorna. Kto wie, czy nie jest ono konsekwencją jakiegoś skomplikowanego mechanizmu, zderzeń w jakiejś subtelnej materii, wykonującej nieregularne ruchy i czy nie nabrało prostej postaci za sprawą uśredniania? W takim razie trudno jest nie przypuszczać, że prawdziwe prawo zawiera wyrazy dodatkowe, które stałyby się zauważalne w oddziaływaniach ciał położonych w bardzo małej odległości od siebie. Jeśli w astronomii można je pominąć w porównaniu z wyrazem Newtona, co nadaje prawu ciążenia ową prostotę, to byłoby to jedynie konsekwencją ogromnych odległości między ciałami niebieskimi.

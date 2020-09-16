@@ -1,0 +1,4 @@
+Section: Kapelusz
+Źródło: przysłowie polskie
+
+Pod starym kapeluszem kryje się często dobra głowa.

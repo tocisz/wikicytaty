@@ -1,0 +1,4 @@
+Section: Koralina
+Opis: o świecie stworzonym przez drugą matkę.
+
+Sieć pajęcza nie musi być wielka, wystarczy, by łapała muchy.

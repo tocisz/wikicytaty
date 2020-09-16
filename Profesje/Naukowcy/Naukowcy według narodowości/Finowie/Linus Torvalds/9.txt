@@ -1,0 +1,4 @@
+Section: Linus Torvalds / G
+Źródło: LKML, September 28, 2006 http://groups.google.com/group/fa.linux.kernel/msg/892dc13a2f4c5483
+
+Głęboko wierzę w ewolucję (nie w sensie, że „nastąpiła” – bo ktokolwiek w to nie wierzy jest albo niedoinformowany albo obłąkany, ale w sensie, że „procesy ewolucyjne są fundamentalne i powinny być co najmniej rozpatrzone w niemal każdym kontekście”)

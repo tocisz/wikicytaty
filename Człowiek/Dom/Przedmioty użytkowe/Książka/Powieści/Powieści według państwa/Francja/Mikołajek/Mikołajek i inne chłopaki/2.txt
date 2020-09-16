@@ -1,0 +1,4 @@
+Section: Mikołajek i inne chłopaki
+Opis: Mikołajek w opowiadaniu Tajemny szyfr.
+
+Kleofas nie był zupełnie przekonany. Powiedział, że dla niego zwykły alfabet jest już szyfrem.

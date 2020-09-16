@@ -1,0 +1,4 @@
+Section: Radio
+Opis: słowa, którymi Polskie Radio rozpoczęło regularną emisję programu (18 kwietnia 1926).
+
+Halo, halo, Polskie Radio Warszawa, fala 480.

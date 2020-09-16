@@ -1,0 +1,4 @@
+Section: Paolo Giordano / Samotność liczb pierwszych (2008)
+Źródło: s. 139
+
+Liczby pierwsze dzielą się tylko przez 1 i przez siebie. Stoją na swoich miejscach w nieskończonym szeregu liczb naturalnych, ściśnięte, jak wszystkie, między dwiema innymi liczbami, ale mają w sobie coś, co różni je od innych. To liczby podejrzliwe i samotne (...).

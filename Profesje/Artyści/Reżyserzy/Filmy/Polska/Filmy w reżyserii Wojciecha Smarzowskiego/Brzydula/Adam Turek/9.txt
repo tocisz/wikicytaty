@@ -1,0 +1,4 @@
+Section: Adam Turek /  / J
+Opis: do Aleksa o Marku.
+
+Jest człowiek, znajdzie się paragraf.

@@ -1,0 +1,3 @@
+Section: Jacek Wejroch / C
+
+Człowiek jest tylko człowiekiem – i to z trudnością.

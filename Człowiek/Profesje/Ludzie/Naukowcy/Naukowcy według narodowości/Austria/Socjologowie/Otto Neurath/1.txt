@@ -1,0 +1,4 @@
+Section: Otto Neurath
+Opis: ocena stanu nauk i filozofii w okresie wielkich przemian w pierwszej poł. XX wieku.
+
+Jesteśmy jak żeglarze, którzy muszą swój żaglowiec przebudować na otwartym morzu, a nie mogą go nigdy położyć w doku i zbudować od nowa z najlepszych części.

@@ -1,0 +1,4 @@
+Section: Elegant
+Opis: przysłowie z XIX wieku.
+
+Gdyby diabeł w raju nie miał jabłka, skusiłby Ewę krynoliną.

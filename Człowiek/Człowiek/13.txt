@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Autor: Andrzej Majewski
+
+Człowiek, gdy ma wybór, wybiera zwykle dobro. Zło wybiera wtedy, gdy wydaje mu się, że nie ma wyboru.

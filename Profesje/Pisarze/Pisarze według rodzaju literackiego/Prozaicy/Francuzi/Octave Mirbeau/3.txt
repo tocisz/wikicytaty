@@ -1,0 +1,3 @@
+Section: Octave Mirbeau
+
+Jeśli gdzieś zamieszka człowiek zbyt bogaty, ludzie wokół niego stają się zbyt biedni.

@@ -1,0 +1,5 @@
+Section: Hadrian
+Opis: początek poematu, którego autorstwo przypisuje się Hadrianowi.
+Źródło: Czesław Jędraszko, Łacina na co dzień, Warszawa 1988, s. 24.
+
+Niestała [wędrująca] ponętna duszyczka.

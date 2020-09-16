@@ -1,0 +1,3 @@
+Section: Carlo Goldoni
+
+Zapłata nie może poprzedzać zasługi.

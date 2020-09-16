@@ -1,0 +1,5 @@
+Section: Pinky i Mózg / Wypowiedzi postaci
+Postać: Pinky
+Opis: słowa powtarzane w każdym odcinku.
+
+Narf!

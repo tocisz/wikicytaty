@@ -1,0 +1,5 @@
+Section: Alexander Graham Bell
+Opis: pierwsze słowa wypowiedziane przez telefon, przez Bella do jego asystenta Tomasa Watsona, zanotowane w dzienniku laboratoryjnym Bella 10 marca 1876 roku.
+Źródło: http://memory.loc.gov/cgi-bin/ampage?collId=magbell&fileName=253/25300201/bellpage.db&recNum=21 notatnik wynalazcy
+
+Panie Watson, proszę przyjść, potrzebuję pana.

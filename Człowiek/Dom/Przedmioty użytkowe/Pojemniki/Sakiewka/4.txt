@@ -1,0 +1,5 @@
+Section: Sakiewka
+Opis: przysłowie polskie
+Źródło: Samuel Adalberg, http://www.wbc.poznan.pl/dlibra/doccontent?id=18873 Księga przysłów, przypowieści i wyrażeń przysłowiowych polskich, Druk Emila Skiwskiego, Warszawa 1889–1894, s. 305.
+
+Póki w mieszku twym co czują, póty cię wszyscy szanują.

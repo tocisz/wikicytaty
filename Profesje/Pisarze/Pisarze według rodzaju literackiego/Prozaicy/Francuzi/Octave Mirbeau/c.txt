@@ -1,0 +1,3 @@
+Section: Octave Mirbeau
+
+Prawo jest niszczące i zbrodnicze: chroni ludzi bogatych i szczęśliwych, bezwzględnie prześladuje biedaków.

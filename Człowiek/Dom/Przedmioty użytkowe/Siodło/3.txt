@@ -1,0 +1,4 @@
+Section: Siodło
+Opis: przysłowie czeskie
+
+Świnia zostaje świnią, choćby na sobie złote siodło miała.

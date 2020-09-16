@@ -1,0 +1,3 @@
+Section: Jakub Kusy
+
+To jest taka ogólnonarodowa gra: połowa narodu próbuje coś robić, a druga połowa podstawia nogę.

@@ -1,0 +1,5 @@
+Section: Aleksiej Pażytnow
+Opis: o powstaniu gry Tetris.
+Źródło: Izabela Bogus, http://www.dziennik.pl/drukowanie/151149 Gramy w „Tetrisa” już 25 lat, dziennik.pl, 2 czerwca 2009
+
+Byłem wtedy zafascynowany różnego rodzaju układankami i łamigłówkami. To była dla mnie odskocznia od obowiązków. (…) Program nie był skomplikowany. Nie było punktów ani poziomów, ale zacząłem w to grać i nie mogłem przestać. To było to!

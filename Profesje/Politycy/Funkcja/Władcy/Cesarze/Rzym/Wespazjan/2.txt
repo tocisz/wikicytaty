@@ -1,0 +1,4 @@
+Section: Wespazjan
+Opis: wypowiedziane do przyjaciół, gdy przeczuwał bliską śmierć.
+
+Niestety, zdaje mi się, że staję się bogiem.

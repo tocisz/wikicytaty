@@ -1,0 +1,4 @@
+Section: Niewolnik
+Autor: Julian Tuwim
+
+Gdy zarzucasz łańcuch na szyję niewolnika, drugi koniec tegoż łańcucha owija twoją własną szyję.

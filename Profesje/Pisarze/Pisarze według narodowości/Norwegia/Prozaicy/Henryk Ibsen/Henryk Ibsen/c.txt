@@ -1,0 +1,5 @@
+Section: Henryk Ibsen / Inne
+Opis: fragment wiersza.
+
+Tworzyć znaczy: sąd odbywać
+Nad swą własną duszą.

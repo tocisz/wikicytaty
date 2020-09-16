@@ -1,0 +1,4 @@
+Section: Zig Ziglar
+Źródło: Ponad szczytem
+
+Nie ma żadnego znaczenia, z jakiego punktu startujesz, ważne jest, dokąd zmierzasz.

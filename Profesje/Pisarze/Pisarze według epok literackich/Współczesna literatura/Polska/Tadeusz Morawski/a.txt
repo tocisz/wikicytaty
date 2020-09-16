@@ -1,0 +1,3 @@
+Section: Tadeusz Morawski
+
+Dziesięć lat temu zainteresowałem się palindromami i zacząłem je pisać na dowolne tematy. Zadałem sobie wtedy podstawowe pytania dotyczące życia rodzinnego i duchowego: – Co ma tata? Co mi dała mama? Co mi dał duch? Zwróćmy uwagę, jak prosta reguła symetrii liter prowadzi do sensownych i pięknych odpowiedzi na postawione pytania:

@@ -1,0 +1,4 @@
+Section: Zegar
+Autor: Antoni Regulski
+
+Zegar: czas w konserwie.

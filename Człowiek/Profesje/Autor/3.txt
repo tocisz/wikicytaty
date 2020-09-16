@@ -1,0 +1,4 @@
+Section: Autor
+Autor: Edmond Rostand
+
+Autor jest przeważnie słusznie krytykowany za to, co napisał najgorszego. Nigdy nie jest chwalony za to, co napisał najlepszego.

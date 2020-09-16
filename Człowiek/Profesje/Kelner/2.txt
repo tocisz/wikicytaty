@@ -1,0 +1,4 @@
+Section: Kelner
+Autor: Erich Mende
+
+Ordery ułatwiają odróżnianie polityków od kelnerów.

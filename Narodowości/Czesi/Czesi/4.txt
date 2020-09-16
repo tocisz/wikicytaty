@@ -1,0 +1,4 @@
+Section: Czesi
+Autor: Jan Svěrák
+
+Czesi uwielbiają swoje kino. Ktoś zawsze przyjdzie obejrzeć film, bez względu na jego jakość.

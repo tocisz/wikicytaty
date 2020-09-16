@@ -1,0 +1,4 @@
+Section: Laboratorium Dextera / Wypowiedzi postaci / Dexter
+Opis: typowe powiedzenie Dextera, po wynalezieniu nowego wynalazku.
+
+Ha! Moje największe dzieło ukończone!

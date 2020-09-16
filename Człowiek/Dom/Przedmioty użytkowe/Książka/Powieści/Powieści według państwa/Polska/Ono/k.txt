@@ -1,0 +1,3 @@
+Section: Ono
+
+Pytania są niezmienne, odpowiedzi często się zmieniają.

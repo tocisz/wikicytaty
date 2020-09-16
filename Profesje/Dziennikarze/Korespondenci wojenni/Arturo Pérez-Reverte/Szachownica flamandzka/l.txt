@@ -1,0 +1,4 @@
+Section: Szachownica flamandzka
+Postać: Julia
+
+Przyjaciół się nie wybiera, to oni wybierają ciebie i albo ich odrzucisz, albo przyjmiesz z dobrodziejstwem inwentarza.

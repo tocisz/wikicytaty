@@ -1,0 +1,4 @@
+Section: Eugeniusz
+Opis: przysłowie polskie
+
+Gdy w Eugeniego lód albo woda taka lipcowa będzie pogoda.

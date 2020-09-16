@@ -1,0 +1,4 @@
+Section: Marcin
+Opis: przysłowie polskie
+
+Święty Marcin woli wino, wodę pozostawia młynom.

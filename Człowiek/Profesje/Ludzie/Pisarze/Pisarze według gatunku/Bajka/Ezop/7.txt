@@ -1,0 +1,3 @@
+Section: Ezop
+
+Gdzie dwóch się bije, tam trzeci korzysta.

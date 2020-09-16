@@ -1,0 +1,3 @@
+Section: Ludwig Boltzmann
+
+Nie ma nic bardziej praktycznego niż dobra teoria.

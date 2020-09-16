@@ -1,0 +1,3 @@
+Section: William Daniel Hillis / Trzecia kultura
+
+W ostatnim czasie mój pogląd na to, co należy uwzględnić przy budowie maszyny myślącej, uległ zmianie. Kiedy startowaliśmy, naiwnie wierzyłem, ze każda część inteligencji może powstać dzięki technice. Nadal wierzę, jako pryncypium, że to możliwe, jednak zajmie to ze trzysta lat.

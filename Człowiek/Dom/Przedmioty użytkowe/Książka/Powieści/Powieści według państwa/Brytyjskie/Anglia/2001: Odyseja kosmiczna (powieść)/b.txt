@@ -1,0 +1,5 @@
+Section: 2001: Odyseja kosmiczna (powieść)
+Postać: HAL 9000
+Opis: piosenka którą przywołuje HAL to „Daisy Bell”, pierwszy utwór „zaśpiewany” przez komputer.
+
+– Moim pierwszym nauczycielem był doktor Chandra. Nauczył mnie śpiewać piosenkę. To ona: „Daisy, Dai-sy, ty mi odpowiedz, czy kochasz mnie, bo sobie coś zrobię…”

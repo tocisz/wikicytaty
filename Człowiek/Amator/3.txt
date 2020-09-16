@@ -1,0 +1,7 @@
+Section: Amator
+Opis: powiedzenie.
+Znaczenie: każda, nawet najgorsza (dla ogółu), rzecz lub osoba ma swojego wielbiciela.
+Źródło: Stanisław Skorupka, Słownik frazeologiczny języka polskiego, tom 1, Wiedza Powszechna, 1989, s. 85.
+Zobacz też: potwór
+
+Każda potwora znajdzie swego amatora.

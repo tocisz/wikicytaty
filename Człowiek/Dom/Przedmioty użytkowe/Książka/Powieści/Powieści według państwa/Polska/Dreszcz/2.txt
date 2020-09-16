@@ -1,0 +1,5 @@
+Section: Dreszcz
+Opis: o języku polskim.
+Źródło: rozdział 1, Thunderstruck, s. 35
+
+Bo coś rzeczywiście było w tym języku.(...) Może chodziło o te zabawne, urocze, ale i mordercze w wymowie głoski sprawiające, że słowa brzmiały jak wiatr szeleszczących w liściach drzew? Albo o niczym nieuzasadnione żeńskie końcówki, przez które rzeźba zawsze była kobietą, nawet gdy przedstawiała wąsatego marszałka?

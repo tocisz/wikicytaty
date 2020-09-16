@@ -1,0 +1,3 @@
+Section: Konfucjusz / C
+
+Człowiek cnotliwy dobre wypowiada słowa, ale nie zawsze ten, kto dobre powiedział słowo, jest cnotliwy.

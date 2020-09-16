@@ -1,0 +1,4 @@
+Section: George Patton
+Opis: instrukcje dla oddziału rozpoznania.
+
+Po prostu jedź tą drogą, dopóki cię nie rozpieprzą.

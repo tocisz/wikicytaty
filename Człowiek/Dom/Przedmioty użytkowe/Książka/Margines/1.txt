@@ -1,0 +1,4 @@
+Section: Margines
+Autor: Feliks Rajczak
+
+I kres ma jeszcze margines.

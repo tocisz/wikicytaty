@@ -1,0 +1,3 @@
+Section: Dan Petrescu
+
+Adam Kokoszka wszedł na boisko, gdyż jest naszym zawodnikiem.

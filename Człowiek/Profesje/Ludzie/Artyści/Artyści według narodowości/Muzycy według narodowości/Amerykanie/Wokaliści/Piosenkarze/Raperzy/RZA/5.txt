@@ -1,0 +1,4 @@
+Section: RZA
+Opis: zapytany czy jest dumny z tego, że urodził się w getcie.
+
+Tylko głupi jest dumny z tego, że pochodzi z getta, mądry chce się z niego wydostać.

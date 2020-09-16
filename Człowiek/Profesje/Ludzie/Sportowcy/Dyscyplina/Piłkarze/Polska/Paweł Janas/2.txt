@@ -1,0 +1,5 @@
+Section: Paweł Janas
+Opis: odpowiedź selekcjonera na wypowiedź reportera.
+
+– Jest pan wielkim łowczym.
+– Nie, jestem myśliwym.

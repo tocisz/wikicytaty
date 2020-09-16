@@ -1,0 +1,5 @@
+Section: Wojciech Orliński / C
+Źródło: http://wo.blox.pl/2017/03/Saryusz-Saryusz-i-po-Saryuszu.html Saryusz, Saryusz i po Saryuszu, blog Wojciecha Orlińskiego, 10 marca 2017.
+Zobacz też: Rodzina 500 plus
+
+Chwalę na przykład program „500+”. Wiele rzeczy w nim trzeba poprawić (przede wszystkim odtworzyć zasadę „złotówka za złotówkę” – jak ktoś przekroczy próg o złotówkę, powinien dostać 499, a nie zero!), ale nie ulega wątpliwości, że samym wprowadzeniem tego programu, PiS zmienił Polskę na lepsze.

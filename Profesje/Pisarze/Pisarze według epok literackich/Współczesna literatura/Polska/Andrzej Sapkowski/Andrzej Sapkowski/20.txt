@@ -1,0 +1,4 @@
+Section: Andrzej Sapkowski / Saga o wiedźminie / Wieża Jaskółki
+Opis: rozmowa Esterada z Dijkstrą.
+
+A czy ty wiesz, Dijkstra, że mieć milion i nie mieć miliona to razem dwa miliony?

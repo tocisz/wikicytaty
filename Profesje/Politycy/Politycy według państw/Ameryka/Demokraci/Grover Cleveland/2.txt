@@ -1,0 +1,4 @@
+Section: Grover Cleveland
+Opis: wydając rozkaz wysłania armii USA do stłumienia strajku kolejarzy w Chicago.
+
+Jeśli dostarczenie kartki pocztowej do Chicago będzie wymagało wysłania całej armii i floty Stanów Zjednoczonych, kartka będzie dostarczona.

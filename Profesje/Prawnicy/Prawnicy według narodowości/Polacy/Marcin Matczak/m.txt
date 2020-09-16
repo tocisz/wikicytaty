@@ -1,0 +1,4 @@
+Section: Marcin Matczak
+Źródło: https://repozytorium.amu.edu.pl/bitstream/10593/5120/3/02_Marcin_Matczak_Nadu%C5%BCycie%20kompetencji_Zarys%20problemu_17-31.pdf Nadużycie kompetencji. Zarys problemu, „Ruch Prawniczy, Ekonomiczny i Socjologiczny”, 69, 2007, 1, s. 30.
+
+W praktyce orzeczniczej Sądu Najwyższego Stanów Zjednoczonych jedną z metod oceny prawidłowości ustanowienia aktu normatywnego jest tzw. motive test. Test ten polega na analizie historii legislacyjnej - wypowiedzi kongresmanów i innych osób zaangażowanych w proces tworzenia aktu prawnego - oraz analizie tekstu uzasadnienia danego aktu w celu identyfikacji intencji, które przyświecały prawodawcom. W sytuacji, gdy tak zidentyfikowany cel (intencja) zostanie uznany za niezgodny z porządkiem prawnym lub wykazane zostanie, że akt prawny w rzeczywistości miał osiągnąć cel inny od oficjalnie deklarowanego, Sąd Najwyższy może orzec o niekonstytucyjności takiego aktu.

@@ -1,0 +1,3 @@
+Section: Księga piasku / Księga piasku
+
+Jeżeli przestrzeń jest nieskończona, jesteśmy w jakimkolwiek punkcie przestrzeni. Jeżeli czas jest nieskończony, jesteśmy w jakimkolwiek punkcie czasu.

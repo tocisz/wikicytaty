@@ -1,0 +1,4 @@
+Section: Dziennikarz
+Autor: Łukasz Kadziewicz
+
+Prawdziwy dziennikarz musi mieć świadomość, że należy do środowiska opiniotwórczego, że jego teksty czytają tysiące, a nawet miliony kibiców, więc czasami delikatniej trzeba podchodzić do pewnych problemów. Głupotę można napisać zawsze – przecież papier przyjmie wszystko, a odwoływanie potem tego wszystkiego małą czcionką na szesnastej stronie – to chyba nie ma sensu.

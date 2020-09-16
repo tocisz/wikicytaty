@@ -1,0 +1,6 @@
+Section: Mark Haddon / Dziwny przypadek psa nocną porą
+Opis: o liczbach pierwszych.
+Źródło: rozdział 19
+Zobacz też: liczba
+
+Myślę, że te liczby są jak życie – bardzo logiczne, tylko że nigdy nie da się odkryć rządzących nimi reguł, choćby myślało się cały czas.

@@ -1,0 +1,4 @@
+Section: Zegar
+Autor: Wojciech Bartoszewski
+
+Nie wierzcie zegarom – czas wymyślił je dla zabawy.

@@ -1,0 +1,5 @@
+Section: Karel Čapek / Fabryka absolutu
+Opis: początek powieści.
+Źródło: rozdz. 1, Ogłoszenie
+
+W Nowy Rok 1943 pan G.H. Bondy, prezes zakładów MEAS, czytał sobie gazetę, jak zwykle, trochę niegrzecznie przeskoczył wiadomości wojenne, uchylił się od czytania o przesileniu gabinetowym i na pełnych żaglach (tak, na pełnych żaglach, bo „Gazeta Ludowa” już dawno powiększyła swój format pięciokrotnie i płachty jej nadawałyby się nawet do żeglugi morskiej) wpłynął na obszary gospodarki narodowej. Krążył przez chwilę tam i sam, po czym zwinął żagle i pozwolił kołysać się marzeniom.

@@ -1,0 +1,4 @@
+Section: Gospodarz
+Autor: Tadeusz Kotarbiński
+
+Gość ma zwykle więcej czasu niż gospodarz.

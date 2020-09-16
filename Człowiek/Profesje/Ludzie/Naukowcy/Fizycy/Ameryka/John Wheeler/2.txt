@@ -1,0 +1,3 @@
+Section: John Wheeler
+
+Czasoprzestrzeń dyktuje masie jak się poruszać, a masa dyktuje czasoprzestrzeni jak się zakrzywiać.

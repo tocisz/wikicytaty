@@ -1,0 +1,4 @@
+Section: Chłop
+Opis: przysłowie łużyckie
+
+Ksiądz żyje z tacy, a chłop z pracy.

@@ -1,0 +1,4 @@
+Section: Człowiek / C
+Autor: Marcin Luter
+
+Człowiek jest dla człowieka pierwszą rzeczywistością.

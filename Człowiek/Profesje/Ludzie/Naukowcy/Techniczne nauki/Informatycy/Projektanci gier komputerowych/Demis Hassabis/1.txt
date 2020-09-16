@@ -1,0 +1,5 @@
+Section: Demis Hassabis
+Opis: o sztucznej inteligencji.
+Źródło: Artur Włodarski, http://wyborcza.pl/magazyn/7,124059,20870967,sztuczna-inteligencja-bog-juz-istnieje.html#BoxGWImg Sztuczna inteligencja. Bóg już istnieje, wyborcza.pl, 22 października 2016.
+
+Chcę ją rozwinąć tak, by rozwiązała wszystkie nasze problemy, jak głód, choroby, bezdomność czy globalne ocieplenie. To będzie program Apollo XXI wieku.

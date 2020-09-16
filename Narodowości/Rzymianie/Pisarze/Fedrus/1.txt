@@ -1,0 +1,3 @@
+Section: Fedrus
+
+Kto raz skłamał, temu się nie wierzy, nawet gdy mówi prawdę.

@@ -1,0 +1,3 @@
+Section: Cyfrowa twierdza
+
+Szyfr, którego nie można złamać? A co TO ma znaczyć? Nie ma czegoś takiego jak szyfr, którego nie da się złamać. Złamanie niektórych szyfrów wymaga więcej czasu niż złamanie innych, ale zawsze jest to możliwe.

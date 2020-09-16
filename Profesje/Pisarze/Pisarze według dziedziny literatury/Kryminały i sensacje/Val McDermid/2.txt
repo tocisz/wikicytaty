@@ -1,0 +1,4 @@
+Section: Val McDermid / Miejsce egzekucji
+Źródło: prolog
+
+Choć życie miało wiele wad i niedostatków, alternatywa okazywała się nieskończenie gorsza.

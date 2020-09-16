@@ -1,0 +1,5 @@
+Section: Święty
+Znaczenie: to nie jest wcale takie trudne.
+Opis: przysłowie polskie
+
+Nie święci garnki lepią.

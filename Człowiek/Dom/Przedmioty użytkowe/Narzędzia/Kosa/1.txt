@@ -1,0 +1,5 @@
+Section: Kosa
+Opis: przysłowie polskie
+Źródło: Janusz Berner, Mądrej głowie dość… przysłowie, Stopka, Łomża 1992, s. 158.
+
+Czyja kosa pierwsza, tego łąka szersza.

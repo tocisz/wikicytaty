@@ -1,0 +1,4 @@
+Section: Filip
+Opis: przysłowie polskie
+
+Na świętego Filipa jeśli deszcz rzęsisty, będzie plon dobry i czysty.

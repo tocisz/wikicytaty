@@ -1,0 +1,4 @@
+Section: Żołnierz
+Autor: Napoleon Bonaparte
+
+Każdy żołnierz nosi buławę w tornistrze.

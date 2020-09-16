@@ -1,0 +1,5 @@
+Section: Lekarz
+Opis: powiedzenie; żart z okresu starożytnego Rzymu.
+Znaczenie: nawiązuje do praktyk umożliwiania znacznej liczbie przyszłych lekarzy („studentów”) badanie jednego chorego.
+
+Sto zimnych rąk dotknęło mego ciała; dotąd nie miałem gorączki – teraz ją mam.

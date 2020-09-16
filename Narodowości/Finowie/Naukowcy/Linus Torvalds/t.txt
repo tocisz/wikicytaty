@@ -1,0 +1,4 @@
+Section: Linus Torvalds / P
+Źródło: Eric S. Raymond, http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s03.html The Cathedral and the Bazaar: The Importance of Having Users
+
+Po prostu jestem bardzo leniwy i uwielbiam, gdy przypisuje mi się to, co naprawdę zrobili inni.

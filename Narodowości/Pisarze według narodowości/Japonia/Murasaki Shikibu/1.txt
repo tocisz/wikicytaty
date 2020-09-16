@@ -1,0 +1,5 @@
+Section: Murasaki Shikibu
+Opis: Opowieść o księciu Genji (jap. Genji monogatari), rozdz. 25: Świetliki (jap. Hotaru), tłum. Mikołaj Melanowicz.
+Źródło: Mikołaj Melanowicz, Literatura japońska, t. I: Od VI do połowy XIX wieku, Wydawnictwo Naukowe PWN, Warszawa 1994, ISBN 83-01-11218-2, s. 162.
+
+Autor nie opowiada w nich [= w opowieściach] o konkretnych zdarzeniach z życia określonego człowieka, a po prostu spisuje to, co jego serce przepełnia wzruszeniem; pragnie bowiem przekazać innym pokoleniom zarówno dobre jak i złe, zarówno to, co oglądał nie zaznawszy przesytu, i co bardzo często słyszał o życiu ludzi na tym świecie.

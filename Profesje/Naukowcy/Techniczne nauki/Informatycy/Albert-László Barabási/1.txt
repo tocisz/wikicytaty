@@ -1,0 +1,4 @@
+Section: Albert-László Barabási
+Źródło: Limits of Predictability in Human Mobility, „Science”, 19 lutego 2010.
+
+Na podstawie danych historycznych z telefonów komórkowych (analiza wstecz sięgająca pół roku) możemy z 93 proc. prawdopodobieństwem określić przyszłe położenie abonenta. Prawdopodobieństwo to opisywane jest rozkładem normalnym, najniższy wynik w badanej próbie wynosił 80 proc. Ergo, wszyscy jesteśmy przewidywalni.

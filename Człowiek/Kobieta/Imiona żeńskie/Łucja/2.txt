@@ -1,0 +1,4 @@
+Section: Łucja
+Opis: przysłowie polskie
+
+Święta Łucja głosi, jaką pogodę styczeń przynosi.

@@ -1,0 +1,3 @@
+Section: Alon Mizrahi
+
+Problem drużyn z Izraela w rozgrywkach europejskich jest taki, że mają 3 sytuacje w meczu, ale strzelają z nich jedynie 2 gole. Nie możesz odnieść sukcesu, jeżeli wykorzystujesz tylko 80% szans.

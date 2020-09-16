@@ -1,0 +1,4 @@
+Section: Wincenty Kosiakiewicz
+Opis: Fragment książki Idea konserwatywna. Próba doktryny, Warszawa 1913, s. 9–10.
+
+Ten wielki nowożytny ruch demokratyczny zaczął się niby wybuch wulkanu, niby trzęsienie ziemi wraz z Rewolucją Francuską. Od razu też została rzucona w świat nowa doktryna i rozleciała się na wszystkie strony świata, niby dobra nowina, nowa ewangelia, na skrzydłach haseł Wolności, Równości i Braterstwa. Te ideały miały losy szczególne. Braterstwa nie próbowano nigdy. Wolność szybko skończyła swą karierę. Dla jakobinów, twórców doktryny demokratycznej, była to zawsze wolność... myślenia tak jak oni (...) Równość pogrzebała Wolność. Pokazało się, po głębszem zastanowieniu, że niema sposobu zaprowadzenia Równości, jeżeli się pozostawi ludziom Wolność (...)

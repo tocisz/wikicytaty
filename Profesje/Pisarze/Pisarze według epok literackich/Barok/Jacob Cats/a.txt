@@ -1,0 +1,3 @@
+Section: Jacob Cats
+
+Każdy jest architektem własnego losu.

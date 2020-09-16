@@ -1,0 +1,6 @@
+Section: Jerzy Różycki / O Jerzym Różyckim
+Autor: Krzysztof Kowalski
+Opis: o katastrofie statku „Lamoricière”, w której zginął Jerzy Różycki.
+Źródło: http://www.rp.pl/artykul/179389-Na-dnie-kolo-Minorki-lezy-statek-z-pogromcami-Enigmy.html#ap-1 Na dnie koło Minorki leży statek z pogromcami Enigmy, rp.pl
+
+Katastrofę przeżyły 93 osoby. Niestety, nie było wśród nich Polaka, wybitnego matematyka Jerzego Różyckiego. To on wraz z Marianem Rejewskim i Henrykiem Zygalskim w styczniu 1933 roku pomogli złamać kod niemieckiej maszyny szyfrującej Enigma, zbudowali jej działającą kopię oraz urządzenie odczytujące szyfrogramy Enigmy. Różycki znalazł się na pokładzie „Lamoricière”, ponieważ wracał z Algieru do ośrodka dekryptażu Kadyks ulokowanego w nieokupowanej przez Niemców części Francji. Wraz z Różyckim podróżowali także dwaj inni polscy kryptolodzy oraz towarzyszący im francuski oficer: kapitan Jan Graliński, Piotr Smoleński i kapitan François Lane.

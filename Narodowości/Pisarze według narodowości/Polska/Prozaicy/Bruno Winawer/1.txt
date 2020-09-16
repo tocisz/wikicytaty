@@ -1,0 +1,3 @@
+Section: Bruno Winawer
+
+Każdy ma swój własny punkt widzenia, ale nie każdy coś widzi.

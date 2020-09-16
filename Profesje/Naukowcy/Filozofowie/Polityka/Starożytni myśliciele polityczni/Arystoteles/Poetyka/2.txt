@@ -1,0 +1,3 @@
+Section: Poetyka
+
+(…) najpierw należy skupić się na ogólnej strukturze, dopiero potem wypełnić luki i podkreślić szczegóły.

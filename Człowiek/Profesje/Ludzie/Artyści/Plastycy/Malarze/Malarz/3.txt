@@ -1,0 +1,4 @@
+Section: Malarz
+Autor: Leonardo da Vinci
+
+Dobry malarz musi namalować dwie rzeczy: człowieka oraz istotę jego duszy.

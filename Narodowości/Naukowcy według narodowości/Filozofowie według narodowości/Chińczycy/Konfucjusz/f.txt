@@ -1,0 +1,3 @@
+Section: Konfucjusz / C
+
+Człowiek szlachetny stara się, by inni byli dobrzy. Prostak czyni odwrotnie.

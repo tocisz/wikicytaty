@@ -1,0 +1,3 @@
+Section: Maskarada
+
+Jedna z zasad obowiązujących pewien typ architektury budownictwa publicznego głosi, że architektura owa zdarza się tylko od frontu.

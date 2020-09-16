@@ -1,0 +1,4 @@
+Section: Aleksander Bursche
+Źródło: Tygodnik Przegląd, kwiecień 2012, rozmawiał Bronisław Tumiłowicz https://www.tygodnikprzeglad.pl/archeolog-czesciej-bez-lopaty/ Archeolog częściej bez łopaty www.tygodnikprzeglad.pl
+
+Współcześnie coraz częściej sięga się po różnorodne metody bezinwazyjne, bez używania łopaty, wykorzystujące zdjęcia lotnicze, metody geofizyczne, pomiary laserowe, GPS, skanery, rekonstrukcje komputerowe w 3D i inne sposoby dokumentowania obiektów.

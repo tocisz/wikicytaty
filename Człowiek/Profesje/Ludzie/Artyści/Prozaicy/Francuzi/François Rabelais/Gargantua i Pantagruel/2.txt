@@ -1,0 +1,5 @@
+Section: Gargantua i Pantagruel
+Opis: jedyna reguła klasztoru Telemy.
+Źródło: Księga I
+
+Czyń, coć się podoba.

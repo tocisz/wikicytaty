@@ -1,0 +1,4 @@
+Section: Dom / J
+Opis: przysłowie amerykańskie
+
+Jeśli mieszkasz w szklanym domu, nie rzucaj kamieniami.

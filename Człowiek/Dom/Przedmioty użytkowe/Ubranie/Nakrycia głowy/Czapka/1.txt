@@ -1,0 +1,4 @@
+Section: Czapka
+Opis: przysłowie ludowe, XIX wiek
+
+Czapka na uchu, a wesz na brzuchu.

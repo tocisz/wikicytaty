@@ -1,0 +1,4 @@
+Section: Linus Torvalds / T
+Źródło: Peter Galli, http://www.eweek.com/c/a/Past-News/Torvalds-Speaks-Out-on-SCO-Linux/1/ Torvalds Speaks Out on SCO, Linux, eWeek 23 czerwca 2003 (1 marca 2008)
+
+Twierdzę, że SCO plecie bzdury.

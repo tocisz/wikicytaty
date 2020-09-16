@@ -1,0 +1,5 @@
+Section: Marek Bieńczyk
+Opis: pierwszy akapit powieści.
+Źródło: Terminal
+
+Coś wam opowiem, po to żyję, zresztą suchej kości pióro się nie trzyma, a wy po to być może kupiliście tę książkę, po to, by dowiedzieć się, co słychać u innych, i to jest wspaniałe, tyle że ja niczego nowego sobie nie sprawiłem i nigdzie się nie wybieram. Moja historia jest o miłości, od razu mówię.

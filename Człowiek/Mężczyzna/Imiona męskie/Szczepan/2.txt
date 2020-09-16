@@ -1,0 +1,4 @@
+Section: Szczepan
+Opis: przysłowie polskie
+
+W dzień świętego Szczepana rzucają owsem w kapłana.

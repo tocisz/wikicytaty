@@ -1,0 +1,5 @@
+Section: Isaac Newton / Philosophiae naturalis. Principia mathematica (1687)
+Opis: tłum. Sławomir Brzezowski.
+Zobacz też: pęd
+
+Zmiana pędu jest zawsze proporcjonalna do wywartej siły napędzającej i dokonuje się w kierunku linii prostej, wzdłuż której ta siła działa.

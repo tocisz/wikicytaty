@@ -1,0 +1,4 @@
+Section: Andriej Sacharow
+Opis: w 1974.
+
+Przewiduję powstanie uniwersalnego systemu informacji który umożliwi każdemu dostęp w każdym momencie do zawartości każdej książki, magazynu lub jakiegokolwiek faktu. System ten będzie miał osobne mikrokomputery jako terminale, główne punkty kontrolne przepływu informacji, i kanały komunikacyjne na tysiące różnych sposobów od satelitów przez kable aż po linie laserowe. Nawet częściowa realizacja tego systemu częściowo będzie oddziaływała na każdego człowieka, na jego rozrywkę oraz jego intelektualny i emocjonalny rozwój. Ale prawdziwie historyczną rolą tego systemu będzie złamanie granic w wymianie informacji między krajami i ludźmi.

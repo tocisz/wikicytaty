@@ -1,0 +1,5 @@
+Section: Geometria dla najmłodszych
+Postać: Ołówek
+Źródło: s. 64
+
+Żeby z trzech patyczków zbudować trójkąt, musi być tak, że którekolwiek dwa patyczki złączone razem są dłuższe od trzeciego.

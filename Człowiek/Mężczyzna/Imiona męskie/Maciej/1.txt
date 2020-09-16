@@ -1,0 +1,4 @@
+Section: Maciej
+Opis: powiedzenie
+
+I tak w koło Macieju.

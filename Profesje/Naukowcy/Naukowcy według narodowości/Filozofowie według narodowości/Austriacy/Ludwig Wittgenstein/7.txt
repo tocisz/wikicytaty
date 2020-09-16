@@ -1,0 +1,3 @@
+Section: Ludwig Wittgenstein / Tractatus Logico-Philosophicus
+
+2.024 Substancja jest tym, co istnieje niezależnie od tego, co jest faktem.

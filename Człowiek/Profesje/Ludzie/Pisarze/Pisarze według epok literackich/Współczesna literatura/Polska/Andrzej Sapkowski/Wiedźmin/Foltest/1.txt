@@ -1,0 +1,4 @@
+Section: Foltest / Wiedźmin 1 (gra komputerowa)
+Opis: w rozmowie z Geraltem w prywatnej komnacie króla, kiedy temat rozmowy zejdzie na życie prywatne Geralta (wypowiadane w przypadku powiadomienia króla, że Triss lub Shani to tylko przyjaciółka – początek aktu V).
+
+Nie ma przyjaźni między mężczyzną i kobietą.
